@@ -1,0 +1,5 @@
+{"canonical_id":"T20n1127:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"9a38241d1f1a","parser_pid":"p000001","juan_num":1,"kind":"verse"}
+{"canonical_id":"T20n1127:p0542a02-p0542a05","start_ref":"p0542a02","end_ref":"p0542a05","content_hash":"5b96e7479780","parser_pid":"p000002","juan_num":1,"kind":"prose"}
+{"canonical_id":"T20n1127:p0542a06-p0542a10","start_ref":"p0542a06","end_ref":"p0542a10","content_hash":"2f1fbcdfb1fe","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"T20n1127:p0542a11-p0542a23","start_ref":"p0542a11","end_ref":"p0542a23","content_hash":"aa50d11cd13c","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"T20n1127:p0542a24-p0542b27","start_ref":"p0542a24","end_ref":"p0542b27","content_hash":"065af1b940f2","parser_pid":"p000005","juan_num":1,"kind":"prose"}
