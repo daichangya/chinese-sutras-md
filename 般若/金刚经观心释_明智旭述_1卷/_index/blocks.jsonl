@@ -1,0 +1,12 @@
+{"canonical_id":"X25n0480:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"5f6b667f0a13","parser_pid":"p000001","juan_num":1,"kind":"verse"}
+{"canonical_id":"X25n0480:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"3a49a9af9b0a","parser_pid":"p000002","juan_num":1,"kind":"verse"}
+{"canonical_id":"X25n0480:p0296a05-p0296a13","start_ref":"p0296a05","end_ref":"p0296a13","content_hash":"cfd87454a654","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0296a13-p0296a18","start_ref":"p0296a13","end_ref":"p0296a18","content_hash":"2966bc08681e","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0296a18-p0296b04","start_ref":"p0296a18","end_ref":"p0296b04","content_hash":"0ce63b699032","parser_pid":"p000005","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0296b04-p0296b10","start_ref":"p0296b04","end_ref":"p0296b10","content_hash":"e7d3dbf3c17f","parser_pid":"p000006","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0296b10-p0297a01","start_ref":"p0296b10","end_ref":"p0297a01","content_hash":"deb4ec060f3c","parser_pid":"p000007","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0297a01-p0297a12","start_ref":"p0297a01","end_ref":"p0297a12","content_hash":"43fca00387fe","parser_pid":"p000008","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0297a12-p0297a16","start_ref":"p0297a12","end_ref":"p0297a16","content_hash":"e396d2c2ffb0","parser_pid":"p000009","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0297a16-p0297b06","start_ref":"p0297a16","end_ref":"p0297b06","content_hash":"e7223c6cf808","parser_pid":"p000010","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0297b06-p0297b12","start_ref":"p0297b06","end_ref":"p0297b12","content_hash":"c9a913469251","parser_pid":"p000011","juan_num":1,"kind":"prose"}
+{"canonical_id":"X25n0480:p0297b12-p0298a01","start_ref":"p0297b12","end_ref":"p0298a01","content_hash":"804a0356bf5b","parser_pid":"p000012","juan_num":1,"kind":"prose"}
