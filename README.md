@@ -95,3 +95,17 @@ npm run corpus:audit-zaijia-all
 ## 许可与来源
 
 正文来源于 [CBETA](https://www.cbeta.org/) 电子佛典；使用前请遵守 CBETA 及相关版权约定。
+
+## 首次推送到 GitHub（分批）
+
+语料体积大（~3GB），建议按部类分批 push：
+
+```bash
+cd chinese-sutras-md
+./push-by-dept.sh              # 全量：README + 23 部类，约 24 次 push
+./push-by-dept.sh --resume       # 中断后续推（跳过已有 commit）
+./push-by-dept.sh --dept 般若    # 仅推指定部类
+./push-by-dept.sh --dry-run      # 预览计划
+```
+
+日志默认写入 `.push-log.txt`（已 gitignore）。

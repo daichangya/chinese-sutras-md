@@ -33,8 +33,41 @@ branch="${GIT_BRANCH:-main}"
 
 log() { echo "[push-by-dept] $*"; }
 
+push_with_retry() {
+  local tries=0
+  while (( tries < 5 )); do
+    if git push "$@"; then
+      return 0
+    fi
+    tries=$((tries + 1))
+    log "push failed, retry $tries/5 in 15s..."
+    sleep 15
+  done
+  log "push failed after 5 attempts"
+  return 1
+}
+
+push_if_needed() {
+  if $DRY_RUN; then
+    return 0
+  fi
+  if git rev-parse --abbrev-ref --symbolic-full-name "@{u}" &>/dev/null; then
+    local ahead
+    ahead="$(git rev-list --count "@{u}..HEAD" 2>/dev/null || echo 0)"
+    if [[ "$ahead" -gt 0 ]]; then
+      log "pushing $ahead unpushed commit(s)..."
+      push_with_retry "$remote" "$branch"
+    fi
+  fi
+}
+
 has_commit_message() {
   git log --format=%s 2>/dev/null | grep -Fxq "$1"
+}
+
+dept_already_tracked() {
+  local dept="$1"
+  [[ -n "$(git ls-files "$dept/" 2>/dev/null | head -1)" ]]
 }
 
 commit_and_push() {
@@ -54,13 +87,13 @@ commit_and_push() {
     return 0
   fi
 
-  git commit -m "$msg"
+  git commit -q -m "$msg"
   log "committed: $msg"
 
   if ! git rev-parse --abbrev-ref --symbolic-full-name "@{u}" &>/dev/null; then
-    git push -u "$remote" "$branch"
+    push_with_retry -u "$remote" "$branch"
   else
-    git push "$remote" "$branch"
+    push_with_retry "$remote" "$branch"
   fi
   log "pushed: $msg"
 }
@@ -74,6 +107,8 @@ if [[ -n "$DEPT_FILTER" ]]; then
   DEPTS=("$DEPT_FILTER")
 fi
 
+push_if_needed
+
 bootstrap_msg="chore: add README and batch push tooling"
 if $RESUME && has_commit_message "$bootstrap_msg"; then
   log "skip bootstrap (already committed)"
@@ -85,8 +120,8 @@ fi
 
 for dept in "${DEPTS[@]}"; do
   msg="Add corpus: $dept"
-  if $RESUME && has_commit_message "$msg"; then
-    log "skip dept (already committed): $dept"
+  if $RESUME && { has_commit_message "$msg" || dept_already_tracked "$dept"; }; then
+    log "skip dept (already in repo): $dept"
     continue
   fi
   if [[ ! -d "$dept" ]]; then
