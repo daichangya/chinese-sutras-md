@@ -1,0 +1,11 @@
+{"canonical_id":"T17n0804:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"0c717e32dcdd","parser_pid":"p000001","juan_num":1,"kind":"verse"}
+{"canonical_id":"T17n0804:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"09727ba713ac","parser_pid":"p000002","juan_num":1,"kind":"verse"}
+{"canonical_id":"T17n0804:p0749c22-p0749c22","start_ref":"p0749c22","end_ref":"p0749c22","content_hash":"f4364a806632","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0749c22-p0749c22~2","start_ref":"p0749c22","end_ref":"p0749c22","content_hash":"7a528aeb5f3a","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0749c23-p0750a02","start_ref":"p0749c23","end_ref":"p0750a02","content_hash":"abf2f2e069f8","parser_pid":"p000005","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750a02-p0750a10","start_ref":"p0750a02","end_ref":"p0750a10","content_hash":"160926c6c49d","parser_pid":"p000006","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750a11-p0750a20","start_ref":"p0750a11","end_ref":"p0750a20","content_hash":"9d59b644f50b","parser_pid":"p000007","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750a20-p0750a26","start_ref":"p0750a20","end_ref":"p0750a26","content_hash":"76e62df225da","parser_pid":"p000008","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750a26-p0750b01","start_ref":"p0750a26","end_ref":"p0750b01","content_hash":"a60224ee2452","parser_pid":"p000009","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750b02-p0750b05","start_ref":"p0750b02","end_ref":"p0750b05","content_hash":"6eb94e22167e","parser_pid":"p000010","juan_num":1,"kind":"prose"}
+{"canonical_id":"T17n0804:p0750b05-p0750b06","start_ref":"p0750b05","end_ref":"p0750b06","content_hash":"9495d5bfcf4a","parser_pid":"p000011","juan_num":1,"kind":"prose"}
