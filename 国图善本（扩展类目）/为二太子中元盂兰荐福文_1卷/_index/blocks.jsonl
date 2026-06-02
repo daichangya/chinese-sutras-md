@@ -1,0 +1,4 @@
+{"canonical_id":"D53n8952:p0001a01-p0002a07","start_ref":"p0001a01","end_ref":"p0002a07","content_hash":"427e1e6476dd","parser_pid":"p000001","juan_num":1,"kind":"prose"}
+{"canonical_id":"D53n8952:p0002a08-p0003a04","start_ref":"p0002a08","end_ref":"p0003a04","content_hash":"8389af18e4b5","parser_pid":"p000002","juan_num":1,"kind":"prose"}
+{"canonical_id":"D53n8952:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"4e31a18e0a12","parser_pid":"p000003","juan_num":1,"kind":"verse"}
+{"canonical_id":"D53n8952:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"52b8437dc31a","parser_pid":"p000004","juan_num":1,"kind":"verse"}
