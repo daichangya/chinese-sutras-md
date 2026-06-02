@@ -80,8 +80,8 @@ if (( ${#FILES_TO_ADD[@]} > 0 )); then
 
     # --- 步骤 4: 执行 git commit ---
     echo ""
-    echo "Executing: git commit -m 'poems'"
-    if git commit -m "poems"; then
+    echo "Executing: git commit -m 'sutras'"
+    if git commit -m "sutras"; then
         echo "✅ Successfully committed changes."
 
         # --- 步骤 5: 执行 git push ---
