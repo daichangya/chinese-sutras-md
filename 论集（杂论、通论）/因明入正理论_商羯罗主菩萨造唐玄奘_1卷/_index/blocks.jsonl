@@ -1,0 +1,17 @@
+{"canonical_id":"T32n1630:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"95d2d436c5c6","parser_pid":"p000001","juan_num":1,"kind":"verse"}
+{"canonical_id":"T32n1630:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"f24cffac6cb5","parser_pid":"p000002","juan_num":1,"kind":"verse"}
+{"canonical_id":"T32n1630:p0011b01-p0011b05","start_ref":"p0011b01","end_ref":"p0011b05","content_hash":"3868e127e04e","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011b06-p0011b12","start_ref":"p0011b06","end_ref":"p0011b12","content_hash":"f47f142c5b99","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011b13-p0011b18","start_ref":"p0011b13","end_ref":"p0011b18","content_hash":"9fc889a35a20","parser_pid":"p000005","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011b19-p0011b23","start_ref":"p0011b19","end_ref":"p0011b23","content_hash":"f8fa8e259580","parser_pid":"p000006","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011b24-p0011c08","start_ref":"p0011b24","end_ref":"p0011c08","content_hash":"dddec2dcb1f6","parser_pid":"p000007","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011c09-p0011c10","start_ref":"p0011c09","end_ref":"p0011c10","content_hash":"5bab562487a8","parser_pid":"p000008","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011c11-p0011c16","start_ref":"p0011c11","end_ref":"p0011c16","content_hash":"84df2ddfba69","parser_pid":"p000009","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0011c17-p0012a14","start_ref":"p0011c17","end_ref":"p0012a14","content_hash":"b2da3a45d170","parser_pid":"p000010","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012a15-p0012a29","start_ref":"p0012a15","end_ref":"p0012a29","content_hash":"c344dd2d335e","parser_pid":"p000011","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012b01-p0012b16","start_ref":"p0012b01","end_ref":"p0012b16","content_hash":"982b087ca84a","parser_pid":"p000012","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012b17-p0012b26","start_ref":"p0012b17","end_ref":"p0012b26","content_hash":"6ab4067e554b","parser_pid":"p000013","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012b27-p0012c05","start_ref":"p0012b27","end_ref":"p0012c05","content_hash":"4c425e3f07d6","parser_pid":"p000014","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012c06-p0012c11","start_ref":"p0012c06","end_ref":"p0012c11","content_hash":"d79850e32d15","parser_pid":"p000015","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012c12-p0012c20","start_ref":"p0012c12","end_ref":"p0012c20","content_hash":"5e219d0f0b80","parser_pid":"p000016","juan_num":1,"kind":"prose"}
+{"canonical_id":"T32n1630:p0012c25-p0013b07","start_ref":"p0012c25","end_ref":"p0013b07","content_hash":"d14aa8ee12b6","parser_pid":"p000017","juan_num":1,"kind":"prose"}
