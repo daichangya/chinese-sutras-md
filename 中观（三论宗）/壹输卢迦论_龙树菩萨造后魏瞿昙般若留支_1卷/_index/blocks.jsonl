@@ -1,0 +1,6 @@
+{"canonical_id":"T30n1573:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"39c13fa510ec","parser_pid":"p000001","juan_num":1,"kind":"verse"}
+{"canonical_id":"T30n1573:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"14b9627f8937","parser_pid":"p000002","juan_num":1,"kind":"verse"}
+{"canonical_id":"T30n1573:p0253a09-p0253a10","start_ref":"p0253a09","end_ref":"p0253a10","content_hash":"41e18660149f","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"T30n1573:p0253a10-p0253a17","start_ref":"p0253a10","end_ref":"p0253a17","content_hash":"936e9d2d8f4d","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"T30n1573:p0253a20-p0253b21","start_ref":"p0253a20","end_ref":"p0253b21","content_hash":"53b026207d7e","parser_pid":"p000005","juan_num":1,"kind":"prose"}
+{"canonical_id":"T30n1573:p0253b21-p0253c25","start_ref":"p0253b21","end_ref":"p0253c25","content_hash":"60c89732ffce","parser_pid":"p000006","juan_num":1,"kind":"prose"}
