@@ -1,0 +1,17 @@
+{"canonical_id":"J15nB005:p0643a12-p0643a27","start_ref":"p0643a12","end_ref":"p0643a27","content_hash":"2aabcae59f8d","parser_pid":"p000001","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0643a27-p0643b16","start_ref":"p0643a27","end_ref":"p0643b16","content_hash":"24782ac6fda8","parser_pid":"p000002","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0643b17-p0643c06","start_ref":"p0643b17","end_ref":"p0643c06","content_hash":"2c282344f99c","parser_pid":"p000003","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0643c07-p0643c18","start_ref":"p0643c07","end_ref":"p0643c18","content_hash":"fbacb1e6759e","parser_pid":"p000004","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0643c19-p0643c21","start_ref":"p0643c19","end_ref":"p0643c21","content_hash":"4e25bc32504c","parser_pid":"p000005","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0643c22-p0644a10","start_ref":"p0643c22","end_ref":"p0644a10","content_hash":"b9446e78795c","parser_pid":"p000006","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0644a12-p0644b03","start_ref":"p0644a12","end_ref":"p0644b03","content_hash":"fed2797cda23","parser_pid":"p000007","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0644b05-p0644b29","start_ref":"p0644b05","end_ref":"p0644b29","content_hash":"0d1e1d379866","parser_pid":"p000008","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0644c01-p0645a03","start_ref":"p0644c01","end_ref":"p0645a03","content_hash":"7bb89f1c9233","parser_pid":"p000009","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0645a05-p0645a15","start_ref":"p0645a05","end_ref":"p0645a15","content_hash":"8e0d8ce117f0","parser_pid":"p000010","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0645a17-p0645b17","start_ref":"p0645a17","end_ref":"p0645b17","content_hash":"9873a4c2cffe","parser_pid":"p000011","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0645b18-p0645b24","start_ref":"p0645b18","end_ref":"p0645b24","content_hash":"fbf38ffbcfc9","parser_pid":"p000012","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0645b25-p0646a16","start_ref":"p0645b25","end_ref":"p0646a16","content_hash":"2f99f5c7e9fb","parser_pid":"p000013","juan_num":1,"kind":"prose"}
+{"canonical_id":"J15nB005:p0000a00-p0000a00","start_ref":null,"end_ref":null,"content_hash":"10e51b3bed35","parser_pid":"p000014","juan_num":1,"kind":"verse"}
+{"canonical_id":"J15nB005:p0000a00-p0000a00~2","start_ref":null,"end_ref":null,"content_hash":"38e385aa70dd","parser_pid":"p000015","juan_num":1,"kind":"verse"}
+{"canonical_id":"J15nB005:p0000a00-p0000a00~3","start_ref":null,"end_ref":null,"content_hash":"da8c4166b3d1","parser_pid":"p000016","juan_num":1,"kind":"verse"}
+{"canonical_id":"J15nB005:p0000a00-p0000a00~4","start_ref":null,"end_ref":null,"content_hash":"07902dc6b7d4","parser_pid":"p000017","juan_num":1,"kind":"verse"}
