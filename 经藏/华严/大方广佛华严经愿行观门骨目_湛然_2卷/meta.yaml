@@ -1,0 +1,18 @@
+cbeta_id: T36n1742
+title: 大方广佛华严经愿行观门骨目
+translator: 唐 湛然撰
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T0279 华严经 80卷 T10／疏 T35-36,85, X05,07, U222-223, L130-133
+  path:
+    - 05 华严部类
+    - T09b-10 华严部／疏 T35-36,85, X05,07, U222-223, L130-133
+    - T0279 华严经 80卷 T10／疏 T35-36,85, X05,07, U222-223, L130-133
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T36/T36n1742.xml

@@ -1,0 +1,17 @@
+cbeta_id: F28n1081
+title: 一乘法界图合诗一印
+translator: 俨法师造
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T1887A,87B, F1081 华严一乘法界图 etc.
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+    - T1887A,87B, F1081 华严一乘法界图 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F28/F28n1081.xml

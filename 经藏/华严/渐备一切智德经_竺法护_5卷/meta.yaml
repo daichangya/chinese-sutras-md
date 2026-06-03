@@ -1,0 +1,17 @@
+cbeta_id: T10n0285
+title: 渐备一切智德经
+translator: 西晋 竺法护译
+dynasty: 西晋
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T09b-10 华严部／疏 T35-36,85, X05,07, U222-223, L130-133
+  path:
+    - 05 华严部类
+    - T09b-10 华严部／疏 T35-36,85, X05,07, U222-223, L130-133
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - T/T10/T10n0285.xml

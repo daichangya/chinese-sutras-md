@@ -1,0 +1,17 @@
+cbeta_id: F28n1076
+title: 发菩提心戒
+translator: 石经寺主讲经律沙门志仙记
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: X1469-78, F1076 华严礼忏仪 etc.
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+    - X1469-78, F1076 华严礼忏仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F28/F28n1076.xml

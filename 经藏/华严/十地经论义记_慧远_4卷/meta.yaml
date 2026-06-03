@@ -1,0 +1,18 @@
+cbeta_id: X45n0753
+title: 十地经论义记
+translator: 隋 慧远撰
+dynasty: 隋
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T1522 十地经论 T26a／疏 T85, X45
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+    - T1522 十地经论 T26a／疏 T85, X45
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - X/X45/X45n0753.xml

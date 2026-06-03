@@ -1,0 +1,18 @@
+cbeta_id: X74n1478
+title: 依楞严究竟事忏
+translator: 明 禅修述
+dynasty: 明
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: X1469-78, F1076 华严礼忏仪 etc.
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+    - X1469-78, F1076 华严礼忏仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X74/X74n1478.xml

@@ -1,0 +1,17 @@
+cbeta_id: F28n1082
+title: 释华严漩澓偈
+translator: 南岳般舟道场比丘惟劲释
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: F1082-83 漩澓偈 etc.
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+    - F1082-83 漩澓偈 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F28/F28n1082.xml

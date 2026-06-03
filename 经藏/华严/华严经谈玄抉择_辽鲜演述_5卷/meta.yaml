@@ -1,0 +1,17 @@
+cbeta_id: X08n0235
+title: 华严经谈玄抉择
+translator: 辽 鲜演述
+dynasty: 辽
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T45, X03,08-09,58,74, F28 华严宗
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - X/X08/X08n0235.xml

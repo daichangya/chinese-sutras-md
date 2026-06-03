@@ -1,0 +1,17 @@
+cbeta_id: X09n0242
+title: 华严经三十九品大意
+translator: 清 永光敬录
+dynasty: 清
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T45, X03,08-09,58,74, F28 华严宗
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X09/X09n0242.xml

@@ -1,0 +1,17 @@
+cbeta_id: X04n0223
+title: 华严经合论
+translator: 唐 李通玄造论　志宁厘经合论
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T26a 华严经释论／疏 T85, X03-05,45, J15
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+  kind: 疏
+  source: bulei.txt
+juan_count: 120
+source_xml:
+  - X/X04/X04n0223.xml

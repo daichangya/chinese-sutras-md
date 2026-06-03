@@ -1,0 +1,18 @@
+cbeta_id: J15nB005
+title: 大方广佛华严经普贤行愿品别行疏钞（选录「华严宗七祖行迹」及「附录」）
+translator: 唐 澄观别行疏　宗密随疏钞
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: X0227-30, JB005 华严经行愿品疏 etc. X05, J15
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+    - X0227-30, JB005 华严经行愿品疏 etc. X05, J15
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J15/J15nB005.xml

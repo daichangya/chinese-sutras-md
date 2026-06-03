@@ -1,0 +1,18 @@
+cbeta_id: X05n0227
+title: 华严经行愿品疏
+translator: 唐 澄观述
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: X0227-30, JB005 华严经行愿品疏 etc. X05, J15
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+    - X0227-30, JB005 华严经行愿品疏 etc. X05, J15
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X05/X05n0227.xml

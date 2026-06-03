@@ -1,0 +1,19 @@
+cbeta_id: U222n1418
+title: 华严经疏科(第1卷-第3卷)
+translator: 唐 澄观述　宋 净源重刊
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T0279 华严经 80卷 T10／疏 T35-36,85, X05,07, U222-223, L130-133
+  path:
+    - 05 华严部类
+    - T09b-10 华严部／疏 T35-36,85, X05,07, U222-223, L130-133
+    - T0279 华严经 80卷 T10／疏 T35-36,85, X05,07, U222-223, L130-133
+    - T1735-38 etc. 华严经疏钞 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - U/U222/U222n1418.xml

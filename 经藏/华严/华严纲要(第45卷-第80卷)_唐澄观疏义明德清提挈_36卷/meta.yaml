@@ -1,0 +1,17 @@
+cbeta_id: X09n0240
+title: 华严纲要(第45卷-第80卷)
+translator: 唐 澄观疏义　明 德清提挈
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T45, X03,08-09,58,74, F28 华严宗
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+  kind: 疏
+  source: short
+juan_count: 36
+source_xml:
+  - X/X09/X09n0240.xml

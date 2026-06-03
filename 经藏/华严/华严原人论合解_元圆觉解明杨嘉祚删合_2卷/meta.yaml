@@ -1,0 +1,18 @@
+cbeta_id: X58n1033
+title: 华严原人论合解
+translator: 元 圆觉解　明 杨嘉祚删合
+dynasty: 元
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T1886, X1031-33 原人论 etc.
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+    - T1886, X1031-33 原人论 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X58/X58n1033.xml

@@ -1,0 +1,16 @@
+cbeta_id: T26n1521
+title: 十住毘婆沙论
+translator: 圣者龙树造  后秦 鸠摩罗什译
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T26a 华严经释论／疏 T85, X03-05,45, J15
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+  kind: 疏
+  source: bulei.txt
+juan_count: 17
+source_xml:
+  - T/T26/T26n1521.xml

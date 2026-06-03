@@ -1,0 +1,17 @@
+cbeta_id: T26n1522
+title: 十地经论
+translator: 天亲菩萨造  后魏 菩提流支等译
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T1522 十地经论 T26a／疏 T85, X45
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+    - T1522 十地经论 T26a／疏 T85, X45
+  kind: 疏
+  source: bulei.txt
+juan_count: 12
+source_xml:
+  - T/T26/T26n1522.xml

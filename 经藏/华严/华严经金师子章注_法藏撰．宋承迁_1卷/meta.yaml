@@ -1,0 +1,17 @@
+cbeta_id: T45n1881
+title: 华严经金师子章注
+translator: 唐 法藏撰．宋 承迁注
+dynasty: 唐
+category: 华严
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T45, X03,08-09,58,74, F28 华严宗
+  path:
+    - 05 华严部类
+    - T45, X03,08-09,58,74, F28 华严宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T45/T45n1881.xml
