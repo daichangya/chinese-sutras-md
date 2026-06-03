@@ -1,0 +1,17 @@
+cbeta_id: B08n0027
+title: 瑜伽师地论戒品纂释
+translator: 宗喀巴释论　汤芗铭译纂
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B08
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B08
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - B/B08/B08n0027.xml

@@ -1,0 +1,18 @@
+cbeta_id: TX27n0018
+title: 太虚大师全书．第十八编　讲演(第1卷-第59卷)
+translator: 民国 释太虚着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 杂藏
+  path:
+    - 23 新编部类
+    - TX0001-20 太虚大师全书
+    - 杂藏
+  kind: 疏
+  source: bulei.txt
+juan_count: 59
+source_xml:
+  - TX/TX27/TX27n0018.xml

@@ -1,0 +1,17 @@
+cbeta_id: B00na002
+title: 大藏经补编．全书内容简介
+translator: 蓝吉富
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B00
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B00
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B00/B00nA002.xml

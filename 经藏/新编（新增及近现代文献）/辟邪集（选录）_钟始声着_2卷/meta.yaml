@@ -1,0 +1,18 @@
+cbeta_id: B24n0134
+title: 辟邪集（选录）
+translator: 钟始声着
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B24
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B24
+    - B0134 (=JB120+B0130+选录) 辟邪集（选录〈翻刻辟邪集序〉、〈天学初辟〉、〈统正序〉、〈原道辟邪说〉、〈跋〉）
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - B/B24/B24n0134.xml

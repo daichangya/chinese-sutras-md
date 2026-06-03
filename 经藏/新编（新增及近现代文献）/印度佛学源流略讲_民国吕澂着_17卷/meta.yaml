@@ -1,0 +1,17 @@
+cbeta_id: LC01n0001
+title: 印度佛学源流略讲
+translator: 民国 吕澂着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: LC0001-7 吕澂佛学著作集
+  path:
+    - 23 新编部类
+    - LC0001-7 吕澂佛学著作集
+  kind: 疏
+  source: bulei.txt
+juan_count: 17
+source_xml:
+  - LC/LC01/LC01n0001.xml

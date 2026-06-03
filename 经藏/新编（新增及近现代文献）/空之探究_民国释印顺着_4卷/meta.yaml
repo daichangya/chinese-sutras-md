@@ -1,0 +1,18 @@
+cbeta_id: Y38n0036
+title: 空之探究
+translator: 民国 释印顺着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 专书
+  path:
+    - 23 新编部类
+    - Y0001-42 印顺法师佛学著作集
+    - 专书
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - Y/Y38/Y38n0036.xml

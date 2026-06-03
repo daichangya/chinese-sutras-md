@@ -1,0 +1,16 @@
+cbeta_id: ZW04na026
+title: 藏外佛教文献第四辑．编委会名单
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0033-44 第四辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0033-44 第四辑
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW04/ZW04nA026.xml

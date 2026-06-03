@@ -1,0 +1,18 @@
+cbeta_id: YP12n0018
+title: 梵网经菩萨戒本讲记
+translator: 民国 释演培着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 律释篇
+  path:
+    - 23 新编部类
+    - YP0001-26 演培法师全集
+    - 律释篇
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - YP/YP12/YP12n0018.xml

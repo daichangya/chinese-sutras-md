@@ -1,0 +1,16 @@
+cbeta_id: B26n0146
+title: 房山云居寺石经──经文、题记、碑铭等拓片之选辑
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B26
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B26
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - B/B26/B26n0146.xml

@@ -1,0 +1,18 @@
+cbeta_id: TX17n0009
+title: 太虚大师全书．第九编　制议
+translator: 民国 释太虚着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 制藏
+  path:
+    - 23 新编部类
+    - TX0001-20 太虚大师全书
+    - 制藏
+  kind: 疏
+  source: bulei.txt
+juan_count: 67
+source_xml:
+  - TX/TX17/TX17n0009.xml

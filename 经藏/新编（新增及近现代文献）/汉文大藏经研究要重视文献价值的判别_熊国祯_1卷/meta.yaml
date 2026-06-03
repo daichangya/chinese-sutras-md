@@ -1,0 +1,18 @@
+cbeta_id: ZW12n0103
+title: 汉文大藏经研究要重视文献价值的判别
+translator: 熊国祯
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0097-103 第十二辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0097-103 第十二辑
+    - ZW0101-103 研究论文
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW12/ZW12n0103.xml

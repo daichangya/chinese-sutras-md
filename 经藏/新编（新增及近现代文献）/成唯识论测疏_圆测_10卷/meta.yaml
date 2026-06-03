@@ -1,0 +1,17 @@
+cbeta_id: CC004n0004
+title: 成唯识论测疏
+translator: 唐 圆测撰
+dynasty: 唐
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: CC0001-6 CBETA 选集
+  path:
+    - 23 新编部类
+    - CC0001-6 CBETA 选集
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - CC/CC004/CC004n0004.xml

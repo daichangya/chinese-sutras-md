@@ -1,0 +1,19 @@
+cbeta_id: ZW08n0067
+title: 华严略疏卷第一
+translator: 悟缘　整理
+dynasty: 悟缘
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0067-71 第八辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0067-71 第八辑
+    - ZW0067 三藏论疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW08/ZW08n0067.xml

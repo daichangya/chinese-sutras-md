@@ -1,0 +1,16 @@
+cbeta_id: YP00na003
+title: 演培法师全集．序文
+translator: 演培法师全集出版委员会
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: YP0001-26 演培法师全集
+  path:
+    - 23 新编部类
+    - YP0001-26 演培法师全集
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - YP/YP00/YP00nA003.xml

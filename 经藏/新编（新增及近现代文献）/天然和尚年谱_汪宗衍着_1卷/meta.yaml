@@ -1,0 +1,17 @@
+cbeta_id: B22n0119
+title: 天然和尚年谱
+translator: 汪宗衍着
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B22
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B22
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B22/B22n0119.xml

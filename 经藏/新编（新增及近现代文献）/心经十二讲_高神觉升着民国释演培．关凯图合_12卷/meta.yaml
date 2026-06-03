@@ -1,0 +1,18 @@
+cbeta_id: YP02n0006
+title: 心经十二讲
+translator: 日本 高神觉升着　民国 释演培．关凯图合译
+dynasty: 日本
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 经释篇
+  path:
+    - 23 新编部类
+    - YP0001-26 演培法师全集
+    - 经释篇
+  kind: 疏
+  source: bulei.txt
+juan_count: 12
+source_xml:
+  - YP/YP02/YP02n0006.xml

@@ -1,0 +1,19 @@
+cbeta_id: ZW07n0064g
+title: 地藏菩萨十斋日（ZW第7卷）
+translator: 张总整理
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0058-66 第七辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0058-66 第七辑
+    - ZW0063-64 疑伪经
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW07/ZW07n0064g.xml
+dir_label: 录文七

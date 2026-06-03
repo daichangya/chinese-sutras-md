@@ -1,0 +1,18 @@
+cbeta_id: B09n0047
+title: 中论文句释
+translator: 僧成释　常浩译
+dynasty: 僧成释
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B09
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B09
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B09/B09n0047.xml

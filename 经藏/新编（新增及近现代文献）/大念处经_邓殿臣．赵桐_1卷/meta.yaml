@@ -1,0 +1,18 @@
+cbeta_id: ZW05n0048
+title: 大念处经
+translator: 邓殿臣．赵桐译
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0045-50 第五辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0045-50 第五辑
+    - ZW0045-48 南传佛典
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW05/ZW05n0048.xml

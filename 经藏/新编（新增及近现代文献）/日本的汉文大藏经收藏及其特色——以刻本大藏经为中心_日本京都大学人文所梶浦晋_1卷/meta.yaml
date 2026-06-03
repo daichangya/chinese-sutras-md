@@ -1,0 +1,19 @@
+cbeta_id: ZW11n0095
+title: 日本的汉文大藏经收藏及其特色——以刻本大藏经为中心
+translator: 日本 京都大学人文所 梶浦晋
+dynasty: 日本
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0089-96 第十一辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0089-96 第十一辑
+    - ZW0095-96 研究论文
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW11/ZW11n0095.xml

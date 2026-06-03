@@ -1,0 +1,17 @@
+cbeta_id: B05n0002
+title: 华严经疏论纂要(第86卷-第120卷)
+translator: 道霈编
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B03-5
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B03-5
+  kind: 疏
+  source: short
+juan_count: 35
+source_xml:
+  - B/B05/B05n0002.xml

@@ -1,0 +1,17 @@
+cbeta_id: B16n0088
+title: 古今图书集成选辑（下）
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B15-16
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B15-16
+  kind: 疏
+  source: short
+juan_count: 88
+source_xml:
+  - B/B16/B16n0088.xml
+dir_label: 第125-212卷

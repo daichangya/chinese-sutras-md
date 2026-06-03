@@ -1,0 +1,18 @@
+cbeta_id: ZW07n0065
+title: 宁夏西夏方塔出土汉文佛典叙录
+translator: 方广锠
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0058-66 第七辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0058-66 第七辑
+    - ZW0065 西夏佚典
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW07/ZW07n0065.xml

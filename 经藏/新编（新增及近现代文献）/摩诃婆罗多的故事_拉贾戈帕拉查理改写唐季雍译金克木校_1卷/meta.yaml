@@ -1,0 +1,17 @@
+cbeta_id: B36n0197
+title: 摩诃婆罗多的故事
+translator: 拉贾戈帕拉查理改写　唐季雍译　金克木校
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B36
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B36
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B36/B36n0197.xml

@@ -1,0 +1,17 @@
+cbeta_id: B01n0001
+title: 均如大师华严学全书(第1卷-第9卷)
+translator: 均如着　金知见编
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B01-2
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B01-2
+  kind: 疏
+  source: bulei.txt
+juan_count: 9
+source_xml:
+  - B/B01/B01n0001.xml

@@ -1,0 +1,18 @@
+cbeta_id: B22n0117
+title: 三藏法数
+translator: 一如等编　丁福保重校
+dynasty: 一如等编
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B22
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B22
+  kind: 疏
+  source: bulei.txt
+juan_count: 50
+source_xml:
+  - B/B22/B22n0117.xml

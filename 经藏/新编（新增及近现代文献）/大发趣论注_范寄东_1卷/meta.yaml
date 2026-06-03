@@ -1,0 +1,18 @@
+cbeta_id: B06n0008
+title: 大发趣论注
+translator: 觉音造　范寄东译
+dynasty: 觉音造
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B06
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B06
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B06/B06n0008.xml

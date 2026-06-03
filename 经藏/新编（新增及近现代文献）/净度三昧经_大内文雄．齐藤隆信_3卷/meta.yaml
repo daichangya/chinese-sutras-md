@@ -1,0 +1,18 @@
+cbeta_id: ZW07n0063
+title: 净度三昧经
+translator: 大内文雄．齐藤隆信整理
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0058-66 第七辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0058-66 第七辑
+    - ZW0063-64 疑伪经
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - ZW/ZW07/ZW07n0063.xml

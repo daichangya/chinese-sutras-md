@@ -1,0 +1,18 @@
+cbeta_id: Y31n0030
+title: 杂阿含经论会编（中）
+translator: 民国 释印顺着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 专书
+  path:
+    - 23 新编部类
+    - Y0001-42 印顺法师佛学著作集
+    - 专书
+  kind: 疏
+  source: short
+juan_count: 2
+source_xml:
+  - Y/Y31/Y31n0030.xml

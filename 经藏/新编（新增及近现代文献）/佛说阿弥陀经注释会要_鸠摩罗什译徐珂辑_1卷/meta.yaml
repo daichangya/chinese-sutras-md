@@ -1,0 +1,17 @@
+cbeta_id: B07n0024
+title: 佛说阿弥陀经注释会要
+translator: 鸠摩罗什译　徐珂辑
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B07
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B07
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B07/B07n0024.xml

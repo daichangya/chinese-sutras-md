@@ -1,0 +1,17 @@
+cbeta_id: B28n0158
+title: 阴骘文图
+translator: 费丹旭绘图　许光清集证
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B28
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B28
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B28/B28n0158.xml

@@ -1,0 +1,19 @@
+cbeta_id: ZW10n0081
+title: 御注金刚般若经
+translator: 唐 李隆基着　衣川贤次整理
+dynasty: 唐
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0078-88 第十辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0078-88 第十辑
+    - ZW0081-82 佛典注疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW10/ZW10n0081.xml

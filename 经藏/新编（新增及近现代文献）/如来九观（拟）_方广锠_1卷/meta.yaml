@@ -1,0 +1,18 @@
+cbeta_id: ZW11n0090
+title: 如来九观（拟）
+translator: 方广锠整理
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0089-96 第十一辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0089-96 第十一辑
+    - ZW0090-92 佛教忏仪
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW11/ZW11n0090.xml

@@ -1,0 +1,18 @@
+cbeta_id: TX21n0013
+title: 太虚大师全书．第十三编　宗用论(第23卷-第76卷)
+translator: 民国 释太虚着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 论藏
+  path:
+    - 23 新编部类
+    - TX0001-20 太虚大师全书
+    - 论藏
+  kind: 疏
+  source: short
+juan_count: 54
+source_xml:
+  - TX/TX21/TX21n0013.xml

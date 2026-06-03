@@ -1,0 +1,18 @@
+cbeta_id: ZW09n0073a
+title: 金刚经赞集
+translator: 达照整理
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0072-77 第九辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0072-77 第九辑
+    - ZW0073 三藏论疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW09/ZW09n0073a.xml

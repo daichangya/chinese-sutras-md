@@ -1,0 +1,17 @@
+cbeta_id: B12n0078
+title: 洛阳伽蓝记校注
+translator: 杨衒之着　范祥雍校注
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B12
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B12
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - B/B12/B12n0078.xml

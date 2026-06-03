@@ -1,0 +1,17 @@
+cbeta_id: B27n0152
+title: 普济玉琳国师语录
+translator: 音纬等编
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B27
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B27
+  kind: 疏
+  source: bulei.txt
+juan_count: 14
+source_xml:
+  - B/B27/B27n0152.xml

@@ -1,0 +1,17 @@
+cbeta_id: B26na025
+title: 大藏经补编第二十六册．编辑说明
+translator: 蓝吉富
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B26
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B26
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B26/B26nA025.xml

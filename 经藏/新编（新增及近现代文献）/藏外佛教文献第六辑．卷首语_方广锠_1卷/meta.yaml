@@ -1,0 +1,17 @@
+cbeta_id: ZW06na033
+title: 藏外佛教文献第六辑．卷首语
+translator: 方广锠
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZW0051-57 第六辑
+  path:
+    - 23 新编部类
+    - ZW0001-103 藏外佛教文献
+    - ZW0051-57 第六辑
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - ZW/ZW06/ZW06nA033.xml

@@ -1,0 +1,17 @@
+cbeta_id: LC05n0005
+title: 佛教重要名相释义及经论攷证
+translator: 民国 吕澂着
+dynasty: 民国
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: LC0001-7 吕澂佛学著作集
+  path:
+    - 23 新编部类
+    - LC0001-7 吕澂佛学著作集
+  kind: 疏
+  source: bulei.txt
+juan_count: 18
+source_xml:
+  - LC/LC05/LC05n0005.xml

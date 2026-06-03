@@ -1,0 +1,18 @@
+cbeta_id: B10n0063
+title: 大密妙义深道六法引导广论纂要
+translator: 吉祥造　钟伯毅纂
+dynasty: 吉祥造
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B10
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B10
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B10/B10n0063.xml

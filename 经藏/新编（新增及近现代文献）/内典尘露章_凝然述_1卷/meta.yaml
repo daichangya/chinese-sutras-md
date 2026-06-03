@@ -1,0 +1,17 @@
+cbeta_id: B32n0182
+title: 内典尘露章
+translator: 凝然述
+category: 新编（新增及近现代文献）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B32
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B32
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - B/B32/B32n0182.xml
