@@ -1,0 +1,19 @@
+cbeta_id: P181n1615
+title: 大明三藏法数(第1卷-第13卷)
+translator: 明 一如等编集
+dynasty: 明
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2121-25,27 etc. 百科辞书 T53-54a, J21, P181-183,189-193, L162, G114-8
+  path:
+    - 19 事汇部类
+    - T2121-24,27-36 etc. 事汇部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091,
+      K32,34-35, P178-79,181-183,189-193, G083,114-8, L162,164
+    - T2121-25,27 etc. 百科辞书 T53-54a, J21, P181-183,189-193, L162, G114-8
+  kind: 经
+  source: bulei.txt
+juan_count: 13
+source_xml:
+  - P/P181/P181n1615.xml

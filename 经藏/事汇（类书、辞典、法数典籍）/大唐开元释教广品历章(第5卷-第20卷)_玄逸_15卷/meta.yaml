@@ -1,0 +1,19 @@
+cbeta_id: A098n1267
+title: 大唐开元释教广品历章(第5卷-第20卷)
+translator: 唐 玄逸撰
+dynasty: 唐
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2145-58 etc.中国译经目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2145-58 etc.中国译经目录
+    - T2154-55 开元释教录
+  kind: 疏
+  source: short
+juan_count: 15
+source_xml:
+  - A/A098/A098n1267.xml

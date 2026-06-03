@@ -1,0 +1,16 @@
+cbeta_id: F29n1099
+title: 无上玉皇心印经
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2139 etc. 道教
+  path:
+    - 19 事汇部类
+    - T2137-44 etc. 外教部 T54b, L153, F29
+    - T2139 etc. 道教
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F29/F29n1099.xml

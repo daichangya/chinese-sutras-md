@@ -1,0 +1,19 @@
+cbeta_id: T54n2131
+title: 翻译名义集
+translator: 宋 法云编
+dynasty: 宋
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2130-36 梵语集 T54b
+  path:
+    - 19 事汇部类
+    - T2121-24,27-36 etc. 事汇部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091,
+      K32,34-35, P178-79,181-183,189-193, G083,114-8, L162,164
+    - T2130-36 梵语集 T54b
+  kind: 经
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - T/T54/T54n2131.xml

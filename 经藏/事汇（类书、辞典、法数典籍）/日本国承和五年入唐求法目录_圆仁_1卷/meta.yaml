@@ -1,0 +1,19 @@
+cbeta_id: T55n2165
+title: 日本国承和五年入唐求法目录
+translator: 日本 圆仁撰
+dynasty: 日本
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2159-75 日本求法目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2159-75 日本求法目录
+    - T2165-67 圆仁目录
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T55/T55n2165.xml

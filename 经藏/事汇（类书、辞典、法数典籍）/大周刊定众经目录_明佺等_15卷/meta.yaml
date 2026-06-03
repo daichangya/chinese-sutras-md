@@ -1,0 +1,18 @@
+cbeta_id: T55n2153
+title: 大周刊定众经目录
+translator: 唐 明佺等撰
+dynasty: 唐
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2145-58 etc.中国译经目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2145-58 etc.中国译经目录
+  kind: 经
+  source: bulei.txt
+juan_count: 15
+source_xml:
+  - T/T55/T55n2153.xml

@@ -1,0 +1,18 @@
+cbeta_id: L143n1608
+title: 大藏圣教法宝标目
+translator: 宋 王古撰
+dynasty: 宋
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2145-58 etc.中国译经目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2145-58 etc.中国译经目录
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - L/L143/L143n1608.xml

@@ -1,0 +1,18 @@
+cbeta_id: A112n1493
+title: 大中祥符法宝录(第13卷-第20卷)
+translator: 宋 杨亿等编修
+dynasty: 宋
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2145-58 etc.中国译经目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2145-58 etc.中国译经目录
+  kind: 疏
+  source: short
+juan_count: 7
+source_xml:
+  - A/A112/A112n1493.xml

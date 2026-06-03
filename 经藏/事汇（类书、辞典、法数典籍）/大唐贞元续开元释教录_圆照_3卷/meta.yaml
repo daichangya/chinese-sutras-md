@@ -1,0 +1,19 @@
+cbeta_id: T55n2156
+title: 大唐贞元续开元释教录
+translator: 唐 圆照集
+dynasty: 唐
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2145-58 etc.中国译经目录
+  path:
+    - 19 事汇部类
+    - T2145-84, JB271 目录部 T55, J31-32, A097-098,110-112, L143, C106, K38
+    - T2145-58 etc.中国译经目录
+    - T2156-58 贞元录
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T55/T55n2156.xml

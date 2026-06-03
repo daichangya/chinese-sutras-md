@@ -1,0 +1,20 @@
+cbeta_id: X65n1281
+title: 御制拣魔辨异录
+translator: 清 世宗皇帝制
+dynasty: 清
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: K1258 etc. 御制文集 K35, C073, P178-79, G083, X65,68, L164
+  path:
+    - 19 事汇部类
+    - T2121-24,27-36 etc. 事汇部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091,
+      K32,34-35, P178-79,181-183,189-193, G083,114-8, L162,164
+    - K1258 etc. 御制文集 K35, C073, P178-79, G083, X65,68, L164
+    - 清世宗
+  kind: 经
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - X/X65/X65n1281.xml

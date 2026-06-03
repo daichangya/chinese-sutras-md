@@ -1,0 +1,19 @@
+cbeta_id: C057n1163
+title: 一切经音义(第16卷-第25卷)
+translator: 唐 玄应撰
+dynasty: 唐
+category: 事汇（类书、辞典、法数典籍）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2128-29 etc. 音义 T54b, J19, C056-057,059, A091, K32,34-35
+  path:
+    - 19 事汇部类
+    - T2121-24,27-36 etc. 事汇部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091,
+      K32,34-35, P178-79,181-183,189-193, G083,114-8, L162,164
+    - T2128-29 etc. 音义 T54b, J19, C056-057,059, A091, K32,34-35
+  kind: 经
+  source: short
+juan_count: 10
+source_xml:
+  - C/C057/C057n1163.xml
