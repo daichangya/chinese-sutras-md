@@ -1,0 +1,18 @@
+cbeta_id: T25n1514
+title: 能断金刚般若波罗蜜多经论颂
+translator: 无着菩萨造  唐 义净译
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1510-15 金刚般若释论 T25
+  path:
+    - 03 般若部类
+    - 07 金刚般若经(大般若经第9会) T07-08, K05／论 T25／疏 T33,40,85, X24-25, J31, P187, F03／礼忏
+      X74
+    - T1510-15 金刚般若释论 T25
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T25/T25n1514.xml

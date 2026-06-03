@@ -1,0 +1,17 @@
+cbeta_id: X24n0448
+title: 大般若经关法
+translator: 宋 大隐．永隆排定
+dynasty: 宋
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: 13 大般若经关法 etc. X24, F03
+  path:
+    - 03 般若部类
+    - 13 大般若经关法 etc. X24, F03
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X24/X24n0448.xml

@@ -1,0 +1,18 @@
+cbeta_id: X26n0553
+title: 般若心经添足
+translator: 明 弘赞述
+dynasty: 明
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1710-14 etc. 般若心经疏 T33, X26
+  path:
+    - 03 般若部类
+    - 10 般若心经 T08, F27／疏 T33,85, X26
+    - T1710-14 etc. 般若心经疏 T33, X26
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X26/X26n0553.xml

@@ -1,0 +1,19 @@
+cbeta_id: T08n0236b
+title: 金刚般若波罗蜜经
+translator: 元魏 菩提流支译
+dynasty: 元魏
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T0220h,0235-39 金刚般若经 T07-08, K05
+  path:
+    - 03 般若部类
+    - 07 金刚般若经(大般若经第9会) T07-08, K05／论 T25／疏 T33,40,85, X24-25, J31, P187, F03／礼忏
+      X74
+    - T0220h,0235-39 金刚般若经 T07-08, K05
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T08/T08n0236b.xml

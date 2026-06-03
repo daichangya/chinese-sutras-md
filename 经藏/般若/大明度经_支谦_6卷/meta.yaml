@@ -1,0 +1,18 @@
+cbeta_id: T08n0225
+title: 大明度经
+translator: 吴 支谦译
+dynasty: 吴
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T0220d,24-29 小品般若经 T07-08
+  path:
+    - 03 般若部类
+    - 03 小品般若经(大般若经第4-5会) T07-08／论 T25
+    - T0220d,24-29 小品般若经 T07-08
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T08/T08n0225.xml

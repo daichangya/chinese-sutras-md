@@ -1,0 +1,18 @@
+cbeta_id: T07n0220o
+title: 大般若波罗蜜多经(第401卷-第600卷)
+translator: 唐 玄奘译
+dynasty: 唐
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: 09 六分般若(大般若经第11-16会) T07
+  path:
+    - 03 般若部类
+    - 09 六分般若(大般若经第11-16会) T07
+  kind: 疏
+  source: juan
+juan_count: 8
+source_xml:
+  - T/T07/T07n0220o.xml
+dir_label: 第593-600卷

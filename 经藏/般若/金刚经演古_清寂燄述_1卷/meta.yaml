@@ -1,0 +1,19 @@
+cbeta_id: X25n0495
+title: 金刚经演古
+translator: 清 寂燄述
+dynasty: 清
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1698-1704 etc. 金刚经疏 T33, X24-25, J31, P187, F03
+  path:
+    - 03 般若部类
+    - 07 金刚般若经(大般若经第9会) T07-08, K05／论 T25／疏 T33,40,85, X24-25, J31, P187, F03／礼忏
+      X74
+    - T1698-1704 etc. 金刚经疏 T33, X24-25, J31, P187, F03
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X25/X25n0495.xml

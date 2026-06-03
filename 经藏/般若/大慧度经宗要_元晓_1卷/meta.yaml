@@ -1,0 +1,18 @@
+cbeta_id: T33n1697
+title: 大慧度经宗要
+translator: 新罗 元晓撰
+dynasty: 新罗
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1696-97, X0451 中品般若经疏 T33, X24
+  path:
+    - 03 般若部类
+    - 02 中品般若经(大般若经第2-3会) T07-08／论 T25／疏 T33, X24,46
+    - T1696-97, X0451 中品般若经疏 T33, X24
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T33/T33n1697.xml

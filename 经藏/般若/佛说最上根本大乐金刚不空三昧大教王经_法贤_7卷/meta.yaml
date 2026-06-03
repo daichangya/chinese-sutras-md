@@ -1,0 +1,17 @@
+cbeta_id: T08n0244
+title: 佛说最上根本大乐金刚不空三昧大教王经
+translator: 宋 法贤译
+dynasty: 宋
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: 08 理趣般若经(大般若经第10会) T07-08／疏 T33
+  path:
+    - 03 般若部类
+    - 08 理趣般若经(大般若经第10会) T07-08／疏 T33
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - T/T08/T08n0244.xml

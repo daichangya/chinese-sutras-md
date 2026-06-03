@@ -1,0 +1,18 @@
+cbeta_id: T06n0220b
+title: 大般若波罗蜜多经(第201卷-第400卷)
+translator: 唐 玄奘译
+dynasty: 唐
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: 01 上品般若(大般若经第1会) T05-06
+  path:
+    - 03 般若部类
+    - 01 上品般若(大般若经第1会) T05-06
+  kind: 经
+  source: juan
+juan_count: 200
+source_xml:
+  - T/T06/T06n0220b.xml
+dir_label: 第201-400卷

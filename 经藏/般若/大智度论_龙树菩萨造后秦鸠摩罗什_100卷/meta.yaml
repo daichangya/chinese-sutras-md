@@ -1,0 +1,17 @@
+cbeta_id: T25n1509
+title: 大智度论
+translator: 龙树菩萨造  后秦 鸠摩罗什译
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1509 大智度论(100卷) T25／疏 X46
+  path:
+    - 03 般若部类
+    - 02 中品般若经(大般若经第2-3会) T07-08／论 T25／疏 T33, X24,46
+    - T1509 大智度论(100卷) T25／疏 X46
+  kind: 疏
+  source: bulei.txt
+juan_count: 100
+source_xml:
+  - T/T25/T25n1509.xml

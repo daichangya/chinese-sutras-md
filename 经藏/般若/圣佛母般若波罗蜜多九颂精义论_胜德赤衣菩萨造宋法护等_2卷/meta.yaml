@@ -1,0 +1,17 @@
+cbeta_id: T25n1516
+title: 圣佛母般若波罗蜜多九颂精义论
+translator: 胜德赤衣菩萨造  宋 法护等译
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1516-18 八千颂般若经释论 T25
+  path:
+    - 03 般若部类
+    - 03 小品般若经(大般若经第4-5会) T07-08／论 T25
+    - T1516-18 八千颂般若经释论 T25
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T25/T25n1516.xml

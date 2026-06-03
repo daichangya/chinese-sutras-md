@@ -1,0 +1,18 @@
+cbeta_id: X26n0517
+title: 仁王经科疏
+translator: 明 真贵述
+dynasty: 明
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T1705-09 etc. 仁王经疏 T33, X26
+  path:
+    - 03 般若部类
+    - 11 仁王般若经 T08／疏 T33,85, X26
+    - T1705-09 etc. 仁王经疏 T33, X26
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - X/X26/X26n0517.xml

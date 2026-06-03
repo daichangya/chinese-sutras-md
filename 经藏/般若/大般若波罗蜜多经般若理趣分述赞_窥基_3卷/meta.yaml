@@ -1,0 +1,17 @@
+cbeta_id: T33n1695
+title: 大般若波罗蜜多经般若理趣分述赞
+translator: 唐 窥基撰
+dynasty: 唐
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: 08 理趣般若经(大般若经第10会) T07-08／疏 T33
+  path:
+    - 03 般若部类
+    - 08 理趣般若经(大般若经第10会) T07-08／疏 T33
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T33/T33n1695.xml

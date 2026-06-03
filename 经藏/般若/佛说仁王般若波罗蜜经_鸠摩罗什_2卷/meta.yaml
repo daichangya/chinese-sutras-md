@@ -1,0 +1,18 @@
+cbeta_id: T08n0245
+title: 佛说仁王般若波罗蜜经
+translator: 后秦 鸠摩罗什译
+dynasty: 后秦
+category: 般若
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T0245-46 仁王经 T08
+  path:
+    - 03 般若部类
+    - 11 仁王般若经 T08／疏 T33,85, X26
+    - T0245-46 仁王经 T08
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T08/T08n0245.xml
