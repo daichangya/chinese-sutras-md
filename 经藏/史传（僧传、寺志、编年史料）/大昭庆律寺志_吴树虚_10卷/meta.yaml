@@ -1,0 +1,18 @@
+cbeta_id: GA016n0015
+title: 大昭庆律寺志
+translator: 清 吴树虚撰
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: GA0002-89 中国佛寺史志汇刊选录
+  path:
+    - 23 新编部类
+    - GA0002-89, GB0109 中国佛寺志
+    - GA0002-89 中国佛寺史志汇刊选录
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - GA/GA016/GA016n0015.xml

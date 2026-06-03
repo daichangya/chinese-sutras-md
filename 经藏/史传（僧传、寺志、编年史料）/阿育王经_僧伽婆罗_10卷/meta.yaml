@@ -1,0 +1,17 @@
+cbeta_id: T50n2043
+title: 阿育王经
+translator: 梁 僧伽婆罗译
+dynasty: 梁
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2042-45 阿育王传
+  path:
+    - 18 史传部类
+    - T2042-45 阿育王传
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T50/T50n2043.xml

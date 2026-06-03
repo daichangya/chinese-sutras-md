@@ -1,0 +1,18 @@
+cbeta_id: X78n1554
+title: 五家正宗赞
+translator: 宋 绍昙记
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2076, X1553-59,64-66,93 五灯时期灯录
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - T2076, X1553-59,64-66,93 五灯时期灯录
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - X/X78/X78n1554.xml

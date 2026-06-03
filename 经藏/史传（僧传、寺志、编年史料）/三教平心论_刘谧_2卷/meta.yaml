@@ -1,0 +1,17 @@
+cbeta_id: T52n2117
+title: 三教平心论
+translator: 元 刘谧撰
+dynasty: 元
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2102-5,8-18 护教辩论 T52
+  path:
+    - 18 史传部类
+    - T2102-5,8-18 护教辩论 T52
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T52/T52n2117.xml

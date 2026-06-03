@@ -1,0 +1,17 @@
+cbeta_id: X75n1512
+title: 隆兴编年通论
+translator: 宋 祖琇撰
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2034-39, X1512-13,15-17,21,1668,71 佛教史 T49, X75-77,88
+  path:
+    - 18 史传部类
+    - T2034-39, X1512-13,15-17,21,1668,71 佛教史 T49, X75-77,88
+  kind: 疏
+  source: bulei.txt
+juan_count: 29
+source_xml:
+  - X/X75/X75n1512.xml

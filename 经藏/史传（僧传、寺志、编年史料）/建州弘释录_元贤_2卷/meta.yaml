@@ -1,0 +1,18 @@
+cbeta_id: X86n1606
+title: 建州弘释录
+translator: 明 元贤集
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1581,1606,08,1616-21, JB125 明清禅宗史传
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - X1581,1606,08,1616-21, JB125 明清禅宗史传
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X86/X86n1606.xml

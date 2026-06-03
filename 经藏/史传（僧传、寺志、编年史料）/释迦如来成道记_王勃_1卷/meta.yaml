@@ -1,0 +1,17 @@
+cbeta_id: X75n1508
+title: 释迦如来成道记
+translator: 唐 王勃撰
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2040-41, X1508-11 释迦史传 T50, X75
+  path:
+    - 18 史传部类
+    - T2040-41, X1508-11 释迦史传 T50, X75
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X75/X75n1508.xml

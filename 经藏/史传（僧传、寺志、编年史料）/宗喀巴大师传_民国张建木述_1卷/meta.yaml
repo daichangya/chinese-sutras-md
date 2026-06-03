@@ -1,0 +1,17 @@
+cbeta_id: G160n2619
+title: 宗喀巴大师传
+translator: 民国 张建木述
+dynasty: 民国
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: G2619 西藏祖师传 G160
+  path:
+    - 18 史传部类
+    - G2619 西藏祖师传 G160
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - G/G160/G160n2619.xml

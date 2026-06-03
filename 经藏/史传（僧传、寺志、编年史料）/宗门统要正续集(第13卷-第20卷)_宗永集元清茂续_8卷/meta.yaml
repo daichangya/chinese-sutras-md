@@ -1,0 +1,18 @@
+cbeta_id: P155n1519
+title: 宗门统要正续集(第13卷-第20卷)
+translator: 宋 宗永集　元 清茂续集
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T1998B, X1563,1575-77,1610-15, P1519 宋元禅宗史传
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - T1998B, X1563,1575-77,1610-15, P1519 宋元禅宗史传
+  kind: 疏
+  source: short
+juan_count: 8
+source_xml:
+  - P/P155/P155n1519.xml

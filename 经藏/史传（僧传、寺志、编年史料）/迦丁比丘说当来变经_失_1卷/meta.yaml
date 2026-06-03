@@ -1,0 +1,16 @@
+cbeta_id: T49n2028
+title: 迦丁比丘说当来变经
+translator: 失译
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2028-30, X0207 法住法灭史 T49, X02
+  path:
+    - 18 史传部类
+    - T2028-30, X0207 法住法灭史 T49, X02
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T49/T49n2028.xml

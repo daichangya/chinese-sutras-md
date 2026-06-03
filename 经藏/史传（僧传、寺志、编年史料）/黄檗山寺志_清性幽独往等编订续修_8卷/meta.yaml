@@ -1,0 +1,19 @@
+cbeta_id: GA084n0086
+title: 黄檗山寺志
+translator: 清 性幽独往等编订续修
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B29
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B29
+    - B0162 (=GA0086) 黄檗山志
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - GA/GA084/GA084n0086.xml

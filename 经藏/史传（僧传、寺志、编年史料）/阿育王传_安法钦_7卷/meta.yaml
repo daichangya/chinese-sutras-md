@@ -1,0 +1,17 @@
+cbeta_id: T50n2042
+title: 阿育王传
+translator: 西晋 安法钦译
+dynasty: 西晋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2042-45 阿育王传
+  path:
+    - 18 史传部类
+    - T2042-45 阿育王传
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - T/T50/T50n2042.xml

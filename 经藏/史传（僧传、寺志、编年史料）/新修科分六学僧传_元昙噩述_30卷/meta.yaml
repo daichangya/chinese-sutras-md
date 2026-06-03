@@ -1,0 +1,17 @@
+cbeta_id: X77n1522
+title: 新修科分六学僧传
+translator: 元 昙噩述
+dynasty: 元
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2059-66,2126, X1522-24,26-27 高僧传 T50-51,54, X77, CC001
+  path:
+    - 18 史传部类
+    - T2059-66,2126, X1522-24,26-27 高僧传 T50-51,54, X77, CC001
+  kind: 疏
+  source: bulei.txt
+juan_count: 30
+source_xml:
+  - X/X77/X77n1522.xml

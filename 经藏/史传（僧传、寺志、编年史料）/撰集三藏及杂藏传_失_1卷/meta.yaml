@@ -1,0 +1,16 @@
+cbeta_id: T49n2026
+title: 撰集三藏及杂藏传
+translator: 失译
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2026-27 结集史 T49
+  path:
+    - 18 史传部类
+    - T2026-27 结集史 T49
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T49/T49n2026.xml

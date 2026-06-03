@@ -1,0 +1,17 @@
+cbeta_id: X78n1540
+title: 法华经显应录
+translator: 宋 宗晓编
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2067-69, X1535,39-42 法华天台传 T51, X77-78
+  path:
+    - 18 史传部类
+    - T2067-69, X1535,39-42 法华天台传 T51, X77-78
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X78/X78n1540.xml

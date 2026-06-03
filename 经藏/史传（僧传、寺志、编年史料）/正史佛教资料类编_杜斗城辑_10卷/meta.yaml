@@ -1,0 +1,16 @@
+cbeta_id: ZS01n0001
+title: 正史佛教资料类编
+translator: 杜斗城辑编
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: ZS0001 正史佛教资料类编
+  path:
+    - 23 新编部类
+    - ZS0001 正史佛教资料类编
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - ZS/ZS01/ZS01n0001.xml

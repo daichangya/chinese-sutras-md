@@ -1,0 +1,17 @@
+cbeta_id: T51n2073
+title: 华严经传记
+translator: 唐 法藏集
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2073-74, X1530,32-34 华严经传 T51, X77
+  path:
+    - 18 史传部类
+    - T2073-74, X1530,32-34 华严经传 T51, X77
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - T/T51/T51n2073.xml

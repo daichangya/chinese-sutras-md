@@ -1,0 +1,17 @@
+cbeta_id: T54n2125
+title: 南海寄归内法传
+translator: 唐 义净撰
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2085-91,2125 西域记 T51,54
+  path:
+    - 18 史传部类
+    - T2085-91,2125 西域记 T51,54
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - T/T54/T54n2125.xml

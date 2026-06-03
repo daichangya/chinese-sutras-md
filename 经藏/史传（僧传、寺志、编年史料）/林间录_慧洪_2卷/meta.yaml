@@ -1,0 +1,17 @@
+cbeta_id: X87n1624
+title: 林间录
+translator: 宋 慧洪集
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1623-28,40-45,48-49,56,58,66-67 杂传 X87-88
+  path:
+    - 18 史传部类
+    - X1623-28,40-45,48-49,56,58,66-67 杂传 X87-88
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X87/X87n1624.xml

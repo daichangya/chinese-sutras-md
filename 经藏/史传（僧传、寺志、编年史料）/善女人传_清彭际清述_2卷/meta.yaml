@@ -1,0 +1,17 @@
+cbeta_id: X88n1657
+title: 善女人传
+translator: 清 彭际清述
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1646,57 居士善女传 X88
+  path:
+    - 18 史传部类
+    - X1646,57 居士善女传 X88
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X88/X88n1657.xml

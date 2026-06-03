@@ -1,0 +1,18 @@
+cbeta_id: X79n1561
+title: 僧宝正续传
+translator: 宋 祖琇撰
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1560-62 禅林僧宝传
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - X1560-62 禅林僧宝传
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - X/X79/X79n1561.xml

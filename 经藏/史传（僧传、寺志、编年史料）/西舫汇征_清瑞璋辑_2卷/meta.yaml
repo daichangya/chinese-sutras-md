@@ -1,0 +1,17 @@
+cbeta_id: X78n1551
+title: 西舫汇征
+translator: 清 瑞璋辑
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2070-72, X1543,46-47,49-52 净土往生传 T51, X78
+  path:
+    - 18 史传部类
+    - T2070-72, X1543,46-47,49-52 净土往生传 T51, X78
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X78/X78n1551.xml

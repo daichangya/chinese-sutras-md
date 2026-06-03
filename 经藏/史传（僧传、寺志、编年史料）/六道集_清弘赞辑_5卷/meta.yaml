@@ -1,0 +1,17 @@
+cbeta_id: X88n1645
+title: 六道集
+translator: 清 弘赞辑
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1623-28,40-45,48-49,56,58,66-67 杂传 X87-88
+  path:
+    - 18 史传部类
+    - X1623-28,40-45,48-49,56,58,66-67 杂传 X87-88
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - X/X88/X88n1645.xml

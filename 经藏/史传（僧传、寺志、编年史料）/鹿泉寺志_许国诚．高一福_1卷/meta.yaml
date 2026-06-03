@@ -1,0 +1,18 @@
+cbeta_id: GA043n0044
+title: 鹿泉寺志
+translator: 明 许国诚．高一福撰
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: GA0002-89 中国佛寺史志汇刊选录
+  path:
+    - 23 新编部类
+    - GA0002-89, GB0109 中国佛寺志
+    - GA0002-89 中国佛寺史志汇刊选录
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - GA/GA043/GA043n0044.xml

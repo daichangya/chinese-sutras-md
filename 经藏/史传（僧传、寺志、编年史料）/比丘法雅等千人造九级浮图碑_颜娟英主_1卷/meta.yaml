@@ -1,0 +1,18 @@
+cbeta_id: I01n0007
+title: 比丘法雅等千人造九级浮图碑
+translator: 颜娟英主编
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: 朝代
+  path:
+    - 23 新编部类
+    - I0001-100 北朝佛教石刻拓片百品
+    - 朝代
+    - 北魏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - I/I01/I01n0007.xml

@@ -1,0 +1,17 @@
+cbeta_id: T50n2047b
+title: 龙树菩萨传
+translator: 姚秦 鸠摩罗什译
+dynasty: 姚秦
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2046-49 印度祖师传
+  path:
+    - 18 史传部类
+    - T2046-49 印度祖师传
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T50/T50n2047b.xml

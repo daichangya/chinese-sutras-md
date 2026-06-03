@@ -1,0 +1,17 @@
+cbeta_id: T51n2090
+title: 释迦牟尼如来像法灭尽之记
+translator: 唐 法成译
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2085-91,2125 西域记 T51,54
+  path:
+    - 18 史传部类
+    - T2085-91,2125 西域记 T51,54
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T51/T51n2090.xml

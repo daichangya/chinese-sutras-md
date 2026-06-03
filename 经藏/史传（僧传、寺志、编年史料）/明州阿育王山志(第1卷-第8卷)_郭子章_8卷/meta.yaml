@@ -1,0 +1,18 @@
+cbeta_id: GA011n0010
+title: 明州阿育王山志(第1卷-第8卷)
+translator: 明 郭子章撰
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: GA0002-89 中国佛寺史志汇刊选录
+  path:
+    - 23 新编部类
+    - GA0002-89, GB0109 中国佛寺志
+    - GA0002-89 中国佛寺史志汇刊选录
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - GA/GA011/GA011n0010.xml

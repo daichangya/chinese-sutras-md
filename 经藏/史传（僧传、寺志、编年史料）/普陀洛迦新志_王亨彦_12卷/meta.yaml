@@ -1,0 +1,19 @@
+cbeta_id: GA010n0009
+title: 普陀洛迦新志
+translator: 民国 王亨彦撰
+dynasty: 民国
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B30
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B30
+    - B0164 (=GA0009) 普陀洛迦新志
+  kind: 疏
+  source: bulei.txt
+juan_count: 12
+source_xml:
+  - GA/GA010/GA010n0009.xml

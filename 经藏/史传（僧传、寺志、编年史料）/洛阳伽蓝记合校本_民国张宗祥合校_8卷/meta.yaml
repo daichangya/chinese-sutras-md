@@ -1,0 +1,18 @@
+cbeta_id: GA001n0004
+title: 洛阳伽蓝记合校本
+translator: 民国 张宗祥合校
+dynasty: 民国
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: GA0002-89 中国佛寺史志汇刊选录
+  path:
+    - 23 新编部类
+    - GA0002-89, GB0109 中国佛寺志
+    - GA0002-89 中国佛寺史志汇刊选录
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - GA/GA001/GA001n0004.xml

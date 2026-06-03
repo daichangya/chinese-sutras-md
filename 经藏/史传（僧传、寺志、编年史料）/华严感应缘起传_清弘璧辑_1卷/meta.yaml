@@ -1,0 +1,17 @@
+cbeta_id: X77n1533
+title: 华严感应缘起传
+translator: 清 弘璧辑
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2073-74, X1530,32-34 华严经传 T51, X77
+  path:
+    - 18 史传部类
+    - T2073-74, X1530,32-34 华严经传 T51, X77
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X77/X77n1533.xml

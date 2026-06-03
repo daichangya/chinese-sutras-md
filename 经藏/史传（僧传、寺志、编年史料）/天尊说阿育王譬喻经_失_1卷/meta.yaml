@@ -1,0 +1,16 @@
+cbeta_id: T50n2044
+title: 天尊说阿育王譬喻经
+translator: 失译
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2042-45 阿育王传
+  path:
+    - 18 史传部类
+    - T2042-45 阿育王传
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T50/T50n2044.xml

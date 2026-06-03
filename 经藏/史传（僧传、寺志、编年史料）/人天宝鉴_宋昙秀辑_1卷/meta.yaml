@@ -1,0 +1,18 @@
+cbeta_id: X87n1612
+title: 人天宝鉴
+translator: 宋 昙秀辑
+dynasty: 宋
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T1998B, X1563,1575-77,1610-15, P1519 宋元禅宗史传
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - T1998B, X1563,1575-77,1610-15, P1519 宋元禅宗史传
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X87/X87n1612.xml

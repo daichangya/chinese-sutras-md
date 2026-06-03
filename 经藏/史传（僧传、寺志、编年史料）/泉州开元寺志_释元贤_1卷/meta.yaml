@@ -1,0 +1,19 @@
+cbeta_id: GA058n0062
+title: 泉州开元寺志
+translator: 明 释元贤撰
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B24
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B24
+    - B0138 (=GA0062) 开元寺志
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - GA/GA058/GA058n0062.xml

@@ -1,0 +1,17 @@
+cbeta_id: X88n1655
+title: 得依释序文缘起
+translator: 日本 慧坚撰
+dynasty: 日本
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2050-57, X1651,54-55 中国祖师传 T50, X88
+  path:
+    - 18 史传部类
+    - T2050-57, X1651,54-55 中国祖师传 T50, X88
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X88/X88n1655.xml

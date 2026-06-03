@@ -1,0 +1,18 @@
+cbeta_id: X86n1605
+title: 继灯录
+translator: 明 元贤辑
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2077, X1567-74,78-80,82-92,1605,07,09 五灯以后灯录
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - T2077, X1567-74,78-80,82-92,1605,07,09 五灯以后灯录
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X86/X86n1605.xml

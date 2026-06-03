@@ -1,0 +1,18 @@
+cbeta_id: T52n2105
+title: 续集古今佛道论衡
+translator: 唐 智升撰
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2104-05 佛道论衡
+  path:
+    - 18 史传部类
+    - T2102-5,8-18 护教辩论 T52
+    - T2104-05 佛道论衡
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T52/T52n2105.xml

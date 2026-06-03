@@ -1,0 +1,18 @@
+cbeta_id: X86n1600
+title: 宗统编年
+translator: 清 纪荫编纂
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: X1594-95,1600 佛祖纲目编年
+  path:
+    - 18 史传部类
+    - T2075-80,1998B, X1553-1622, JB125 禅宗传 T51,47, X78-87, J23, P154-55
+    - X1594-95,1600 佛祖纲目编年
+  kind: 疏
+  source: bulei.txt
+juan_count: 32
+source_xml:
+  - X/X86/X86n1600.xml

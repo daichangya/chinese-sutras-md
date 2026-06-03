@@ -1,0 +1,17 @@
+cbeta_id: T50n2045
+title: 阿育王息坏目因缘经
+translator: 符秦 昙摩难提译
+dynasty: 符秦
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2042-45 阿育王传
+  path:
+    - 18 史传部类
+    - T2042-45 阿育王传
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T50/T50n2045.xml

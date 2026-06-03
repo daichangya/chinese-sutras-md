@@ -1,0 +1,16 @@
+cbeta_id: X77n1521
+title: (古今图书集成)释教部汇考
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2034-39, X1512-13,15-17,21,1668,71 佛教史 T49, X75-77,88
+  path:
+    - 18 史传部类
+    - T2034-39, X1512-13,15-17,21,1668,71 佛教史 T49, X75-77,88
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - X/X77/X77n1521.xml
+dir_label: 第1-7卷

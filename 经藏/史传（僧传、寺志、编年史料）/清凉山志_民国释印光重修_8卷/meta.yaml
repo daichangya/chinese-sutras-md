@@ -1,0 +1,19 @@
+cbeta_id: GA079n0081
+title: 清凉山志
+translator: 民国 释印光重修
+dynasty: 民国
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "23"
+  section: 新编部类
+  group: B30
+  path:
+    - 23 新编部类
+    - B0001-198 大藏经补编选录
+    - B30
+    - B0165 (=GA0081) 清凉山志
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - GA/GA079/GA079n0081.xml

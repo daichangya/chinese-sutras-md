@@ -1,0 +1,17 @@
+cbeta_id: T52n2113
+title: 北山录
+translator: 唐 神清撰．慧宝注
+dynasty: 唐
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2102-5,8-18 护教辩论 T52
+  path:
+    - 18 史传部类
+    - T2102-5,8-18 护教辩论 T52
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T52/T52n2113.xml

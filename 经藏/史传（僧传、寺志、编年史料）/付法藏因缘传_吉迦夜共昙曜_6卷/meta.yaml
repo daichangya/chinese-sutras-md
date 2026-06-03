@@ -1,0 +1,16 @@
+cbeta_id: T50n2058
+title: 付法藏因缘传
+translator: 元魏 吉迦夜共昙曜译
+dynasty: 元魏
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: 18 史传部类 T47,49-52,54, X02,53,75-88 etc.
+  path:
+    - 18 史传部类
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T50/T50n2058.xml

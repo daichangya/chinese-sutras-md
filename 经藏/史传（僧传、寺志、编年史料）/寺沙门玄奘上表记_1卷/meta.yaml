@@ -1,0 +1,15 @@
+cbeta_id: T52n2119
+title: 寺沙门玄奘上表记
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2119-20 上表记 T52
+  path:
+    - 18 史传部类
+    - T2119-20 上表记 T52
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T52/T52n2119.xml

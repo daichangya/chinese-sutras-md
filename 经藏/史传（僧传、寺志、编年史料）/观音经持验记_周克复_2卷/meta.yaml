@@ -1,0 +1,17 @@
+cbeta_id: X78n1542
+title: 观音经持验记
+translator: 清 周克复集
+dynasty: 清
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2067-69, X1535,39-42 法华天台传 T51, X77-78
+  path:
+    - 18 史传部类
+    - T2067-69, X1535,39-42 法华天台传 T51, X77-78
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X78/X78n1542.xml

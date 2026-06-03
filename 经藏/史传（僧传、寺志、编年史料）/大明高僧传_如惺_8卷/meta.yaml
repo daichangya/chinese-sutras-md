@@ -1,0 +1,17 @@
+cbeta_id: T50n2062
+title: 大明高僧传
+translator: 明 如惺撰
+dynasty: 明
+category: 史传（僧传、寺志、编年史料）
+bulei:
+  section_code: "18"
+  section: 史传部类
+  group: T2059-66,2126, X1522-24,26-27 高僧传 T50-51,54, X77, CC001
+  path:
+    - 18 史传部类
+    - T2059-66,2126, X1522-24,26-27 高僧传 T50-51,54, X77, CC001
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - T/T50/T50n2062.xml
