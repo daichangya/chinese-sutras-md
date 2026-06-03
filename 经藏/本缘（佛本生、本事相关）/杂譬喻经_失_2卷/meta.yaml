@@ -1,0 +1,16 @@
+cbeta_id: T04n0205
+title: 杂譬喻经
+translator: 失译
+category: 本缘（佛本生、本事相关）
+bulei:
+  section_code: "02"
+  section: 本缘部类
+  group: T0197-209 佛及弟子因缘 T04
+  path:
+    - 02 本缘部类
+    - T0197-209 佛及弟子因缘 T04
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T04/T04n0205.xml

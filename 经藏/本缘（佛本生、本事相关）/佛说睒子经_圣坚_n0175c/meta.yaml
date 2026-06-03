@@ -1,0 +1,17 @@
+cbeta_id: T03n0175c
+title: 佛说睒子经
+translator: 姚秦 圣坚译
+dynasty: 姚秦
+category: 本缘（佛本生、本事相关）
+bulei:
+  section_code: "02"
+  section: 本缘部类
+  group: T0152-83 佛本生经 etc. T03, X20-21
+  path:
+    - 02 本缘部类
+    - T0152-83 佛本生经 etc. T03, X20-21
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T03/T03n0175c.xml

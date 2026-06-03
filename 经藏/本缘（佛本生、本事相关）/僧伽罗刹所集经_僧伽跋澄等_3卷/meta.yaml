@@ -1,0 +1,17 @@
+cbeta_id: T04n0194
+title: 僧伽罗刹所集经
+translator: 符秦 僧伽跋澄等译
+dynasty: 符秦
+category: 本缘（佛本生、本事相关）
+bulei:
+  section_code: "02"
+  section: 本缘部类
+  group: T0184-96, F0069 佛传 etc. T03-04, F02
+  path:
+    - 02 本缘部类
+    - T0184-96, F0069 佛传 etc. T03-04, F02
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T04/T04n0194.xml

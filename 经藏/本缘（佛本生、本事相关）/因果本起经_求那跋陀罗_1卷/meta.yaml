@@ -1,0 +1,17 @@
+cbeta_id: F02n0069
+title: 因果本起经
+translator: 宋 求那跋陀罗译
+dynasty: 宋
+category: 本缘（佛本生、本事相关）
+bulei:
+  section_code: "02"
+  section: 本缘部类
+  group: T0184-96, F0069 佛传 etc. T03-04, F02
+  path:
+    - 02 本缘部类
+    - T0184-96, F0069 佛传 etc. T03-04, F02
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F02/F02n0069.xml

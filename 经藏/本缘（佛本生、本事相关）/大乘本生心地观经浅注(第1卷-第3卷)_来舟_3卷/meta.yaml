@@ -1,0 +1,18 @@
+cbeta_id: X20n0367
+title: 大乘本生心地观经浅注(第1卷-第3卷)
+translator: 清 来舟集
+dynasty: 清
+category: 本缘（佛本生、本事相关）
+bulei:
+  section_code: "02"
+  section: 本缘部类
+  group: T0159 大乘本生心地观经 T03／浅注 X20-21
+  path:
+    - 02 本缘部类
+    - T0152-83 佛本生经 etc. T03, X20-21
+    - T0159 大乘本生心地观经 T03／浅注 X20-21
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X20/X20n0367.xml
