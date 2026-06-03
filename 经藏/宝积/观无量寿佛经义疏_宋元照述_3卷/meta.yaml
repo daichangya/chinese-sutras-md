@@ -1,0 +1,19 @@
+cbeta_id: T37n1754
+title: 观无量寿佛经义疏
+translator: 宋 元照述
+dynasty: 宋
+category: 宝积
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T0365 观无量寿经 T12／疏 T37
+  path:
+    - 06 宝积部类
+    - T0360-73 净土经 T11-12／论 T26a／疏 T37,40b,85
+    - T0365 观无量寿经 T12／疏 T37
+    - T1749-54 观无量寿经疏 T37
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T37/T37n1754.xml

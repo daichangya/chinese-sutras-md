@@ -1,0 +1,17 @@
+cbeta_id: X19n0353
+title: 胜鬘经疏义私钞
+translator: 日本 圣德太子疏　唐 明空私钞
+dynasty: 日本
+category: 宝积
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T0353 胜鬘经 T12a／疏 T37,85, X19
+  path:
+    - 06 宝积部类
+    - T0353 胜鬘经 T12a／疏 T37,85, X19
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X19/X19n0353.xml

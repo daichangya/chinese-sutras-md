@@ -1,0 +1,17 @@
+cbeta_id: X10n0264
+title: 大宝积经述
+translator: 唐 徐锷撰
+dynasty: 唐
+category: 宝积
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T1523,25 宝积经释论 T26a／述 X10
+  path:
+    - 06 宝积部类
+    - T1523,25 宝积经释论 T26a／述 X10
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X10/X10n0264.xml

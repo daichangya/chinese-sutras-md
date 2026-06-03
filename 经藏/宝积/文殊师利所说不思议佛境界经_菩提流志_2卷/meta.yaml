@@ -1,0 +1,18 @@
+cbeta_id: T12n0340
+title: 文殊师利所说不思议佛境界经
+translator: 唐 菩提流志译
+dynasty: 唐
+category: 宝积
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T0311-54 宝积经异译
+  path:
+    - 06 宝积部类
+    - T0310-73 宝积部 T11-12a
+    - T0311-54 宝积经异译
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T12/T12n0340.xml

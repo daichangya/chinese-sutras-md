@@ -1,0 +1,19 @@
+cbeta_id: T37n1762
+title: 阿弥陀经要解
+translator: 明 智旭解
+dynasty: 明
+category: 宝积
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T0366-67 阿弥陀经 etc. T12／疏 T37
+  path:
+    - 06 宝积部类
+    - T0360-73 净土经 T11-12／论 T26a／疏 T37,40b,85
+    - T0366-67 阿弥陀经 etc. T12／疏 T37
+    - T1755-62 阿弥陀经疏 T37
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T37/T37n1762.xml
