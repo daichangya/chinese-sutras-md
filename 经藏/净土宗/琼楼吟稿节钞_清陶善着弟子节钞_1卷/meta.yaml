@@ -1,0 +1,18 @@
+cbeta_id: X62n1213
+title: 琼楼吟稿节钞
+translator: 清 陶善着　弟子节钞
+dynasty: 清
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: X1161,1169-1206,1208-1216 清朝著作
+  path:
+    - 16 净土宗部类
+    - T1957-84 etc. 净土宗 T47, X02,61-62,74
+    - X1161,1169-1206,1208-1216 清朝著作
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X62/X62n1213.xml

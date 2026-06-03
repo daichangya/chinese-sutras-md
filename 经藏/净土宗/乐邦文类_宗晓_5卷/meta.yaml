@@ -1,0 +1,19 @@
+cbeta_id: T47n1969A
+title: 乐邦文类
+translator: 宋 宗晓编
+dynasty: 宋
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T1968-70, X1149 宋朝著作
+  path:
+    - 16 净土宗部类
+    - T1957-84 etc. 净土宗 T47, X02,61-62,74
+    - T1968-70, X1149 宋朝著作
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - T/T47/T47n1969A.xml
+dir_label: 第1-5卷

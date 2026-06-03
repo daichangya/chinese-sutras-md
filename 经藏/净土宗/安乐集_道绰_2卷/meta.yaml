@@ -1,0 +1,18 @@
+cbeta_id: T47n1958
+title: 安乐集
+translator: 唐 道绰撰
+dynasty: 唐
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T1958-67 隋唐著作
+  path:
+    - 16 净土宗部类
+    - T1957-84 etc. 净土宗 T47, X02,61-62,74
+    - T1958-67 隋唐著作
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T47/T47n1958.xml

@@ -1,0 +1,18 @@
+cbeta_id: X02n0205
+title: 佛说阿弥陀佛根本秘密神咒经
+translator: 曹魏 菩提流支译
+dynasty: 曹魏
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T0368-73 etc. 其他净土经咒 T12a, X01-02,16, G124
+  path:
+    - 16 净土宗部类
+    - T0310 etc. 净土经 T11-12, X01-02,16, CC006／论 T26a／疏 T37,40b,85, X22
+    - T0368-73 etc. 其他净土经咒 T12a, X01-02,16, G124
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X02/X02n0205.xml

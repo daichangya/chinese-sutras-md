@@ -1,0 +1,18 @@
+cbeta_id: T47n1981
+title: 依观经等明般舟三昧行道往生赞
+translator: 唐 善导撰
+dynasty: 唐
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T1978-84, X0057,1464-68 净土礼忏仪 etc.
+  path:
+    - 16 净土宗部类
+    - T1957-84 etc. 净土宗 T47, X02,61-62,74
+    - T1978-84, X0057,1464-68 净土礼忏仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T47/T47n1981.xml

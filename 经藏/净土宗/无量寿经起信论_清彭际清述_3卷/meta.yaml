@@ -1,0 +1,19 @@
+cbeta_id: X22n0400
+title: 无量寿经起信论
+translator: 清 彭际清述
+dynasty: 清
+category: 净土宗
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T0310(5),0360-64, X0005 无量寿经 etc. T11-12a, X01, CC006／疏 T37,85, X22
+  path:
+    - 16 净土宗部类
+    - T0310 etc. 净土经 T11-12, X01-02,16, CC006／论 T26a／疏 T37,40b,85, X22
+    - T0310(5),0360-64, X0005 无量寿经 etc. T11-12a, X01, CC006／疏 T37,85, X22
+    - T1745-48,2759 etc. 无量寿经疏 T37,85, X22
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X22/X22n0400.xml
