@@ -1,134 +1,234 @@
 #!/usr/bin/env bash
-# 按部类目录分批 add / commit / push（Corpus V3 首次上 GitHub）
+# 按部类分批 commit + push，避免单次 push 过大导致 GitHub 超时。
+# 支持：经目迁入 经藏/（从仓库根下旧部类路径删除索引并添加 经藏/部类/）。
 # 用法:
-#   ./push-by-dept.sh              # 从 README 起全量推送
-#   ./push-by-dept.sh --resume     # 跳过已有 commit 的部类
-#   ./push-by-dept.sh --dept 般若   # 仅推送指定部类
-#   ./push-by-dept.sh --dry-run    # 只打印计划
+#   ./push-by-dept.sh              # README/脚本 + 辞典/知识图谱 + 经藏下 23 部类
+#   ./push-by-dept.sh --resume     # 跳过 经藏/部类 已在索引中的部类
+#   ./push-by-dept.sh --dept 般若  # 仅处理指定部类（经藏/般若）
+#   ./push-by-dept.sh --dry-run    # 仅打印计划
+#   ./push-by-dept.sh --no-push    # 仅本地 commit，不 push
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"
 cd "$ROOT"
 
-export GIT_SSH_COMMAND="${GIT_SSH_COMMAND:-ssh -o ServerAliveInterval=60 -o ServerAliveCountMax=10}"
+SUTRAS_BASE="经藏"
+AUX_DIRS=(辞典 知识图谱)
+BOOTSTRAP_FILES=(README.md .gitignore push-by-dept.sh)
+LOG_FILE="${PUSH_LOG:-.push-log.txt}"
 
-RESUME=false
-DRY_RUN=false
-DEPT_FILTER=""
+DRY_RUN=0
+RESUME=0
+NO_PUSH=0
+ONLY_DEPT=""
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
-    --resume) RESUME=true; shift ;;
-    --dry-run) DRY_RUN=true; shift ;;
+    --dry-run) DRY_RUN=1 ;;
+    --resume) RESUME=1 ;;
+    --no-push) NO_PUSH=1 ;;
     --dept)
-      DEPT_FILTER="${2:-}"
-      shift 2
+      shift
+      ONLY_DEPT="${1:-}"
+      [[ -n "$ONLY_DEPT" ]] || { echo "error: --dept requires a name"; exit 1; }
       ;;
-    *) echo "Unknown option: $1" >&2; exit 1 ;;
+    -h|--help)
+      sed -n '2,12p' "$0"
+      exit 0
+      ;;
+    *)
+      echo "unknown arg: $1" >&2
+      exit 1
+      ;;
   esac
+  shift
 done
 
-remote="${GIT_REMOTE:-origin}"
-branch="${GIT_BRANCH:-main}"
-
-log() { echo "[push-by-dept] $*"; }
-
-push_with_retry() {
-  local tries=0
-  while (( tries < 5 )); do
-    if git push "$@"; then
-      return 0
-    fi
-    tries=$((tries + 1))
-    log "push failed, retry $tries/5 in 15s..."
-    sleep 15
-  done
-  log "push failed after 5 attempts"
-  return 1
+log() {
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"
 }
 
-push_if_needed() {
-  if $DRY_RUN; then
+run() {
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    echo "  [dry-run] $*"
     return 0
   fi
-  if git rev-parse --abbrev-ref --symbolic-full-name "@{u}" &>/dev/null; then
-    local ahead
-    ahead="$(git rev-list --count "@{u}..HEAD" 2>/dev/null || echo 0)"
-    if [[ "$ahead" -gt 0 ]]; then
-      log "pushing $ahead unpushed commit(s)..."
-      push_with_retry "$remote" "$branch"
-    fi
-  fi
+  "$@"
 }
 
 has_commit_message() {
-  git log --format=%s 2>/dev/null | grep -Fxq "$1"
+  git log --oneline --grep="$1" -n 1 2>/dev/null | grep -q .
 }
 
 dept_already_tracked() {
+  local dept="$1"
+  [[ -n "$(git ls-files "$SUTRAS_BASE/$dept/" 2>/dev/null | head -1)" ]]
+}
+
+aux_already_tracked() {
+  local dir="$1"
+  [[ -n "$(git ls-files "$dir/" 2>/dev/null | head -1)" ]]
+}
+
+legacy_dept_in_index() {
   local dept="$1"
   [[ -n "$(git ls-files "$dept/" 2>/dev/null | head -1)" ]]
 }
 
 commit_and_push() {
   local msg="$1"
-  shift
-  local paths=("$@")
-
-  if $DRY_RUN; then
-    log "DRY-RUN commit: $msg"
-    printf '  %s\n' "${paths[@]}"
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    echo "  [dry-run] git commit -m \"$msg\" && git push"
     return 0
   fi
-
-  git add "${paths[@]}"
   if git diff --cached --quiet; then
-    log "skip (nothing to stage): $msg"
+    log "skip commit (nothing staged): $msg"
     return 0
   fi
-
-  git commit -q -m "$msg"
+  git commit -m "$msg"
   log "committed: $msg"
-
-  if ! git rev-parse --abbrev-ref --symbolic-full-name "@{u}" &>/dev/null; then
-    push_with_retry -u "$remote" "$branch"
-  else
-    push_with_retry "$remote" "$branch"
+  if [[ "$NO_PUSH" -eq 0 ]]; then
+    local attempt=0
+    while [[ $attempt -lt 5 ]]; do
+      if git push origin HEAD; then
+        log "pushed: $msg"
+        return 0
+      fi
+      attempt=$((attempt + 1))
+      log "push failed (attempt $attempt), retry in 30s..."
+      sleep 30
+    done
+    echo "push failed after 5 attempts: $msg" >&2
+    exit 1
   fi
-  log "pushed: $msg"
 }
 
-DEPTS=()
-while IFS= read -r d; do
-  DEPTS+=("$d")
-done < <(find . -mindepth 1 -maxdepth 1 -type d ! -name '.git' -print | sed 's|^\./||' | LC_ALL=C sort)
-
-if [[ -n "$DEPT_FILTER" ]]; then
-  DEPTS=("$DEPT_FILTER")
-fi
-
-push_if_needed
-
-bootstrap_msg="chore: add README and batch push tooling"
-if $RESUME && has_commit_message "$bootstrap_msg"; then
-  log "skip bootstrap (already committed)"
-else
-  bootstrap_files=(README.md .gitignore push-by-dept.sh)
-  [[ -f git-add-n.sh ]] && bootstrap_files+=(git-add-n.sh)
-  commit_and_push "$bootstrap_msg" "${bootstrap_files[@]}"
-fi
-
-for dept in "${DEPTS[@]}"; do
-  msg="Add corpus: $dept"
-  if $RESUME && { has_commit_message "$msg" || dept_already_tracked "$dept"; }; then
-    log "skip dept (already in repo): $dept"
-    continue
+commit_bootstrap() {
+  local staged=0
+  for f in "${BOOTSTRAP_FILES[@]}"; do
+    [[ -e "$f" ]] || continue
+    if [[ "$DRY_RUN" -eq 1 ]]; then
+      echo "  [dry-run] git add $f"
+      staged=1
+      continue
+    fi
+    if ! git diff --quiet -- "$f" 2>/dev/null || ! git diff --cached --quiet -- "$f" 2>/dev/null; then
+      git add "$f"
+      staged=1
+    elif [[ -n "$(git status --porcelain -- "$f" 2>/dev/null)" ]]; then
+      git add "$f"
+      staged=1
+    fi
+  done
+  if [[ $staged -eq 0 ]] && [[ "$DRY_RUN" -eq 0 ]]; then
+    log "bootstrap: no changes"
+    return 0
   fi
-  if [[ ! -d "$dept" ]]; then
-    log "warn: dept not found: $dept"
-    continue
+  commit_and_push "chore: update corpus README and push tooling"
+}
+
+commit_aux_dir() {
+  local dir="$1"
+  [[ -d "$dir" ]] || return 0
+  if [[ "$RESUME" -eq 1 ]] && aux_already_tracked "$dir"; then
+    log "skip aux (already tracked): $dir"
+    return 0
   fi
-  commit_and_push "$msg" "$dept/"
+  log "aux: $dir"
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    echo "  [dry-run] git add $dir/ && commit Add corpus auxiliary: $dir"
+    return 0
+  fi
+  git add "$dir/"
+  commit_and_push "Add corpus auxiliary: $dir"
+}
+
+push_dept() {
+  local dept="$1"
+  local nested="$SUTRAS_BASE/$dept"
+  local legacy=0
+  legacy_dept_in_index "$dept" && legacy=1
+
+  if [[ ! -d "$nested" ]]; then
+    if [[ $legacy -eq 1 ]]; then
+      log "dept: remove obsolete flat index (no 经藏 dir): $dept"
+      if [[ "$DRY_RUN" -eq 1 ]]; then
+        echo "  [dry-run] git rm -r --cached $dept/ && commit chore: remove obsolete flat corpus $dept"
+        return 0
+      fi
+      git rm -r --cached --quiet "$dept/" 2>/dev/null || git rm -r --cached "$dept/"
+      commit_and_push "chore: remove obsolete flat corpus $dept"
+    else
+      log "skip dept (not on disk, not in index): $dept"
+    fi
+    return 0
+  fi
+
+  if [[ "$RESUME" -eq 1 ]] && dept_already_tracked "$dept"; then
+    log "skip dept (经藏 already tracked): $dept"
+    return 0
+  fi
+
+  local msg="Add corpus: $dept"
+  [[ $legacy -eq 1 ]] && msg="refactor(经藏): migrate $dept"
+
+  log "dept: $dept -> $nested (legacy_index_removal=$legacy)"
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    if [[ $legacy -eq 1 ]]; then
+      echo "  [dry-run] git rm -r --cached $dept/"
+    fi
+    echo "  [dry-run] git add $nested/ && commit \"$msg\""
+    return 0
+  fi
+
+  if [[ $legacy -eq 1 ]]; then
+    git rm -r --cached --quiet "$dept/" 2>/dev/null || git rm -r --cached "$dept/"
+  fi
+  git add "$nested/"
+  commit_and_push "$msg"
+}
+
+# 经藏/ 下实存部类 + git 索引中仍有根路径的旧部类（去重排序）
+collect_depts() {
+  local -a names=()
+  local d top
+  shopt -s nullglob
+  for d in "$SUTRAS_BASE"/*/; do
+    names+=("$(basename "$d")")
+  done
+  shopt -u nullglob
+  while IFS= read -r top; do
+    case "$top" in
+      经藏|辞典|知识图谱|.gitignore|README.md|git-add-n.sh|push-by-dept.sh) continue ;;
+    esac
+    legacy_dept_in_index "$top" && names+=("$top")
+  done < <(git ls-files -z | tr '\0' '\n' | while IFS= read -r f; do printf '%s\n' "${f%%/*}"; done | sort -u)
+  if [[ ${#names[@]} -eq 0 ]]; then
+    return
+  fi
+  printf '%s\n' "${names[@]}" | LC_ALL=C sort -u
+}
+
+log "=== push-by-dept start (dry_run=$DRY_RUN resume=$RESUME no_push=$NO_PUSH) ==="
+
+run git rev-parse --is-inside-work-tree >/dev/null
+
+log "phase 1: bootstrap"
+commit_bootstrap
+
+log "phase 2: auxiliary corpus (辞典 / 知识图谱)"
+for aux in "${AUX_DIRS[@]}"; do
+  commit_aux_dir "$aux"
 done
 
-log "done."
+log "phase 3: sutras under $SUTRAS_BASE/"
+if [[ -n "$ONLY_DEPT" ]]; then
+  push_dept "$ONLY_DEPT"
+else
+  while IFS= read -r dept; do
+    [[ -n "$dept" ]] || continue
+    push_dept "$dept"
+  done < <(collect_depts)
+fi
+
+log "=== push-by-dept done ==="

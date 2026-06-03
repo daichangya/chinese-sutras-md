@@ -22,19 +22,38 @@ npm run dev
 
 ```text
 chinese-sutras-md/              # 本仓库根 = 语料根
-├── 阿含（小乘根本经典）/
-│   └── 长阿含经_1卷/
-│       ├── meta.yaml
-│       ├── _index/blocks.jsonl
-│       ├── 原文/第001卷.md     # CBETA 繁体原文
-│       ├── 简体/第001卷.md
-│       ├── 拼音/第001卷.md
-│       ├── 白話/第001卷.md
-│       └── 注釋/第001卷.md
+├── 辞典/                       # 佛教辞典（JSONL 真相源）
+├── 知识图谱/                   # 知识图谱（实体/关系 JSONL）
+├── 经藏/                       # 汉传经目 Markdown（23 部类）
+│   ├── 阿含（小乘根本经典）/
+│   │   └── 长阿含经_1卷/
+│   │       ├── meta.yaml
+│   │       ├── _index/blocks.jsonl
+│   │       ├── 原文/第001卷.md # CBETA 繁体原文
+│   │       ├── 简体/第001卷.md
+│   │       ├── 拼音/第001卷.md
+│   │       ├── 白話/第001卷.md
+│   │       └── 注釋/第001卷.md
+│   └── 般若/ …
 └── README.md
 ```
 
-经目按 **23 类佛学部类** 分顶层目录（如 `般若`、`法华`、`新编（新增及近现代文献）`）。经目文件夹名为**简体中文**；`原文/` 正文保持繁体。
+经目在 `经藏/` 下按 **23 类佛学部类** 分目录（如 `般若`、`法华`、`新编（新增及近现代文献）`）。经目文件夹名为**简体中文**；`原文/` 正文保持繁体。
+
+从旧版「部类直接在仓库根下」迁移：
+
+```bash
+# 在 jingxin 仓库
+npm run corpus:migrate-nest -- --dry-run
+npm run corpus:migrate-nest
+```
+
+从旧版英文目录名（`dictionaries`、`knowledge-graph`、`sources/soothill` 等）迁移为中文：
+
+```bash
+npm run corpus:migrate-dir-zh -- --dry-run
+npm run corpus:migrate-dir-zh
+```
 
 ### 经目目录名
 
@@ -49,6 +68,15 @@ chinese-sutras-md/              # 本仓库根 = 语料根
    - 再次 **录文语义**（新编文献）：如 `录文二`、`录文三`
    - 兜底 **紧凑经号**：如 `n0073b`、`n1510b`
 3. **最后兜底**：完整 `cbeta_id`（如 `T08n0236b`）
+
+**ZW 藏外文献同名冲突**：若 CBETA 在多部 ZW 卷中复用相同 level-m 题名（如各卷《藏外佛教文献》要目），同部类内出现同名时，在 `meta.title` 末尾追加 `（ZW第N卷）`（从 XML `idno type="vol"` 读取），目录仍用 `书名_1卷`。示例：
+
+| cbeta_id | title | 目录名 |
+|----------|-------|--------|
+| ZW08na047 | `…第一～九辑要目（ZW第8卷）` | `…（ZW第8卷）_1卷` |
+| ZW09na054 | `…第一～九辑要目（ZW第9卷）` | `…（ZW第9卷）_1卷` |
+
+`原文/` 标题行仍保留 XML 繁体题名；仅 `meta.title` 与辅助层 MD 首行使用带 ZW 卷标识的简体题名。
 
 示例：《金刚经赞集》系列（ZW09n0073）：
 
@@ -135,7 +163,7 @@ npm run corpus:migrate-dept
 
 ## 人工校对白话
 
-1. 编辑 `{部类}/{经名}/白話/第NNN卷.md`，与 `原文/` 同卷、同段落顺序（空行分段）
+1. 编辑 `经藏/{部类}/{经名}/白話/第NNN卷.md`，与 `原文/` 同卷、同段落顺序（空行分段）
 2. 在 jingxin 中运行 `npm run corpus:import`
 
 ## 许可与来源
@@ -144,14 +172,19 @@ npm run corpus:migrate-dept
 
 ## 首次推送到 GitHub（分批）
 
-语料体积大（~3GB），建议按部类分批 push：
+语料体积大（~3GB），**不要用** `git-add-n.sh` 随机分批（会把「删除旧路径」与「新增经藏/」混在同一 commit，且 message 无意义）。
+
+推荐 `push-by-dept.sh`（经目已迁到 `经藏/` 时，会先从索引移除根下旧部类路径，再 `git add 经藏/部类/`）：
 
 ```bash
 cd chinese-sutras-md
-./push-by-dept.sh              # 全量：README + 23 部类，约 24 次 push
-./push-by-dept.sh --resume       # 中断后续推（跳过已有 commit）
-./push-by-dept.sh --dept 般若    # 仅推指定部类
-./push-by-dept.sh --dry-run      # 预览计划
+./push-by-dept.sh --dry-run       # 预览：bootstrap → 辞典/知识图谱 → 23 部类
+./push-by-dept.sh                 # 全量 push（约 26 次：1 工具 + 2 辅助 + 23 部类）
+./push-by-dept.sh --resume        # 中断后续推（跳过 经藏/部类 已在 git 索引中的部类）
+./push-by-dept.sh --no-push       # 仅本地 commit，稍后统一 push
+./push-by-dept.sh --dept 般若     # 仅推指定部类
 ```
+
+若终端里仍在循环执行 `git-add-n.sh`，请先 `Ctrl+C` 停止，再运行上述脚本。
 
 日志默认写入 `.push-log.txt`（已 gitignore）。
