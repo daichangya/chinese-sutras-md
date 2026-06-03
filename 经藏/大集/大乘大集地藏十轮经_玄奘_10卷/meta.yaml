@@ -1,0 +1,17 @@
+cbeta_id: T13n0411
+title: 大乘大集地藏十轮经
+translator: 唐 玄奘译
+dynasty: 唐
+category: 大集
+bulei:
+  section_code: "08"
+  section: 大集部类
+  group: T0398-424 etc. 大集经余 T13, X21,74, A114
+  path:
+    - 08 大集部类
+    - T0398-424 etc. 大集经余 T13, X21,74, A114
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T13/T13n0411.xml

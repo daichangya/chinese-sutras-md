@@ -1,0 +1,16 @@
+cbeta_id: T13n0397
+title: 大方等大集经
+translator: 北凉 昙无谶译
+dynasty: 北凉
+category: 大集
+bulei:
+  section_code: "08"
+  section: 大集部类
+  group: 08 大集部类 T13,26a, X21,74 etc.
+  path:
+    - 08 大集部类
+  kind: 经
+  source: bulei.txt
+juan_count: 60
+source_xml:
+  - T/T13/T13n0397.xml

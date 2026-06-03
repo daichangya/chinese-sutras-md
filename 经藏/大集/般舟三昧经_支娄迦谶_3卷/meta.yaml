@@ -1,0 +1,17 @@
+cbeta_id: T13n0418
+title: 般舟三昧经
+translator: 后汉 支娄迦谶译
+dynasty: 后汉
+category: 大集
+bulei:
+  section_code: "08"
+  section: 大集部类
+  group: T0398-424 etc. 大集经余 T13, X21,74, A114
+  path:
+    - 08 大集部类
+    - T0398-424 etc. 大集经余 T13, X21,74, A114
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T13/T13n0418.xml
