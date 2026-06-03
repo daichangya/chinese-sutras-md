@@ -1,0 +1,18 @@
+cbeta_id: X37n0671
+title: 四十二章经疏钞
+translator: 清 续法述
+dynasty: 清
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0784 四十二章经／疏 T39, X37
+  path:
+    - 09 经集部类
+    - T0760-84 etc. 名数经 etc. T17, X37
+    - T0784 四十二章经／疏 T39, X37
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - X/X37/X37n0671.xml

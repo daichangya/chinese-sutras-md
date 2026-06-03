@@ -1,0 +1,17 @@
+cbeta_id: X37n0674
+title: 阅经十二种
+translator: 清 净挺着
+dynasty: 清
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+  path:
+    - 09 经集部类
+    - T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+  kind: 疏
+  source: bulei.txt
+juan_count: 14
+source_xml:
+  - X/X37/X37n0674.xml

@@ -1,0 +1,17 @@
+cbeta_id: T14n0473
+title: 佛说妙吉祥菩萨所问大乘法螺经
+translator: 宋 法贤译
+dynasty: 宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0458-601, X0026-27 所问经 etc. T14-15, X01／疏 T38,T85, X18-20,39, G103,124
+  path:
+    - 09 经集部类
+    - T0458-601, X0026-27 所问经 etc. T14-15, X01／疏 T38,T85, X18-20,39, G103,124
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T14/T14n0473.xml

@@ -1,0 +1,18 @@
+cbeta_id: X20n0364
+title: 思益梵天所问经简注
+translator: 明 圆澄注
+dynasty: 明
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0586 思益梵天所问经 T15／简注 X20
+  path:
+    - 09 经集部类
+    - T0458-601, X0026-27 所问经 etc. T14-15, X01／疏 T38,T85, X18-20,39, G103,124
+    - T0586 思益梵天所问经 T15／简注 X20
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - X/X20/X20n0364.xml

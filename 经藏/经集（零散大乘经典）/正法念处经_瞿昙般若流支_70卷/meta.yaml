@@ -1,0 +1,17 @@
+cbeta_id: T17n0721
+title: 正法念处经
+translator: 元魏 瞿昙般若流支译
+dynasty: 元魏
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0721-59, X0023 业道经 etc. T17, X01
+  path:
+    - 09 经集部类
+    - T0721-59, X0023 业道经 etc. T17, X01
+  kind: 疏
+  source: bulei.txt
+juan_count: 70
+source_xml:
+  - T/T17/T17n0721.xml

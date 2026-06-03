@@ -1,0 +1,18 @@
+cbeta_id: X21n0393
+title: 弥勒上生经瑞应钞科
+translator: 宋 守千集
+dynasty: 宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: 弥勒经 etc. T14／疏 T38, X21, S06
+  path:
+    - 09 经集部类
+    - T0449-457, F0088 诸佛本愿经 etc. T14,19,21, F03／疏 T38,T85, X21, S06／礼忏 X74
+    - 弥勒经 etc. T14／疏 T38, X21, S06
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X21/X21n0393.xml

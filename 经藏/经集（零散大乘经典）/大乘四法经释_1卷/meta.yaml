@@ -1,0 +1,16 @@
+cbeta_id: T26n1535
+title: 大乘四法经释
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T1535 大乘四法经释／疏 T85
+  path:
+    - 09 经集部类
+    - T1530-35 经集部释论 T26a／疏 T85
+    - T1535 大乘四法经释／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T26/T26n1535.xml

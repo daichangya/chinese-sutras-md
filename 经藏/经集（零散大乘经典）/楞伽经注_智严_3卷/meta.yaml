@@ -1,0 +1,17 @@
+cbeta_id: X17n0321
+title: 楞伽经注
+translator: 唐 智严注
+dynasty: 唐
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0670-74, X0008 楞伽经 etc. T16, X01／疏 T39,85, X17-18, C097
+  path:
+    - 09 经集部类
+    - T0670-74, X0008 楞伽经 etc. T16, X01／疏 T39,85, X17-18, C097
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X17/X17n0321.xml

@@ -1,0 +1,18 @@
+cbeta_id: T17n0839
+title: 占察善恶业报经
+translator: 隋 菩提灯译
+dynasty: 隋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0839-41, X1485 占察善恶业报经 etc. T17, X74／疏 X21
+  path:
+    - 09 经集部类
+    - T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+    - T0839-41, X1485 占察善恶业报经 etc. T17, X74／疏 X21
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T17/T17n0839.xml

@@ -1,0 +1,17 @@
+cbeta_id: T15n0628
+title: 佛说未曾有正法经
+translator: 宋 法天译
+dynasty: 宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0621-48, X0015 三昧经 etc. T15, X01
+  path:
+    - 09 经集部类
+    - T0621-48, X0015 三昧经 etc. T15, X01
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T15/T15n0628.xml

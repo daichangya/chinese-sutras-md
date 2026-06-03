@@ -1,0 +1,17 @@
+cbeta_id: T17n0818
+title: 大庄严法门经
+translator: 隋 那连提耶舍译
+dynasty: 隋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+  path:
+    - 09 经集部类
+    - T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T17/T17n0818.xml

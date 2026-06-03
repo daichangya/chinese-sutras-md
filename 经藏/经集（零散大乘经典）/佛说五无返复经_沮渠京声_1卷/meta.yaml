@@ -1,0 +1,17 @@
+cbeta_id: T17n0752
+title: 佛说五无返复经
+translator: 刘宋 沮渠京声译
+dynasty: 刘宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0721-59, X0023 业道经 etc. T17, X01
+  path:
+    - 09 经集部类
+    - T0721-59, X0023 业道经 etc. T17, X01
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T17/T17n0752.xml

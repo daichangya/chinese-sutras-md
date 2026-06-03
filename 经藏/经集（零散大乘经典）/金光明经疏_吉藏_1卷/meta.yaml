@@ -1,0 +1,17 @@
+cbeta_id: T39n1787
+title: 金光明经疏
+translator: 隋 吉藏撰
+dynasty: 隋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0663-65 金光明经 etc. T16／疏 T39, X20
+  path:
+    - 09 经集部类
+    - T0663-65 金光明经 etc. T16／疏 T39, X20
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T39/T39n1787.xml

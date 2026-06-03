@@ -1,0 +1,17 @@
+cbeta_id: T15n0645
+title: 不必定入定入印经
+translator: 元魏 瞿昙般若流支译
+dynasty: 元魏
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0621-48, X0015 三昧经 etc. T15, X01
+  path:
+    - 09 经集部类
+    - T0621-48, X0015 三昧经 etc. T15, X01
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T15/T15n0645.xml

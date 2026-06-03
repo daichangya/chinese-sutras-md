@@ -1,0 +1,17 @@
+cbeta_id: T16n0661
+title: 大乘百福相经
+translator: 唐 地婆诃罗译
+dynasty: 唐
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0656-62 璎珞经 etc. T16
+  path:
+    - 09 经集部类
+    - T0656-62 璎珞经 etc. T16
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T16/T16n0661.xml

@@ -1,0 +1,16 @@
+cbeta_id: T14n0441
+title: 佛说佛名经
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0425-448 etc. 佛名经 etc. T14, F28, C071, L157
+  path:
+    - 09 经集部类
+    - T0425-448 etc. 佛名经 etc. T14, F28, C071, L157
+  kind: 经
+  source: bulei.txt
+juan_count: 30
+source_xml:
+  - T/T14/T14n0441.xml
+dir_label: 第1-30卷

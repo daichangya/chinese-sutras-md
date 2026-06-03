@@ -1,0 +1,18 @@
+cbeta_id: T19n0922
+title: 药师琉璃光如来消灾除难念诵仪轨
+translator: 唐 一行撰
+dynasty: 唐
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: 药师经 etc. T14,19,21, F03／疏 T38,85, X21／礼忏 X74
+  path:
+    - 09 经集部类
+    - T0449-457, F0088 诸佛本愿经 etc. T14,19,21, F03／疏 T38,T85, X21, S06／礼忏 X74
+    - 药师经 etc. T14,19,21, F03／疏 T38,85, X21／礼忏 X74
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T19/T19n0922.xml

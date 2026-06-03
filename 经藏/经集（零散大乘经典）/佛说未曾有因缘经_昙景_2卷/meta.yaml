@@ -1,0 +1,17 @@
+cbeta_id: T17n0754
+title: 佛说未曾有因缘经
+translator: 萧齐 昙景译
+dynasty: 萧齐
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0721-59, X0023 业道经 etc. T17, X01
+  path:
+    - 09 经集部类
+    - T0721-59, X0023 业道经 etc. T17, X01
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T17/T17n0754.xml

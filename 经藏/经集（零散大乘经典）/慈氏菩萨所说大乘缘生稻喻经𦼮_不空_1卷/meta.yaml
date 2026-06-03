@@ -1,0 +1,18 @@
+cbeta_id: T16n0710
+title: 慈氏菩萨所说大乘缘生稻喻经𦼮
+translator: 唐 不空译
+dynasty: 唐
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0708-12 稻[卄/干]经／疏 T85
+  path:
+    - 09 经集部类
+    - T0708-20 缘生经 etc. T16／疏 T85
+    - T0708-12 稻[卄/干]经／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T16/T16n0710.xml

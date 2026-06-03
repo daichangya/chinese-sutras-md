@@ -1,0 +1,16 @@
+cbeta_id: F28n1072
+title: 一切佛菩萨名集
+translator: 德云集
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0425-448 etc. 佛名经 etc. T14, F28, C071, L157
+  path:
+    - 09 经集部类
+    - T0425-448 etc. 佛名经 etc. T14, F28, C071, L157
+  kind: 经
+  source: bulei.txt
+juan_count: 22
+source_xml:
+  - F/F28/F28n1072.xml

@@ -1,0 +1,18 @@
+cbeta_id: X37n0672
+title: 八大人觉经略解
+translator: 明 智旭解
+dynasty: 明
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0779 佛说八大人觉经／疏 X37
+  path:
+    - 09 经集部类
+    - T0760-84 etc. 名数经 etc. T17, X37
+    - T0779 佛说八大人觉经／疏 X37
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X37/X37n0672.xml

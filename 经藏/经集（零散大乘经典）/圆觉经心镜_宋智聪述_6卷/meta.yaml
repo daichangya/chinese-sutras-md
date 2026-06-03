@@ -1,0 +1,18 @@
+cbeta_id: X10n0254
+title: 圆觉经心镜
+translator: 宋 智聪述
+dynasty: 宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0842, X0001 圆觉经 etc. T17, X01／疏 T39, X09-10, F12
+  path:
+    - 09 经集部类
+    - T0790-847, JB044 etc. 诸杂经 etc. T17, X01,74, J19／疏 X09-10, 21,37
+    - T0842, X0001 圆觉经 etc. T17, X01／疏 T39, X09-10, F12
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X10/X10n0254.xml

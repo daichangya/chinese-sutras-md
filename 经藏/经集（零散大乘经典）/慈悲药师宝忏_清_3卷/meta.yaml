@@ -1,0 +1,17 @@
+cbeta_id: X74n1484
+title: 慈悲药师宝忏
+translator: 清
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: 药师经 etc. T14,19,21, F03／疏 T38,85, X21／礼忏 X74
+  path:
+    - 09 经集部类
+    - T0449-457, F0088 诸佛本愿经 etc. T14,19,21, F03／疏 T38,T85, X21, S06／礼忏 X74
+    - 药师经 etc. T14,19,21, F03／疏 T38,85, X21／礼忏 X74
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X74/X74n1484.xml

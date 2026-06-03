@@ -1,0 +1,18 @@
+cbeta_id: X74n1500
+title: 兰盆献供仪
+translator: 宋 元照重集
+dynasty: 宋
+category: 经集（零散大乘经典）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0685 盂兰盆经／疏 T39,85, X21, G124／礼忏 X74
+  path:
+    - 09 经集部类
+    - T0683-707 福田经 etc. T16／疏 T39,85, X21, G124／礼忏 X74
+    - T0685 盂兰盆经／疏 T39,85, X21, G124／礼忏 X74
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X74/X74n1500.xml
