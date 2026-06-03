@@ -1,0 +1,18 @@
+cbeta_id: T12n0382
+title: 集一切福德三昧经
+translator: 姚秦 鸠摩罗什译
+dynasty: 姚秦
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0381-82 众德三昧
+  path:
+    - 07 涅槃部类
+    - T0377-88,90-96, F0248 涅槃经余 T12b, F03
+    - T0381-82 众德三昧
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T12/T12n0382.xml

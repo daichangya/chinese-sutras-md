@@ -1,0 +1,18 @@
+cbeta_id: T37n1763
+title: 大般涅槃经集解
+translator: 梁 宝亮等集
+dynasty: 梁
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  path:
+    - 07 涅槃部类
+    - T0374-76 涅槃经 T12b／疏 T37-38,85, X36-37
+    - T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  kind: 疏
+  source: bulei.txt
+juan_count: 71
+source_xml:
+  - T/T37/T37n1763.xml

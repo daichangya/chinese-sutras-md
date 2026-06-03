@@ -1,0 +1,16 @@
+cbeta_id: T26n1527
+title: 涅槃论
+translator: 婆薮槃豆作  元魏 达磨菩提译
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T1527-28 涅槃经释论 T26a
+  path:
+    - 07 涅槃部类
+    - T1527-28 涅槃经释论 T26a
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T26/T26n1527.xml

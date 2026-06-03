@@ -1,0 +1,18 @@
+cbeta_id: T38n1766
+title: 涅槃玄义发源机要
+translator: 宋 智圆述
+dynasty: 宋
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  path:
+    - 07 涅槃部类
+    - T0374-76 涅槃经 T12b／疏 T37-38,85, X36-37
+    - T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - T/T38/T38n1766.xml

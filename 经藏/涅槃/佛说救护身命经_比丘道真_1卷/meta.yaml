@@ -1,0 +1,16 @@
+cbeta_id: F03n0248
+title: 佛说救护身命经
+translator: 比丘道真译
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0377-88,90-96, F0248 涅槃经余 T12b, F03
+  path:
+    - 07 涅槃部类
+    - T0377-88,90-96, F0248 涅槃经余 T12b, F03
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - F/F03/F03n0248.xml

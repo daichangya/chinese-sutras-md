@@ -1,0 +1,18 @@
+cbeta_id: X36n0659
+title: 涅槃经会疏
+translator: 隋 灌顶撰　唐 湛然再治　日本 本纯分会
+dynasty: 隋
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  path:
+    - 07 涅槃部类
+    - T0374-76 涅槃经 T12b／疏 T37-38,85, X36-37
+    - T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  kind: 疏
+  source: bulei.txt
+juan_count: 36
+source_xml:
+  - X/X36/X36n0659.xml

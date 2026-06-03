@@ -1,0 +1,18 @@
+cbeta_id: X37n0664
+title: 涅槃经会疏解
+translator: 元 师正分科　明 圆澄会疏
+dynasty: 元
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  path:
+    - 07 涅槃部类
+    - T0374-76 涅槃经 T12b／疏 T37-38,85, X36-37
+    - T0375 涅槃经南本 T12b／疏 T37-38,85, X36-37
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X37/X37n0664.xml

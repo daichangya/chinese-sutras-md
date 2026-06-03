@@ -1,0 +1,17 @@
+cbeta_id: X53n0846
+title: 遗教经论记
+translator: 宋 观复述
+dynasty: 宋
+category: 涅槃
+bulei:
+  section_code: "07"
+  section: 涅槃部类
+  group: T0389 遗教经 T12b／论 T26a／疏 T40b, X37,53, P174
+  path:
+    - 07 涅槃部类
+    - T0389 遗教经 T12b／论 T26a／疏 T40b, X37,53, P174
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X53/X53n0846.xml
