@@ -1,0 +1,19 @@
+cbeta_id: T24n1454
+title: 根本说一切有部戒经
+translator: 唐 义净译
+dynasty: 唐
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T1421-83 etc. 声闻律藏 T22-24,40a, X39-40,44, F02
+  path:
+    - 11 律部类
+    - T22-24,40a, X39-40,44, A114 律部／疏 T40a,85, X38-39,44, F02
+    - T1421-83 etc. 声闻律藏 T22-24,40a, X39-40,44, F02
+    - T1421-64 etc. 声闻律典 T22-24,40a, X39-40, F02
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T24/T24n1454.xml

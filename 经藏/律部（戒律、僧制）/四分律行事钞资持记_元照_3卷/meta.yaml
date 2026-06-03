@@ -1,0 +1,17 @@
+cbeta_id: T40n1805
+title: 四分律行事钞资持记
+translator: 宋 元照撰
+dynasty: 宋
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T40a,85, X39-44, G104 四分律疏
+  path:
+    - 11 律部类
+    - T40a,85, X39-44, G104 四分律疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T40/T40n1805.xml

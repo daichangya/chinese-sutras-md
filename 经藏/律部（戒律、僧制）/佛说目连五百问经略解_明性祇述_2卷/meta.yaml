@@ -1,0 +1,19 @@
+cbeta_id: X44n0750
+title: 佛说目连五百问经略解
+translator: 明 性祇述
+dynasty: 明
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T1421-83 etc. 声闻律藏 T22-24,40a, X39-40,44, F02
+  path:
+    - 11 律部类
+    - T22-24,40a, X39-40,44, A114 律部／疏 T40a,85, X38-39,44, F02
+    - T1421-83 etc. 声闻律藏 T22-24,40a, X39-40,44, F02
+    - T1465-83, X0750-51 戒律小经 T24, X44
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X44/X44n0750.xml

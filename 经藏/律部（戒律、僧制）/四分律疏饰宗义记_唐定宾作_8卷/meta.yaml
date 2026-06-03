@@ -1,0 +1,17 @@
+cbeta_id: X42n0733
+title: 四分律疏饰宗义记
+translator: 唐 定宾作
+dynasty: 唐
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T40a,85, X39-44, G104 四分律疏
+  path:
+    - 11 律部类
+    - T40a,85, X39-44, G104 四分律疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 8
+source_xml:
+  - X/X42/X42n0733.xml

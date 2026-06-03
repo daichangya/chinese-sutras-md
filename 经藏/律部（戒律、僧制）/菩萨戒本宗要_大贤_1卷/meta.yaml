@@ -1,0 +1,18 @@
+cbeta_id: T45n1906
+title: 菩萨戒本宗要
+translator: 新罗 大贤撰
+dynasty: 新罗
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T1906-7, X0702-3 菩萨戒持犯论 etc.
+  path:
+    - 11 律部类
+    - T45, X39,44,59-60,74, G104 律宗
+    - T1906-7, X0702-3 菩萨戒持犯论 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T45/T45n1906.xml

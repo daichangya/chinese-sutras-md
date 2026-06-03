@@ -1,0 +1,16 @@
+cbeta_id: N01n0001
+title: 经分别(第1卷-第4卷)
+translator: 通妙译
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0001-03 律藏 N01-05
+  path:
+    - 22 南传大藏经部类
+    - N0001-03 律藏 N01-05
+  kind: 经
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - N/N01/N01n0001.xml

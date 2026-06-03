@@ -1,0 +1,17 @@
+cbeta_id: X59n1085
+title: 受菩萨戒仪
+translator: 陈 慧思撰
+dynasty: 陈
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T45, X39,44,59-60,74, G104 律宗
+  path:
+    - 11 律部类
+    - T45, X39,44,59-60,74, G104 律宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X59/X59n1085.xml

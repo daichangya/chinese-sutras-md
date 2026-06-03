@@ -1,0 +1,18 @@
+cbeta_id: X60n1135
+title: 羯磨仪式
+translator: 清 书玉述
+dynasty: 清
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: X1116,19,34-35 书玉著作
+  path:
+    - 11 律部类
+    - T45, X39,44,59-60,74, G104 律宗
+    - X1116,19,34-35 书玉著作
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X60/X60n1135.xml

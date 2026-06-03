@@ -1,0 +1,16 @@
+cbeta_id: N03n0002
+title: 犍度(第1卷-第10卷)
+translator: 通妙译
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0001-03 律藏 N01-05
+  path:
+    - 22 南传大藏经部类
+    - N0001-03 律藏 N01-05
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - N/N03/N03n0002.xml

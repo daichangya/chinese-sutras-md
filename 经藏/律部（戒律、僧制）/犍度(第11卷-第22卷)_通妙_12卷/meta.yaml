@@ -1,0 +1,16 @@
+cbeta_id: N04n0002
+title: 犍度(第11卷-第22卷)
+translator: 通妙译
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0001-03 律藏 N01-05
+  path:
+    - 22 南传大藏经部类
+    - N0001-03 律藏 N01-05
+  kind: 经
+  source: short
+juan_count: 12
+source_xml:
+  - N/N04/N04n0002.xml

@@ -1,0 +1,18 @@
+cbeta_id: X74n1498
+title: 法界圣凡水陆大斋普利道场性相通论
+translator: 清 咫观述
+dynasty: 清
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T1908-10, X1489-90,95-99,1504-07 礼忏仪
+  path:
+    - 11 律部类
+    - T45, X39,44,59-60,74, G104 律宗
+    - T1908-10, X1489-90,95-99,1504-07 礼忏仪
+  kind: 疏
+  source: bulei.txt
+juan_count: 9
+source_xml:
+  - X/X74/X74n1498.xml

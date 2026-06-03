@@ -1,0 +1,17 @@
+cbeta_id: X44n0740
+title: 资持记序解并五例讲义
+translator: 宋 则安述
+dynasty: 宋
+category: 律部（戒律、僧制）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T40a,85, X39-44, G104 四分律疏
+  path:
+    - 11 律部类
+    - T40a,85, X39-44, G104 四分律疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X44/X44n0740.xml
