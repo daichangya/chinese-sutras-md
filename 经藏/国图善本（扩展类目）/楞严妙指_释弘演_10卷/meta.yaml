@@ -1,0 +1,16 @@
+cbeta_id: D16n8859
+title: 楞严妙指
+translator: 明 释弘演撰
+dynasty: 明
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - D/D16/D16n8859.xml

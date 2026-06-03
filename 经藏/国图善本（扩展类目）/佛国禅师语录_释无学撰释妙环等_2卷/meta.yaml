@@ -1,0 +1,16 @@
+cbeta_id: D51n8948
+title: 佛国禅师语录
+translator: 元 释无学撰　释妙环等编
+dynasty: 元
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - D/D51/D51n8948.xml

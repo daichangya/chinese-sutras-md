@@ -1,0 +1,16 @@
+cbeta_id: D24n8880
+title: 成唯识论述记序释
+translator: 日本 释善珠撰
+dynasty: 日本
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - D/D24/D24n8880.xml

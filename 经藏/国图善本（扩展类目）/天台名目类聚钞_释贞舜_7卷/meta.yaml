@@ -1,0 +1,16 @@
+cbeta_id: D40n8903
+title: 天台名目类聚钞
+translator: 日本 释贞舜撰
+dynasty: 日本
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - D/D40/D40n8903.xml

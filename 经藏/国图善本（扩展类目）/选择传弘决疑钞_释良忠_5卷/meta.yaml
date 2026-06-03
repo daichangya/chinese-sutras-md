@@ -1,0 +1,16 @@
+cbeta_id: D42n8905
+title: 选择传弘决疑钞
+translator: 日本 释良忠撰
+dynasty: 日本
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - D/D42/D42n8905.xml

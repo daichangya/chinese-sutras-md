@@ -1,0 +1,14 @@
+cbeta_id: D03n8701
+title: 盂兰盆经讲经文（前残）
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - D/D03/D03n8701.xml

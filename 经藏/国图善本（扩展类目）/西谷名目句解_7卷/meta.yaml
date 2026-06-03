@@ -1,0 +1,15 @@
+cbeta_id: D41n8904
+title: 西谷名目句解
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - D/D41/D41n8904.xml
+dir_label: 第1-7卷

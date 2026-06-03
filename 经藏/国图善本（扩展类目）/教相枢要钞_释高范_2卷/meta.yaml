@@ -1,0 +1,16 @@
+cbeta_id: D30n8889
+title: 教相枢要钞
+translator: 日本 释高范撰
+dynasty: 日本
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - D/D30/D30n8889.xml

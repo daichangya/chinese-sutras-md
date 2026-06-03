@@ -1,0 +1,16 @@
+cbeta_id: D17n8862
+title: 楞严经四依解
+translator: 明 释观衡述
+dynasty: 明
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - D/D17/D17n8862.xml

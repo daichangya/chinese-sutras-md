@@ -1,0 +1,16 @@
+cbeta_id: D37n8896
+title: 唯识义
+translator: 日本 释真兴撰
+dynasty: 日本
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - D/D37/D37n8896.xml

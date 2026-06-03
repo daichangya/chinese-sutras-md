@@ -1,0 +1,16 @@
+cbeta_id: D56n8980
+title: 冥枢会要
+translator: 宋 释祖心编
+dynasty: 宋
+category: 国图善本（扩展类目）
+bulei:
+  section_code: "21"
+  section: 国图善本部类
+  group: 21 国图善本部类 D01-64
+  path:
+    - 21 国图善本部类
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - D/D56/D56n8980.xml
