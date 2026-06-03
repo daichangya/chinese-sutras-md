@@ -1,0 +1,18 @@
+cbeta_id: T42n1825
+title: 十二门论疏
+translator: 隋 吉藏撰
+dynasty: 隋
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1568 十二门论／疏 T42, G151
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1568 十二门论／疏 T42, G151
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T42/T42n1825.xml

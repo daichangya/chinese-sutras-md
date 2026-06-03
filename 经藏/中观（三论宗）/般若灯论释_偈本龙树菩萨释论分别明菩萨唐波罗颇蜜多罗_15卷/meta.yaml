@@ -1,0 +1,17 @@
+cbeta_id: T30n1566
+title: 般若灯论释
+translator: 偈本龙树菩萨  释论分别明菩萨  唐 波罗颇蜜多罗译
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1564-67, K1482 中论 etc.／疏 T42
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1564-67, K1482 中论 etc.／疏 T42
+  kind: 疏
+  source: bulei.txt
+juan_count: 15
+source_xml:
+  - T/T30/T30n1566.xml

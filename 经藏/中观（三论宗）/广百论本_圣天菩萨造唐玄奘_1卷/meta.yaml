@@ -1,0 +1,17 @@
+cbeta_id: T30n1570
+title: 广百论本
+translator: 圣天菩萨造  唐 玄奘译
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1569-72 百论 etc.／疏 T42,85
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1569-72 百论 etc.／疏 T42,85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T30/T30n1570.xml

@@ -1,0 +1,19 @@
+cbeta_id: T42n1827
+title: 百论疏
+translator: 隋 吉藏撰
+dynasty: 隋
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1569-72 百论 etc.／疏 T42,85
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1569-72 百论 etc.／疏 T42,85
+    - T1569 百论／疏 T42
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T42/T42n1827.xml

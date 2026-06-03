@@ -1,0 +1,18 @@
+cbeta_id: X54n0866
+title: 肇论疏
+translator: 晋 惠达撰
+dynasty: 晋
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1857-60 etc. 肇论／疏 T45, X54
+  path:
+    - 13 中观部类
+    - T45, X46,54 三论宗
+    - T1857-60 etc. 肇论／疏 T45, X54
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X54/X54n0866.xml

@@ -1,0 +1,17 @@
+cbeta_id: T45n1856
+title: 鸠摩罗什法师大义
+translator: 东晋 慧远问．罗什答
+dynasty: 东晋
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T45, X46,54 三论宗
+  path:
+    - 13 中观部类
+    - T45, X46,54 三论宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T45/T45n1856.xml

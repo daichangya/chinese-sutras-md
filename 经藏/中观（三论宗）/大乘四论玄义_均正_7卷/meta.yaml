@@ -1,0 +1,17 @@
+cbeta_id: X46n0784
+title: 大乘四论玄义
+translator: 唐 均正撰
+dynasty: 唐
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T45, X46,54 三论宗
+  path:
+    - 13 中观部类
+    - T45, X46,54 三论宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - X/X46/X46n0784.xml

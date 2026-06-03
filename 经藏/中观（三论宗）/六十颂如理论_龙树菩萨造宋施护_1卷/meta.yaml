@@ -1,0 +1,17 @@
+cbeta_id: T30n1575
+title: 六十颂如理论
+translator: 龙树菩萨造  宋 施护译
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1573-78 中观纲要 T30／疏 X46
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1573-78 中观纲要 T30／疏 X46
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T30/T30n1575.xml

@@ -1,0 +1,17 @@
+cbeta_id: X54n0876
+title: 三论略章
+translator: 隋 吉藏撰
+dynasty: 隋
+category: 中观（三论宗）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T45, X46,54 三论宗
+  path:
+    - 13 中观部类
+    - T45, X46,54 三论宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X54/X54n0876.xml
