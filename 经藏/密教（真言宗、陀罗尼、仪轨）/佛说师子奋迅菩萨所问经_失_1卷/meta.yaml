@@ -1,0 +1,19 @@
+cbeta_id: T21n1357
+title: 佛说师子奋迅菩萨所问经
+translator: 失译
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1199-1420 etc. 陀罗尼经典 T21, X01-02
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1199-1420 etc. 陀罗尼经典 T21, X01-02
+    - T1331-1417 etc. 诸陀罗尼法
+    - T1356-59 华积陀罗尼法
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T21/T21n1357.xml

@@ -1,0 +1,18 @@
+cbeta_id: T19n1027a
+title: 金刚光焰止风雨陀罗尼经
+translator: 唐 菩提流志译
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T0982-1029 etc. 诸经仪轨 T19, X02
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T0982-1029 etc. 诸经仪轨 T19, X02
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T19/T19n1027a.xml

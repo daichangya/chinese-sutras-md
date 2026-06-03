@@ -1,0 +1,18 @@
+cbeta_id: T39n1803
+title: 佛顶尊胜陀罗尼经教迹义记
+translator: 唐 法崇述
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1803, X0445 佛顶尊胜陀罗尼经教迹义记 etc. T39, X23
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - T1803, X0445 佛顶尊胜陀罗尼经教迹义记 etc. T39, X23
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T39/T39n1803.xml

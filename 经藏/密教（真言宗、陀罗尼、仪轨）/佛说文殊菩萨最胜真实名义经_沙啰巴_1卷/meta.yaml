@@ -1,0 +1,19 @@
+cbeta_id: T20n1189
+title: 佛说文殊菩萨最胜真实名义经
+translator: 元 沙啰巴译
+dynasty: 元
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1030-1198 etc. 诸菩萨仪轨 T20, X01-02, C071, F24,27, L135
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1030-1198 etc. 诸菩萨仪轨 T20, X01-02, C071, F24,27, L135
+    - T1171-98, X0181 文殊菩萨仪轨
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T20/T20n1189.xml

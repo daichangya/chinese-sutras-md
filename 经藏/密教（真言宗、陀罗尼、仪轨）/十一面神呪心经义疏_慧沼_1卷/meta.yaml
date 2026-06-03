@@ -1,0 +1,17 @@
+cbeta_id: T39n1802
+title: 十一面神呪心经义疏
+translator: 唐 慧沼撰
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T39, X10-16,23,  P168,185 密教疏
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T39/T39n1802.xml

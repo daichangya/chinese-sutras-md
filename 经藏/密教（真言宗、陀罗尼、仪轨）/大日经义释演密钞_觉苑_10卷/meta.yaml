@@ -1,0 +1,18 @@
+cbeta_id: X23n0439
+title: 大日经义释演密钞
+translator: 辽 觉苑撰
+dynasty: 辽
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: X0438-9 大日经义释 etc. X23
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - X0438-9 大日经义释 etc. X23
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X23/X23n0439.xml

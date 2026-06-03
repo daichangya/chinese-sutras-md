@@ -1,0 +1,18 @@
+cbeta_id: X14n0297
+title: 楞严经圆通疏前茅
+translator: 明 传灯述
+dynasty: 明
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X14/X14n0297.xml

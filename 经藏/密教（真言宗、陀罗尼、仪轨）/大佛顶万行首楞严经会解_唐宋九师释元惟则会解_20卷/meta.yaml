@@ -1,0 +1,18 @@
+cbeta_id: P185n1618
+title: 大佛顶万行首楞严经会解
+translator: 唐宋 九师释　元 惟则会解
+dynasty: 唐宋
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  kind: 疏
+  source: bulei.txt
+juan_count: 20
+source_xml:
+  - P/P185/P185n1618.xml

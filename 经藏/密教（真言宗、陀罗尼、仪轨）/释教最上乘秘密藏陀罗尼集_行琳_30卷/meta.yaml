@@ -1,0 +1,17 @@
+cbeta_id: F28n1071
+title: 释教最上乘秘密藏陀罗尼集
+translator: 行琳集
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T0893-907, F1071 苏悉地经 etc. T18, F28
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T0893-907, F1071 苏悉地经 etc. T18, F28
+  kind: 疏
+  source: bulei.txt
+juan_count: 30
+source_xml:
+  - F/F28/F28n1071.xml

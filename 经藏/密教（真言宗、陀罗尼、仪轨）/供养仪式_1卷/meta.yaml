@@ -1,0 +1,16 @@
+cbeta_id: T18n0859
+title: 供养仪式
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T0848-64 大日经 etc. T18
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T0848-64 大日经 etc. T18
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T18/T18n0859.xml

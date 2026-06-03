@@ -1,0 +1,20 @@
+cbeta_id: T21n1348
+title: 佛说十二佛名神呪校量功德除障灭罪经
+translator: 隋 阇那崛多译
+dynasty: 隋
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1199-1420 etc. 陀罗尼经典 T21, X01-02
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1199-1420 etc. 陀罗尼经典 T21, X01-02
+    - T1331-1417 etc. 诸陀罗尼法
+    - T1348-49 佛名除障灭罪法
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T21/T21n1348.xml

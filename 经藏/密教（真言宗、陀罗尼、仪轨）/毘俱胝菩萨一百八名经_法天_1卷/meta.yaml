@@ -1,0 +1,19 @@
+cbeta_id: T20n1114
+title: 毘俱胝菩萨一百八名经
+translator: 宋 法天译
+dynasty: 宋
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1030-1198 etc. 诸菩萨仪轨 T20, X01-02, C071, F24,27, L135
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1030-1198 etc. 诸菩萨仪轨 T20, X01-02, C071, F24,27, L135
+    - T1030-1118 etc. 观自在菩萨仪轨
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T20/T20n1114.xml

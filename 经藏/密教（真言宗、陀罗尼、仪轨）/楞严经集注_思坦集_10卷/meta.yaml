@@ -1,0 +1,18 @@
+cbeta_id: X11n0268
+title: 楞严经集注
+translator: 宋 思坦集注
+dynasty: 宋
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X11/X11n0268.xml

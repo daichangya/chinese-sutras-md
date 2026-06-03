@@ -1,0 +1,17 @@
+cbeta_id: X02n0203
+title: 作世水宅心陀罗尼
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1199-1420 etc. 陀罗尼经典 T21, X01-02
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1199-1420 etc. 陀罗尼经典 T21, X01-02
+    - T1331-1417 etc. 诸陀罗尼法
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X02/X02n0203.xml

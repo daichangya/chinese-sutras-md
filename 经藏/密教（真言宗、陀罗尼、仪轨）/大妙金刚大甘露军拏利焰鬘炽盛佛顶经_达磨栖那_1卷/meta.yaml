@@ -1,0 +1,18 @@
+cbeta_id: T19n0965
+title: 大妙金刚大甘露军拏利焰鬘炽盛佛顶经
+translator: 唐 达磨栖那译
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T0944-81 etc. 诸佛顶仪轨 T19, G052, F27
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T0944-81 etc. 诸佛顶仪轨 T19, G052, F27
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T19/T19n0965.xml

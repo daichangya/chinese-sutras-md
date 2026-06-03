@@ -1,0 +1,18 @@
+cbeta_id: T18n0905
+title: 三种悉地破地狱转业障出三界秘密陀罗尼法
+translator: 唐 善无畏译
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T0893-907, F1071 苏悉地经 etc. T18, F28
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T0893-907, F1071 苏悉地经 etc. T18, F28
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T18/T18n0905.xml

@@ -1,0 +1,19 @@
+cbeta_id: X16n0311
+title: 楞严经势至圆通章疏钞
+translator: 清 续法集
+dynasty: 清
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+  path:
+    - 10 密教部类
+    - T39, X10-16,23,  P168,185 密教疏
+    - T1799 etc. 首楞严义疏注经 etc. T39, X10-16, P168,185
+    - X0310-2 楞严经势至圆通章科解 etc. X16, G124
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X16/X16n0311.xml

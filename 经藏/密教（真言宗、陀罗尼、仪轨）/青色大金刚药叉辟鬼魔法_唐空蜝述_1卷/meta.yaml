@@ -1,0 +1,19 @@
+cbeta_id: T21n1221
+title: 青色大金刚药叉辟鬼魔法
+translator: 唐 空蜝述
+dynasty: 唐
+category: 密教（真言宗、陀罗尼、仪轨）
+bulei:
+  section_code: "10"
+  section: 密教部类
+  group: T1199-1420 etc. 陀罗尼经典 T21, X01-02
+  path:
+    - 10 密教部类
+    - T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部
+    - T1199-1420 etc. 陀罗尼经典 T21, X01-02
+    - T1220-21 金刚药叉法
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T21/T21n1221.xml
