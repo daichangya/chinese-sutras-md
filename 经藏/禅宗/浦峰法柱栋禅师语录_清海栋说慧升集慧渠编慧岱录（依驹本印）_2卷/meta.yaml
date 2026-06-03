@@ -1,0 +1,17 @@
+cbeta_id: J37nB402
+title: 浦峰法柱栋禅师语录
+translator: 清 海栋说　慧升集　慧渠编　慧岱录（依驹本印）
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB370-402 语录别集(11) J37 草堂耨云实禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB370-402 语录别集(11) J37 草堂耨云实禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - J/J37/J37nB402.xml

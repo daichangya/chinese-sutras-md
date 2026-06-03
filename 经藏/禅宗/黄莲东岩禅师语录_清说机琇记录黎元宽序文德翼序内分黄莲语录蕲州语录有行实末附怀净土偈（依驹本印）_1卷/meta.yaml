@@ -1,0 +1,17 @@
+cbeta_id: J38nB413
+title: 黄莲东岩禅师语录
+translator: 清 说　机琇记录　黎元宽序　文德翼序　内分黄莲语录　蕲州语录　有行实　末附怀净土偈（依驹本印）
+dynasty: 清 说
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB406-434 语录别集(12) J38 庐山天然禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB406-434 语录别集(12) J38 庐山天然禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J38/J38nB413.xml

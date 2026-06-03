@@ -1,0 +1,17 @@
+cbeta_id: J31nB267
+title: 牧云和尚嬾斋别集
+translator: 明 通门撰　毛晋编
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 14
+source_xml:
+  - J/J31/J31nB267.xml

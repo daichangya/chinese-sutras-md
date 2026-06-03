@@ -1,0 +1,17 @@
+cbeta_id: J36nB366
+title: 大方禅师语录
+translator: 明 行海说　超鸣编
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB336-369 语录别集(10) J35-36 南海宝象林慧弓诇禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB336-369 语录别集(10) J35-36 南海宝象林慧弓诇禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - J/J36/J36nB366.xml

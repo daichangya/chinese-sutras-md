@@ -1,0 +1,17 @@
+cbeta_id: J32nB275
+title: 兴善南明广禅师语录
+translator: 明 慧广说　妙用集　悟进重辑并跋　明方序　黄承昊序　有行状
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB272-313 语录别集(9) J32-34 明州天童景德禅寺宏智觉禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB272-313 语录别集(9) J32-34 明州天童景德禅寺宏智觉禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J32/J32nB275.xml

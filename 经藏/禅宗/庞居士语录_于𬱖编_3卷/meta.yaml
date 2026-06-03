@@ -1,0 +1,17 @@
+cbeta_id: X69n1336
+title: 庞居士语录
+translator: 唐 于𬱖编集
+dynasty: 唐
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X69/X69n1336.xml

@@ -1,0 +1,17 @@
+cbeta_id: J26nB181
+title: 布水台集
+translator: 明 道忞着（中央图书馆善本书目编在集部别集类）
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 32
+source_xml:
+  - J/J26/J26nB181.xml

@@ -1,0 +1,17 @@
+cbeta_id: L157n1649
+title: 山茨际禅师语录
+translator: 清 通际撰述 达尊．达谦等编次
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - L/L157/L157n1649.xml

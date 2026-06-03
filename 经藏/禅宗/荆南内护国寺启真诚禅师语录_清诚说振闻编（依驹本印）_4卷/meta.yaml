@@ -1,0 +1,17 @@
+cbeta_id: J37nB395
+title: 荆南内护国寺启真诚禅师语录
+translator: 清 诚说　振闻编（依驹本印）
+dynasty: 清 诚说
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB370-402 语录别集(11) J37 草堂耨云实禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB370-402 语录别集(11) J37 草堂耨云实禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - J/J37/J37nB395.xml

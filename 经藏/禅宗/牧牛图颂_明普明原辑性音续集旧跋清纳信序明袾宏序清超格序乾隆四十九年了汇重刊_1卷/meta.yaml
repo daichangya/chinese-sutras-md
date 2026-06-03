@@ -1,0 +1,17 @@
+cbeta_id: J23nB129
+title: 牧牛图颂
+translator: 明 普明原辑　性音续集旧跋　清 纳信序　明 袾宏序　清 超格序　乾隆四十九年了汇重刊
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1260-76, JB128-29 杂着(2) X64, J23 列祖提纲录 etc.
+  path:
+    - 17 禅宗部类
+    - X1260-76, JB128-29 杂着(2) X64, J23 列祖提纲录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J23/J23nB129.xml

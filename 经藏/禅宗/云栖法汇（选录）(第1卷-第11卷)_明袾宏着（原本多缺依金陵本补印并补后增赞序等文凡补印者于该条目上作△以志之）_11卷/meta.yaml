@@ -1,0 +1,17 @@
+cbeta_id: J32nB277
+title: 云栖法汇（选录）(第1卷-第11卷)
+translator: 明 袾宏着（原本多缺　依金陵本补印　并补后增赞序等文　凡补印者　于该条目上作△以志之）
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 11
+source_xml:
+  - J/J32/J32nB277.xml

@@ -1,0 +1,17 @@
+cbeta_id: J29nB224
+title: 嵩山野竹禅师语录
+translator: 清 福慧说　宗宏录　宗上．宗坚仝编
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB222-249 语录别集(8) J29 夔州卧龙字水禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB222-249 语录别集(8) J29 夔州卧龙字水禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 14
+source_xml:
+  - J/J29/J29nB224.xml

@@ -1,0 +1,16 @@
+cbeta_id: X71n1425
+title: 丹霞子淳禅师语录
+translator: (嗣法小师)庆预校勘
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X71/X71n1425.xml

@@ -1,0 +1,16 @@
+cbeta_id: X69n1355
+title: 无门慧开禅师语录
+translator: (侍者)普敬．普通．了心．普礼．法孜．普岩．普觉．光祖．一见 录
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X69/X69n1355.xml

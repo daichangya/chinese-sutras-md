@@ -1,0 +1,17 @@
+cbeta_id: J39nB444
+title: 卓峰玨禅师语录
+translator: 清 性玨说　宗位编　超原序　蓝理序　有塔铭　附冰玄法师语录（依驹本印　塔铭有缺页）
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB435-471 语录别集(13) J39 伏狮义公禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB435-471 语录别集(13) J39 伏狮义公禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J39/J39nB444.xml

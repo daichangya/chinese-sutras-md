@@ -1,0 +1,17 @@
+cbeta_id: J20nB091
+title: 道余录
+translator: 明 姚广孝着并序
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J20/J20nB091.xml

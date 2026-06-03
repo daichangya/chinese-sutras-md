@@ -1,0 +1,17 @@
+cbeta_id: J40nB481
+title: 古音王传
+translator: 清 广真着并序　古心评并引　凡则　黄毓英评　元善评　前有船子曲　灯辉集　慧泽序（依驹本增入并印）
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J40/J40nB481.xml

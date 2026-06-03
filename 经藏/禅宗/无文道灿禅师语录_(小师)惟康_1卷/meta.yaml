@@ -1,0 +1,16 @@
+cbeta_id: X69n1372
+title: 无文道灿禅师语录
+translator: (小师)惟康编
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1320-72, JB134 语录别集(1) X69, J23 四家语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X69/X69n1372.xml

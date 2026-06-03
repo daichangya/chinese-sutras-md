@@ -1,0 +1,17 @@
+cbeta_id: J26nB182
+title: 万如禅师语录
+translator: 清 通微说　行猷等编
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - J/J26/J26nB182.xml

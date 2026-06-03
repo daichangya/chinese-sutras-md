@@ -1,0 +1,17 @@
+cbeta_id: L155n1643
+title: 弘觉忞禅师语录
+translator: 清 道忞撰述 显权等编
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 20
+source_xml:
+  - L/L155/L155n1643.xml

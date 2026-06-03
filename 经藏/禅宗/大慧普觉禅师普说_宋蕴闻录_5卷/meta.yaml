@@ -1,0 +1,18 @@
+cbeta_id: M59n1540
+title: 大慧普觉禅师普说
+translator: 宋 蕴闻录
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T1985,92-95,97-99,2000, JA042 临济宗 T47, J01, M59
+  path:
+    - 17 禅宗部类
+    - T1985-2002, JA042 五家语录类 T47-48, J01, M59
+    - T1985,92-95,97-99,2000, JA042 临济宗 T47, J01, M59
+  kind: 经
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - M/M59/M59n1540.xml

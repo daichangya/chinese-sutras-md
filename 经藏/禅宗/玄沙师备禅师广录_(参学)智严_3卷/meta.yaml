@@ -1,0 +1,16 @@
+cbeta_id: X73n1445
+title: 玄沙师备禅师广录
+translator: (参学)智严集
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1445-58, JB116 语录别集(5) X73, J22 玄沙师备禅师广录 etc.
+  path:
+    - 17 禅宗部类
+    - X1445-58, JB116 语录别集(5) X73, J22 玄沙师备禅师广录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X73/X73n1445.xml

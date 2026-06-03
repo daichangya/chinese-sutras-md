@@ -1,0 +1,16 @@
+cbeta_id: X71n1415
+title: 穆庵文康禅师语录
+translator: (嗣法参学)清逸．智辩．宝日 等编
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X71/X71n1415.xml

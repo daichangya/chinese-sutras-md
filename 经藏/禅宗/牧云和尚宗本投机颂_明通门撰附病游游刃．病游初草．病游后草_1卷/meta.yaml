@@ -1,0 +1,17 @@
+cbeta_id: J31nB268
+title: 牧云和尚宗本投机颂
+translator: 明 通门撰　附病游游刃．病游初草．病游后草
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J31/J31nB268.xml

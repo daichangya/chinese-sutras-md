@@ -1,0 +1,17 @@
+cbeta_id: X64n1269
+title: 十牛图颂
+translator: 宋 师远述
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1260-76, JB128-29 杂着(2) X64, J23 列祖提纲录 etc.
+  path:
+    - 17 禅宗部类
+    - X1260-76, JB128-29 杂着(2) X64, J23 列祖提纲录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X64/X64n1269.xml

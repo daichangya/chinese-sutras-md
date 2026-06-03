@@ -1,0 +1,17 @@
+cbeta_id: J34nB296
+title: 漆园指通
+translator: 清 净挺着
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  path:
+    - 17 禅宗部类
+    - JB090-497 杂着(4) J20-21,23,25-40 续原教论 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - J/J34/J34nB296.xml

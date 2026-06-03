@@ -1,0 +1,17 @@
+cbeta_id: J26nB187
+title: 天岸升禅师语录
+translator: 清 升说　元玉等记录
+dynasty: 清 升说
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 20
+source_xml:
+  - J/J26/J26nB187.xml

@@ -1,0 +1,17 @@
+cbeta_id: J35nB341
+title: 佛语御禅师语录
+translator: 清 彻御说　法杰．法秀等编　圣可序
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB336-369 语录别集(10) J35-36 南海宝象林慧弓诇禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB336-369 语录别集(10) J35-36 南海宝象林慧弓诇禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J35/J35nB341.xml

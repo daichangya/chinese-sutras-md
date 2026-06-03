@@ -1,0 +1,16 @@
+cbeta_id: X72n1435
+title: 无异元来禅师广录
+translator: (法孙)弘瀚汇编、弘裕同集
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1428-44 语录别集(4) X72 净慈慧晖禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1428-44 语录别集(4) X72 净慈慧晖禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 33
+source_xml:
+  - X/X72/X72n1435.xml

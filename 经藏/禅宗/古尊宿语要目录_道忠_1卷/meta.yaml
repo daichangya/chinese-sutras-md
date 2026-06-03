@@ -1,0 +1,17 @@
+cbeta_id: X68n1316
+title: 古尊宿语要目录
+translator: 日本 道忠编
+dynasty: 日本
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1314-18 语录通集(4) X68, C077 古尊宿语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1314-18 语录通集(4) X68, C077 古尊宿语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X68/X68n1316.xml

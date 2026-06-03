@@ -1,0 +1,17 @@
+cbeta_id: C078n1720
+title: 禅宗颂古联珠通集
+translator: 宋 法应集　元 普会续集　明 净戒重校
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1295, C1720 语录通集(1) X65, C078 颂古联珠
+  path:
+    - 17 禅宗部类
+    - X1295, C1720 语录通集(1) X65, C078 颂古联珠
+  kind: 经
+  source: bulei.txt
+juan_count: 21
+source_xml:
+  - C/C078/C078n1720.xml

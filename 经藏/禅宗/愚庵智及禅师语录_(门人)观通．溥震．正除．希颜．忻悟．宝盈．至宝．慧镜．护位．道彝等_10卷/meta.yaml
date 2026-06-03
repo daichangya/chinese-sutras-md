@@ -1,0 +1,16 @@
+cbeta_id: X71n1421
+title: 愚庵智及禅师语录
+translator: (门人)观通．溥震．正除．希颜．忻悟．宝盈．至宝．慧镜．护位．道彝 等编
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - X1404-26 语录别集(3) X71 兀庵普宁禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X71/X71n1421.xml

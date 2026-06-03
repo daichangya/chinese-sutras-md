@@ -1,0 +1,17 @@
+cbeta_id: T48n2021
+title: 禅宗决疑集
+translator: 元 智彻述
+dynasty: 元
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2007-25, CC0002 坛经等历代禅宗典籍 T48, CC002, G155
+  path:
+    - 17 禅宗部类
+    - T2007-25, CC0002 坛经等历代禅宗典籍 T48, CC002, G155
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T48/T48n2021.xml

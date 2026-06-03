@@ -1,0 +1,17 @@
+cbeta_id: J39nB463
+title: 沩山古梅冽禅师语录
+translator: 清 定冽说　真谦记录（依驹本印）
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB435-471 语录别集(13) J39 伏狮义公禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB435-471 语录别集(13) J39 伏狮义公禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - J/J39/J39nB463.xml

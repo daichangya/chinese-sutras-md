@@ -1,0 +1,17 @@
+cbeta_id: J26nB177
+title: 破山禅师语录
+translator: 清 海明说　印正等编　附年谱　印峦等辑　印绶等编　原书缺依驹本印
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 20
+source_xml:
+  - J/J26/J26nB177.xml

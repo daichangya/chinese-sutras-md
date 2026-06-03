@@ -1,0 +1,17 @@
+cbeta_id: J25nB155
+title: 无趣老人语录
+translator: 明 如空说　性冲编
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J25/J25nB155.xml

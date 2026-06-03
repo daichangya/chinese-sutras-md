@@ -1,0 +1,18 @@
+cbeta_id: T47n1996
+title: 明觉禅师语录
+translator: 宋 惟盖竺编
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T1988,96 云门宗 T47
+  path:
+    - 17 禅宗部类
+    - T1985-2002, JA042 五家语录类 T47-48, J01, M59
+    - T1988,96 云门宗 T47
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T47/T47n1996.xml

@@ -1,0 +1,17 @@
+cbeta_id: G084n2084
+title: 坐禅箴
+translator: 日本 道元撰
+dynasty: 日本
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: G2084,2086 杂着(5) G084 坐禅箴  etc.
+  path:
+    - 17 禅宗部类
+    - G2084,2086 杂着(5) G084 坐禅箴  etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - G/G084/G084n2084.xml

@@ -1,0 +1,17 @@
+cbeta_id: J40nB492
+title: 万峰和尚语录
+translator: 明 时蔚说　普寿集
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB472-494 语录别集(14) J40 大博干禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB472-494 语录别集(14) J40 大博干禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J40/J40nB492.xml

@@ -1,0 +1,17 @@
+cbeta_id: T48n2006
+title: 人天眼目
+translator: 宋 智昭集
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2003-6 公案集 T48
+  path:
+    - 17 禅宗部类
+    - T2003-6 公案集 T48
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T48/T48n2006.xml

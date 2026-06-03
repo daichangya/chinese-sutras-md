@@ -1,0 +1,18 @@
+cbeta_id: T48n2018
+title: 永明智觉禅师唯心诀
+translator: 宋 延寿撰
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2016-18 永明著作
+  path:
+    - 17 禅宗部类
+    - T2007-25, CC0002 坛经等历代禅宗典籍 T48, CC002, G155
+    - T2016-18 永明著作
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T48/T48n2018.xml

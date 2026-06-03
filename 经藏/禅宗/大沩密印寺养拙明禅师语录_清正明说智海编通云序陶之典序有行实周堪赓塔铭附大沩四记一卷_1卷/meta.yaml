@@ -1,0 +1,17 @@
+cbeta_id: J25nB176
+title: 大沩密印寺养拙明禅师语录
+translator: 清 正明说　智海编　通云序　陶之典序　有行实　周堪赓塔铭　附大沩四记一卷
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JA158,B137-188 语录别集(6) J10,24-26 密云禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - J/J25/J25nB176.xml

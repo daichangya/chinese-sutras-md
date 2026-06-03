@@ -1,0 +1,17 @@
+cbeta_id: J40nB477
+title: 天翼翔禅师语录
+translator: 清 巨翔说　寂干录　际锋等编（驹本附于前目四七六之后　今分出增入并印）
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB472-494 语录别集(14) J40 大博干禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB472-494 语录别集(14) J40 大博干禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - J/J40/J40nB477.xml

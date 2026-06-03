@@ -1,0 +1,17 @@
+cbeta_id: L155n1642
+title: 明道正觉森禅师语录
+translator: 清 行森说 超德等编
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - L/L155/L155n1642.xml

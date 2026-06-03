@@ -1,0 +1,17 @@
+cbeta_id: L153n1638
+title: 雪峤信禅师语录(第1卷-第6卷)
+translator: 明 圆信说 弘歇等编
+dynasty: 明
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - L1637-52 语录别集(15) L153-58 幻有传禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - L/L153/L153n1638.xml

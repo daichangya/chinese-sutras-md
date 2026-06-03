@@ -1,0 +1,17 @@
+cbeta_id: T48n2004
+title: 万松老人评唱天童觉和尚颂古从容庵录
+translator: 宋 正觉颂古．元 行秀评唱
+dynasty: 宋
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2003-6 公案集 T48
+  path:
+    - 17 禅宗部类
+    - T2003-6 公案集 T48
+  kind: 经
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - T/T48/T48n2004.xml

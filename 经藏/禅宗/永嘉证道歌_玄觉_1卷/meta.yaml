@@ -1,0 +1,19 @@
+cbeta_id: T48n2014
+title: 永嘉证道歌
+translator: 唐 玄觉撰
+dynasty: 唐
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2007-15, CC0002, G2589 隋唐著作 etc.
+  path:
+    - 17 禅宗部类
+    - T2007-25, CC0002 坛经等历代禅宗典籍 T48, CC002, G155
+    - T2007-15, CC0002, G2589 隋唐著作 etc.
+    - T2013-14 永嘉著作
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T48/T48n2014.xml

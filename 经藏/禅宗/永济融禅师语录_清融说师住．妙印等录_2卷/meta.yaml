@@ -1,0 +1,17 @@
+cbeta_id: J28nB209
+title: 永济融禅师语录
+translator: 清 融说　师住．妙印等录
+dynasty: 清 融说
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB189-221 语录别集(7) J27-28 三宜盂禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB189-221 语录别集(7) J27-28 三宜盂禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - J/J28/J28nB209.xml

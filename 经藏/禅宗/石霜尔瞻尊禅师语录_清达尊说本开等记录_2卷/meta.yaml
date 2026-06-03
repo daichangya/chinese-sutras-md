@@ -1,0 +1,17 @@
+cbeta_id: J27nB200
+title: 石霜尔瞻尊禅师语录
+translator: 清 达尊说　本开等记录
+dynasty: 清
+category: 禅宗
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: JB189-221 语录别集(7) J27-28 三宜盂禅师语录 etc.
+  path:
+    - 17 禅宗部类
+    - JB189-221 语录别集(7) J27-28 三宜盂禅师语录 etc.
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - J/J27/J27nB200.xml
