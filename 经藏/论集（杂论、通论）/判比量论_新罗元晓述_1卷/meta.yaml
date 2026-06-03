@@ -1,0 +1,18 @@
+cbeta_id: X53n0860
+title: 判比量论
+translator: 新罗 元晓述
+dynasty: 新罗
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1839-42 etc. 因明论疏 T44a, X53, A119
+  path:
+    - 15 论集部类
+    - T1628-33 因明论 etc. T32／疏 T44a, X53, A119
+    - T1839-42 etc. 因明论疏 T44a, X53, A119
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X53/X53n0860.xml

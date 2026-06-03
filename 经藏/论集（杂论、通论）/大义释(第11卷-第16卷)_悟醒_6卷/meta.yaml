@@ -1,0 +1,17 @@
+cbeta_id: N46n0022
+title: 大义释(第11卷-第16卷)
+translator: 悟醒译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0008-23 小部经典
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+    - N0008-23 小部经典
+  kind: 疏
+  source: short
+juan_count: 6
+source_xml:
+  - N/N46/N46n0022.xml

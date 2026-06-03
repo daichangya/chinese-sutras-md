@@ -1,0 +1,16 @@
+cbeta_id: T32n1646
+title: 成实论
+translator: 诃梨跋摩造  姚秦 鸠摩罗什译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1646-49 成实论 etc. T32
+  path:
+    - 15 论集部类
+    - T1646-49 成实论 etc. T32
+  kind: 疏
+  source: bulei.txt
+juan_count: 16
+source_xml:
+  - T/T32/T32n1646.xml

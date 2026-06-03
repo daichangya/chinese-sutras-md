@@ -1,0 +1,16 @@
+cbeta_id: T32n1638
+title: 集诸法宝最上义论
+translator: 善寂菩萨造  宋 施护译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1634-38 入大乘论 etc. T32
+  path:
+    - 15 论集部类
+    - T1634-38 入大乘论 etc. T32
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T32/T32n1638.xml

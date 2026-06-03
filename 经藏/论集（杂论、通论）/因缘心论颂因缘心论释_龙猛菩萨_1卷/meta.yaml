@@ -1,0 +1,17 @@
+cbeta_id: T32n1654
+title: 因缘心论颂因缘心论释
+translator: 龙猛菩萨造
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1654 因缘心论释／疏 T85
+  path:
+    - 15 论集部类
+    - T1650-54 因缘论 etc. T32／疏 T85
+    - T1654 因缘心论释／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1654.xml

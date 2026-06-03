@@ -1,0 +1,17 @@
+cbeta_id: T32n1653
+title: 大乘缘生论
+translator: 欝楞迦造  唐 不空译
+dynasty: 欝楞迦造
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1650-54 因缘论 etc. T32／疏 T85
+  path:
+    - 15 论集部类
+    - T1650-54 因缘论 etc. T32／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1653.xml

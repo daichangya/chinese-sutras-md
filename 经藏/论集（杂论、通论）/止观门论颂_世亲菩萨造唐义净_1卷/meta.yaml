@@ -1,0 +1,16 @@
+cbeta_id: T32n1655
+title: 止观门论颂
+translator: 世亲菩萨造  唐 义净译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1655-58 止观门论颂 etc. T32
+  path:
+    - 15 论集部类
+    - T1655-58 止观门论颂 etc. T32
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1655.xml

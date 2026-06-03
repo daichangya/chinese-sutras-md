@@ -1,0 +1,17 @@
+cbeta_id: T32n1644
+title: 佛说立世阿毘昙论
+translator: 陈 真谛译
+dynasty: 陈
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1644-45 立世论 etc. T32
+  path:
+    - 15 论集部类
+    - T1644-45 立世论 etc. T32
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T32/T32n1644.xml

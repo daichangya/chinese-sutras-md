@@ -1,0 +1,16 @@
+cbeta_id: N50n0026
+title: 界论
+translator: 郭哲彰译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0024-30 论藏 N48-62
+  path:
+    - 22 南传大藏经部类
+    - N0024-30 论藏 N48-62
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - N/N50/N50n0026.xml

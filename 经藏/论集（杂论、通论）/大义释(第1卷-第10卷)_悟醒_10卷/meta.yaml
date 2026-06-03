@@ -1,0 +1,17 @@
+cbeta_id: N45n0022
+title: 大义释(第1卷-第10卷)
+translator: 悟醒译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0008-23 小部经典
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+    - N0008-23 小部经典
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - N/N45/N45n0022.xml

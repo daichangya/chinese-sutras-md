@@ -1,0 +1,16 @@
+cbeta_id: T32n1640
+title: 提婆菩萨释楞伽经中外道小乘涅槃论
+translator: 提波菩萨造  后魏 菩提流支译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1639-43 外道四宗论 etc. T32
+  path:
+    - 15 论集部类
+    - T1639-43 外道四宗论 etc. T32
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1640.xml

@@ -1,0 +1,16 @@
+cbeta_id: T32n1684
+title: 八大灵塔梵赞
+translator: 西天戒日王制  宋 法贤译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1670-92 其他 T32, G148,150
+  path:
+    - 15 论集部类
+    - T1670-92 其他 T32, G148,150
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1684.xml

@@ -1,0 +1,18 @@
+cbeta_id: X45n0763
+title: 起信论捷要
+translator: 明 正远注
+dynasty: 明
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1843-50 etc. 起信论疏 T44a, X45, J07, L141
+  path:
+    - 15 论集部类
+    - T1666-69 起信论 etc. T32／疏 T44a,85, X45-46, J07, L141
+    - T1843-50 etc. 起信论疏 T44a, X45, J07, L141
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X45/X45n0763.xml

@@ -1,0 +1,18 @@
+cbeta_id: T44n1842
+title: 因明入正理论义纂要
+translator: 唐 慧沼集
+dynasty: 唐
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1839-42 etc. 因明论疏 T44a, X53, A119
+  path:
+    - 15 论集部类
+    - T1628-33 因明论 etc. T32／疏 T44a, X53, A119
+    - T1839-42 etc. 因明论疏 T44a, X53, A119
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T44/T44n1842.xml

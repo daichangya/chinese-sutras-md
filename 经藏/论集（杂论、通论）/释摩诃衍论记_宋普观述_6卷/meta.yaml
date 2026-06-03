@@ -1,0 +1,18 @@
+cbeta_id: X46n0774
+title: 释摩诃衍论记
+translator: 宋 普观述
+dynasty: 宋
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1668, X0770-5 释摩诃衍论 etc.
+  path:
+    - 15 论集部类
+    - T1666-69 起信论 etc. T32／疏 T44a,85, X45-46, J07, L141
+    - T1668, X0770-5 释摩诃衍论 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X46/X46n0774.xml

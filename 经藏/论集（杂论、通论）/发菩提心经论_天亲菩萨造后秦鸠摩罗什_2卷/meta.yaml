@@ -1,0 +1,16 @@
+cbeta_id: T32n1659
+title: 发菩提心经论
+translator: 天亲菩萨造  后秦 鸠摩罗什译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1659-65, X0777 菩提心论 etc. T32, X46
+  path:
+    - 15 论集部类
+    - T1659-65, X0777 菩提心论 etc. T32, X46
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T32/T32n1659.xml

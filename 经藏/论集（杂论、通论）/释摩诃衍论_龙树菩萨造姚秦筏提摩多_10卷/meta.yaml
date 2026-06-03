@@ -1,0 +1,17 @@
+cbeta_id: T32n1668
+title: 释摩诃衍论
+translator: 龙树菩萨造  姚秦 筏提摩多译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1668, X0770-5 释摩诃衍论 etc.
+  path:
+    - 15 论集部类
+    - T1666-69 起信论 etc. T32／疏 T44a,85, X45-46, J07, L141
+    - T1668, X0770-5 释摩诃衍论 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T32/T32n1668.xml

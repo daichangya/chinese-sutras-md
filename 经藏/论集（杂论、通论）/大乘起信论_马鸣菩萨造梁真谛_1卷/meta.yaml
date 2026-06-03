@@ -1,0 +1,16 @@
+cbeta_id: T32n1666
+title: 大乘起信论
+translator: 马鸣菩萨造  梁 真谛译
+category: 论集（杂论、通论）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1666-69 起信论 etc. T32／疏 T44a,85, X45-46, J07, L141
+  path:
+    - 15 论集部类
+    - T1666-69 起信论 etc. T32／疏 T44a,85, X45-46, J07, L141
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T32/T32n1666.xml
