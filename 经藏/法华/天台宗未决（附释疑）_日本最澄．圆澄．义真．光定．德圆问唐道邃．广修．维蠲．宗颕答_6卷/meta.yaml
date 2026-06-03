@@ -1,0 +1,17 @@
+cbeta_id: X56n0942
+title: 天台宗未决（附释疑）
+translator: 日本 最澄．圆澄．义真．光定．德圆 问　唐 道邃．广修．维蠲．宗颕 答
+dynasty: 日本
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 6
+source_xml:
+  - X/X56/X56n0942.xml

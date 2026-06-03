@@ -1,0 +1,19 @@
+cbeta_id: T09n0263
+title: 正法华经
+translator: 西晋 竺法护译
+dynasty: 西晋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T0262-65 法华经 T09a
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T09/T09n0263.xml

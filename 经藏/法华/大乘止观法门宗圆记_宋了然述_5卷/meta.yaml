@@ -1,0 +1,18 @@
+cbeta_id: X55n0904
+title: 大乘止观法门宗圆记
+translator: 宋 了然述
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1924, X0904-05 大乘止观法门 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1924, X0904-05 大乘止观法门 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - X/X55/X55n0904.xml

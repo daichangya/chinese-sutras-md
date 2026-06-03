@@ -1,0 +1,16 @@
+cbeta_id: X35n0649
+title: 普贤观经义疏科
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0277 佛说观普贤菩萨行法经 T09a／疏 X35, G124
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0277 佛说观普贤菩萨行法经 T09a／疏 X35, G124
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X35/X35n0649.xml

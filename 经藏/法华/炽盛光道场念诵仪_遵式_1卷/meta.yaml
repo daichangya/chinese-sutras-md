@@ -1,0 +1,18 @@
+cbeta_id: T46n1951
+title: 炽盛光道场念诵仪
+translator: 宋 遵式撰
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1941-51, X1480,88,1501, P1573 天台礼忏仪 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1941-51, X1480,88,1501, P1573 天台礼忏仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T46/T46n1951.xml

@@ -1,0 +1,20 @@
+cbeta_id: X29n0598
+title: 法华经文句格言
+translator: 宋 善月述
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T1715-29 etc. 法华经疏 T33-34, X27-35, L115-116, P184-185
+    - T1718-9, X0593-99 法华文句及记 etc. T34, X28-29
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - X/X29/X29n0598.xml

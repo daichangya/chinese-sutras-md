@@ -1,0 +1,16 @@
+cbeta_id: X46n0790
+title: 法华经论述记
+translator: 唐
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T26a,40, X46 法华经释论
+  path:
+    - 04 法华部类
+    - T26a,40, X46 法华经释论
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X46/X46n0790.xml

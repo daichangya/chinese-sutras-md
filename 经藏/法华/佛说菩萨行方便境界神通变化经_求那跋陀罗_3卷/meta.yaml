@@ -1,0 +1,18 @@
+cbeta_id: T09n0271
+title: 佛说菩萨行方便境界神通变化经
+translator: 刘宋 求那跋陀罗译
+dynasty: 刘宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0270-71 大法鼓经 etc. T09a
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0270-71 大法鼓经 etc. T09a
+  kind: 疏
+  source: bulei.txt
+juan_count: 3
+source_xml:
+  - T/T09/T09n0271.xml

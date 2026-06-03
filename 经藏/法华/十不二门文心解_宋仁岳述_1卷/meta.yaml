@@ -1,0 +1,18 @@
+cbeta_id: X56n0928
+title: 十不二门文心解
+translator: 宋 仁岳述
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1927-28, X0925-31 十不二门 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1927-28, X0925-31 十不二门 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X56/X56n0928.xml

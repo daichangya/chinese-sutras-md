@@ -1,0 +1,19 @@
+cbeta_id: X30n0600
+title: 法华经入疏
+translator: 宋 道威入注
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T1715-29 etc. 法华经疏 T33-34, X27-35, L115-116, P184-185
+  kind: 疏
+  source: bulei.txt
+juan_count: 12
+source_xml:
+  - X/X30/X30n0600.xml

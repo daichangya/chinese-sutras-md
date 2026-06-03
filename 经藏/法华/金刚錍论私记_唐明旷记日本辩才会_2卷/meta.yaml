@@ -1,0 +1,18 @@
+cbeta_id: X56n0932
+title: 金刚錍论私记
+translator: 唐 明旷记　日本 辩才会
+dynasty: 唐
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1932, X0932-37 金刚錍 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1932, X0932-37 金刚錍 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X56/X56n0932.xml

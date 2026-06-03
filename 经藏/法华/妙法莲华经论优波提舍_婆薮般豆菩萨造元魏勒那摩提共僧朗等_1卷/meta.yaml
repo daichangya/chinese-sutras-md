@@ -1,0 +1,16 @@
+cbeta_id: T26n1520
+title: 妙法莲华经论优波提舍
+translator: 婆薮般豆菩萨造  元魏 勒那摩提共僧朗等译
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T26a,40, X46 法华经释论
+  path:
+    - 04 法华部类
+    - T26a,40, X46 法华经释论
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T26/T26n1520.xml

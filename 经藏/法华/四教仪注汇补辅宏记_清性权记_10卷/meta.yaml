@@ -1,0 +1,18 @@
+cbeta_id: X57n0980
+title: 四教仪注汇补辅宏记
+translator: 清 性权记
+dynasty: 清
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1931, X0976-80, P1629 天台四教仪 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1931, X0976-80, P1629 天台四教仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X57/X57n0980.xml

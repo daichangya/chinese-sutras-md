@@ -1,0 +1,18 @@
+cbeta_id: T46n1939
+title: 教观纲宗
+translator: 明 智旭述
+dynasty: 明
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1939, X0974 教观纲宗 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1939, X0974 教观纲宗 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T46/T46n1939.xml

@@ -1,0 +1,17 @@
+cbeta_id: T46n1937
+title: 四明尊者教行录
+translator: 宋 宗晓编
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - T/T46/T46n1937.xml

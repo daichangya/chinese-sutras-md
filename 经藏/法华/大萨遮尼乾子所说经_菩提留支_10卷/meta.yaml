@@ -1,0 +1,17 @@
+cbeta_id: T09n0272
+title: 大萨遮尼乾子所说经
+translator: 元魏 菩提留支译
+dynasty: 元魏
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T09/T09n0272.xml

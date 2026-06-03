@@ -1,0 +1,17 @@
+cbeta_id: X35n0652
+title: 金刚三昧经通宗记
+translator: 清震述𧧌
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0273 金刚三昧经 T09a／论 T34／疏 X35
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0273 金刚三昧经 T09a／论 T34／疏 X35
+  kind: 疏
+  source: bulei.txt
+juan_count: 12
+source_xml:
+  - X/X35/X35n0652.xml

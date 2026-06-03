@@ -1,0 +1,18 @@
+cbeta_id: X74n1488
+title: 得遇龙华修证忏仪
+translator: 明 如惺撰
+dynasty: 明
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T1941-51, X1480,88,1501, P1573 天台礼忏仪 etc.
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+    - T1941-51, X1480,88,1501, P1573 天台礼忏仪 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - X/X74/X74n1488.xml

@@ -1,0 +1,16 @@
+cbeta_id: T26n1519
+title: 妙法莲华经忧波提舍
+translator: 大乘论师婆薮槃豆释  后魏 菩提留支共昙林等译
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T26a,40, X46 法华经释论
+  path:
+    - 04 法华部类
+    - T26a,40, X46 法华经释论
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T26/T26n1519.xml

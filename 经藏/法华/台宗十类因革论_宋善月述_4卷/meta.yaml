@@ -1,0 +1,17 @@
+cbeta_id: X57n0964
+title: 台宗十类因革论
+translator: 宋 善月述
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 4
+source_xml:
+  - X/X57/X57n0964.xml

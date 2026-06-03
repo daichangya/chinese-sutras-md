@@ -1,0 +1,17 @@
+cbeta_id: G157n2601
+title: 天台传佛心印记注释要
+translator: 民国 倓虚释要
+dynasty: 民国
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - G/G157/G157n2601.xml

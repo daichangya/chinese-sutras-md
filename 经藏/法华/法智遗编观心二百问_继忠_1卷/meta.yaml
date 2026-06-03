@@ -1,0 +1,17 @@
+cbeta_id: T46n1935
+title: 法智遗编观心二百问
+translator: 宋 继忠集
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T46/T46n1935.xml

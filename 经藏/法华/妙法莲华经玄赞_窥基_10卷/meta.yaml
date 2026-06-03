@@ -1,0 +1,20 @@
+cbeta_id: T34n1723
+title: 妙法莲华经玄赞
+translator: 唐 窥基撰
+dynasty: 唐
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T1715-29 etc. 法华经疏 T33-34, X27-35, L115-116, P184-185
+    - T1723-4, X0636-9 法华玄赞 etc. (基沼) T34, X34
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - T/T34/T34n1723.xml

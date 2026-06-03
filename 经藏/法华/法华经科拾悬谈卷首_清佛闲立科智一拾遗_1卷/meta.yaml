@@ -1,0 +1,20 @@
+cbeta_id: X33n0626
+title: 法华经科拾悬谈卷首
+translator: 清 佛闲立科　智一拾遗
+dynasty: 清
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T1715-29 etc. 法华经疏 T33-34, X27-35, L115-116, P184-185
+    - X0626-8 法华经科拾 etc. X33
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X33/X33n0626.xml

@@ -1,0 +1,17 @@
+cbeta_id: X56n0948
+title: 四明仁岳异说丛书
+translator: 宋 继忠集
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 7
+source_xml:
+  - X/X56/X56n0948.xml

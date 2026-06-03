@@ -1,0 +1,20 @@
+cbeta_id: X28n0587
+title: 大部妙玄格言
+translator: 宋 善月述
+dynasty: 宋
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+  path:
+    - 04 法华部类
+    - T09a, F01 法华经／疏 T33-34,85, X27-35, G124, L115-116, P184-185／论 T34
+    - T0262-65 法华经／疏 T33-34, X27-35, L115-116, P184-185
+    - T1715-29 etc. 法华经疏 T33-34, X27-35, L115-116, P184-185
+    - X0584-7 法华三大部科文 etc. X27-28
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X28/X28n0587.xml

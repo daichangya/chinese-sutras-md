@@ -1,0 +1,17 @@
+cbeta_id: G157n2594
+title: 修习止观坐禅法要讲述
+translator: 民国 宝静述
+dynasty: 民国
+category: 法华
+bulei:
+  section_code: "04"
+  section: 法华部类
+  group: T46, X55-57,74, G069,157, P167,189 天台宗
+  path:
+    - 04 法华部类
+    - T46, X55-57,74, G069,157, P167,189 天台宗
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - G/G157/G157n2594.xml
