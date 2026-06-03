@@ -1,0 +1,17 @@
+cbeta_id: T85n2760
+title: 无量寿观经义记
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "06"
+  section: 宝积部类
+  group: T0360-64 无量寿经 etc. T11-12／疏 T37,85
+  path:
+    - 06 宝积部类
+    - T0360-73 净土经 T11-12／论 T26a／疏 T37,40b,85
+    - T0360-64 无量寿经 etc. T11-12／疏 T37,85
+    - T2759-60 无量寿经古逸疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2760.xml

@@ -1,0 +1,17 @@
+cbeta_id: T85n2836
+title: 大乘北宗论
+translator: 唐 慧光释
+dynasty: 唐
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "17"
+  section: 禅宗部类
+  group: T2831-39 禅宗古逸类 T85
+  path:
+    - 17 禅宗部类
+    - T2831-39 禅宗古逸类 T85
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2836.xml

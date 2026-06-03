@@ -1,0 +1,16 @@
+cbeta_id: T85n2758
+title: 十地义记卷第一
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T1522 十地经论 T26a／疏 T85, X45
+  path:
+    - 05 华严部类
+    - T26a 华严经释论／疏 T85, X03-05,45, J15
+    - T1522 十地经论 T26a／疏 T85, X45
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2758.xml

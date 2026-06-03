@@ -1,0 +1,16 @@
+cbeta_id: T85n2796
+title: 律抄第三卷手决
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T2787-96 四分律古逸疏
+  path:
+    - 11 律部类
+    - T40a,85, X39-44, G104 四分律疏
+    - T2787-96 四分律古逸疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2796.xml

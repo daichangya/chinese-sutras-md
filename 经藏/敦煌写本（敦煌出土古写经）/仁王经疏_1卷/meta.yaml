@@ -1,0 +1,16 @@
+cbeta_id: T85n2745
+title: 仁王经疏
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "03"
+  section: 般若部类
+  group: T2744-45 仁王经古逸疏 T85
+  path:
+    - 03 般若部类
+    - 11 仁王般若经 T08／疏 T33,85, X26
+    - T2744-45 仁王经古逸疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2745.xml

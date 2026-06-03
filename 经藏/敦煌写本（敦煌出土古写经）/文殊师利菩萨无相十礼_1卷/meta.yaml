@@ -1,0 +1,17 @@
+cbeta_id: T85n2844
+title: 文殊师利菩萨无相十礼
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "19"
+  section: 事汇部类
+  group: T2841-56 礼忏文类古逸部 T85
+  path:
+    - 19 事汇部类
+    - T2121-24,27-36 etc. 事汇部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091,
+      K32,34-35, P178-79,181-183,189-193, G083,114-8, L162,164
+    - T2841-56 礼忏文类古逸部 T85
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2844.xml

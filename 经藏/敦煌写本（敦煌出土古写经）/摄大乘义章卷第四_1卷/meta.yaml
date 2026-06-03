@@ -1,0 +1,16 @@
+cbeta_id: T85n2809
+title: 摄大乘义章卷第四
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1592-98 摄论及释／疏 T85
+  path:
+    - 14 瑜伽部类
+    - T30b-32 瑜伽行派论／疏 T42-44,85, X39,46-51, A120
+    - T1592-98 摄论及释／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2809.xml

@@ -1,0 +1,18 @@
+cbeta_id: T85n2756
+title: 华严经义记卷第一
+translator: 后魏 慧光撰
+dynasty: 后魏
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "05"
+  section: 华严部类
+  group: T0278 华严经 60卷 T09a／疏 T35,85
+  path:
+    - 05 华严部类
+    - T09b-10 华严部／疏 T35-36,85, X05,07, U222-223, L130-133
+    - T0278 华严经 60卷 T09a／疏 T35,85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2756.xml

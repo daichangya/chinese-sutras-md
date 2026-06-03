@@ -1,0 +1,15 @@
+cbeta_id: T85n2828
+title: 大乘净土赞
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "16"
+  section: 净土宗部类
+  group: T2826-30 净土宗古逸类 T85
+  path:
+    - 16 净土宗部类
+    - T2826-30 净土宗古逸类 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2828.xml

@@ -1,0 +1,17 @@
+cbeta_id: T85n2798
+title: 本业璎珞经疏
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "11"
+  section: 律部类
+  group: T1484-1504, A1505 菩萨戒藏 T24, A114／疏 T40a,85, X38-39
+  path:
+    - 11 律部类
+    - T22-24,40a, X39-40,44, A114 律部／疏 T40a,85, X38-39,44, F02
+    - T1484-1504, A1505 菩萨戒藏 T24, A114／疏 T40a,85, X38-39
+    - T1485 璎珞经 T24／疏 T85, X39
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2798.xml

@@ -1,0 +1,17 @@
+cbeta_id: T85n2784
+title: 大乘四法经释抄
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T1535 大乘四法经释／疏 T85
+  path:
+    - 09 经集部类
+    - T1530-35 经集部释论 T26a／疏 T85
+    - T1535 大乘四法经释／疏 T85
+    - T2784-85 大乘四法经古逸疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2784.xml

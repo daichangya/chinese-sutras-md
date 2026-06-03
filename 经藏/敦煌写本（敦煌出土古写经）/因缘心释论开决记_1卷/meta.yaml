@@ -1,0 +1,16 @@
+cbeta_id: T85n2816
+title: 因缘心释论开决记
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "15"
+  section: 论集部类
+  group: T1654 因缘心论释／疏 T85
+  path:
+    - 15 论集部类
+    - T1650-54 因缘论 etc. T32／疏 T85
+    - T1654 因缘心论释／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2816.xml

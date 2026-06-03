@@ -1,0 +1,18 @@
+cbeta_id: T85n2780
+title: 温室经疏
+translator: 唐 慧净撰
+dynasty: 唐
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0701 温室经／疏 T39,85
+  path:
+    - 09 经集部类
+    - T0683-707 福田经 etc. T16／疏 T39,85, X21, G124／礼忏 X74
+    - T0701 温室经／疏 T39,85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2780.xml

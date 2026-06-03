@@ -1,0 +1,19 @@
+cbeta_id: T85n2800
+title: 广百论疏卷第一
+translator: 唐 文轨撰
+dynasty: 唐
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "13"
+  section: 中观部类
+  group: T1569-72 百论 etc.／疏 T42,85
+  path:
+    - 13 中观部类
+    - T30a, K41 中观部／疏 T42,85, X46, G151
+    - T1569-72 百论 etc.／疏 T42,85
+    - T1571 广百论释论／疏 T85
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2800.xml

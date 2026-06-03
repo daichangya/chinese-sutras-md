@@ -1,0 +1,18 @@
+cbeta_id: T85n2823
+title: 大乘入道次第开决
+translator: 唐 昙旷撰
+dynasty: 唐
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1864,2823 大乘入道次第 etc.
+  path:
+    - 14 瑜伽部类
+    - T45 法相宗／T85, X55
+    - T1864,2823 大乘入道次第 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2823.xml

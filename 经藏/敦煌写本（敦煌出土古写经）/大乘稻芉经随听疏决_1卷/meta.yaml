@@ -1,0 +1,17 @@
+cbeta_id: T85n2783
+title: 大乘稻芉经随听疏决
+category: 敦煌写本（敦煌出土古写经）
+bulei:
+  section_code: "09"
+  section: 经集部类
+  group: T0708-12 稻[卄/干]经／疏 T85
+  path:
+    - 09 经集部类
+    - T0708-20 缘生经 etc. T16／疏 T85
+    - T0708-12 稻[卄/干]经／疏 T85
+    - T2782-83 稻[卄/干]经古逸疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T85/T85n2783.xml
