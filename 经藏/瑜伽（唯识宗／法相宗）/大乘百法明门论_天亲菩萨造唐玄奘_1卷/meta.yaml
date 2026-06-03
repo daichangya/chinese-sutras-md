@@ -1,0 +1,17 @@
+cbeta_id: T31n1614
+title: 大乘百法明门论
+translator: 天亲菩萨造  唐 玄奘译
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1614 百法论／疏 T44,85, X48, L149,153, U205
+  path:
+    - 14 瑜伽部类
+    - T30b-32 瑜伽行派论／疏 T42-44,85, X39,46-51, A120
+    - T1614 百法论／疏 T44,85, X48, L149,153, U205
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T31/T31n1614.xml

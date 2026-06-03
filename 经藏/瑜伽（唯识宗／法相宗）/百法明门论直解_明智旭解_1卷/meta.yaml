@@ -1,0 +1,19 @@
+cbeta_id: X48n0805
+title: 百法明门论直解
+translator: 明 智旭解
+dynasty: 明
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1614 百法论／疏 T44,85, X48, L149,153, U205
+  path:
+    - 14 瑜伽部类
+    - T30b-32 瑜伽行派论／疏 T42-44,85, X39,46-51, A120
+    - T1614 百法论／疏 T44,85, X48, L149,153, U205
+    - T1836-37 etc. 百法明门论疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X48/X48n0805.xml

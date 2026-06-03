@@ -1,0 +1,18 @@
+cbeta_id: X48n0796
+title: 杂集论述记
+translator: 唐 窥基撰
+dynasty: 唐
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1605-06 集论／疏 X48
+  path:
+    - 14 瑜伽部类
+    - T30b-32 瑜伽行派论／疏 T42-44,85, X39,46-51, A120
+    - T1605-06 集论／疏 X48
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X48/X48n0796.xml

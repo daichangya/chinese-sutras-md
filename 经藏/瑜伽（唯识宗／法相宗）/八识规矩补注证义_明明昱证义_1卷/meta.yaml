@@ -1,0 +1,18 @@
+cbeta_id: X55n0890
+title: 八识规矩补注证义
+translator: 明 明昱证义
+dynasty: 明
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1865, X0890-98 八识规矩 etc.
+  path:
+    - 14 瑜伽部类
+    - T45 法相宗／T85, X55
+    - T1865, X0890-98 八识规矩 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - X/X55/X55n0890.xml

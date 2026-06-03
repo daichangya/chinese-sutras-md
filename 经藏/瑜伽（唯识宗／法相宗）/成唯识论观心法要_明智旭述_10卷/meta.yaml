@@ -1,0 +1,19 @@
+cbeta_id: X51n0824
+title: 成唯识论观心法要
+translator: 明 智旭述
+dynasty: 明
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1585-87,1618 成唯识论／疏 T43,85, X48-51
+  path:
+    - 14 瑜伽部类
+    - T30b-32 瑜伽行派论／疏 T42-44,85, X39,46-51, A120
+    - T1585-87,1618 成唯识论／疏 T43,85, X48-51
+    - T1830-33 etc. 成唯识论疏
+  kind: 疏
+  source: bulei.txt
+juan_count: 10
+source_xml:
+  - X/X51/X51n0824.xml

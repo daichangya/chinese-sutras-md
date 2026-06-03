@@ -1,0 +1,18 @@
+cbeta_id: T45n1864
+title: 大乘入道次第
+translator: 唐 智周撰
+dynasty: 唐
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T1864,2823 大乘入道次第 etc.
+  path:
+    - 14 瑜伽部类
+    - T45 法相宗／T85, X55
+    - T1864,2823 大乘入道次第 etc.
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T45/T45n1864.xml

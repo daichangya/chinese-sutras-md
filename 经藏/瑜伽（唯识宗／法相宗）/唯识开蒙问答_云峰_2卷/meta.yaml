@@ -1,0 +1,17 @@
+cbeta_id: X55n0888
+title: 唯识开蒙问答
+translator: 元 云峰集
+dynasty: 元
+category: 瑜伽（唯识宗 / 法相宗）
+bulei:
+  section_code: "14"
+  section: 瑜伽部类
+  group: T45 法相宗／T85, X55
+  path:
+    - 14 瑜伽部类
+    - T45 法相宗／T85, X55
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X55/X55n0888.xml
