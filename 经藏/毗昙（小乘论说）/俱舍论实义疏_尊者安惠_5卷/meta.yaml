@@ -1,0 +1,16 @@
+cbeta_id: T29n1561
+title: 俱舍论实义疏
+translator: 尊者安惠造
+category: 毗昙（小乘论说）
+bulei:
+  section_code: "12"
+  section: 毘昙部类
+  group: T1558-63, X0843 俱舍论 etc. T29, X53
+  path:
+    - 12 毘昙部类
+    - T1558-63, X0843 俱舍论 etc. T29, X53
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - T/T29/T29n1561.xml

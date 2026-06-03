@@ -1,0 +1,16 @@
+cbeta_id: T29n1562
+title: 阿毘达磨顺正理论
+translator: 尊者众贤造  唐 玄奘译
+category: 毗昙（小乘论说）
+bulei:
+  section_code: "12"
+  section: 毘昙部类
+  group: T1558-63, X0843 俱舍论 etc. T29, X53
+  path:
+    - 12 毘昙部类
+    - T1558-63, X0843 俱舍论 etc. T29, X53
+  kind: 经
+  source: bulei.txt
+juan_count: 80
+source_xml:
+  - T/T29/T29n1562.xml

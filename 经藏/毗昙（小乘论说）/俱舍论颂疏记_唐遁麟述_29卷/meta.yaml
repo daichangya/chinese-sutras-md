@@ -1,0 +1,17 @@
+cbeta_id: X53n0841
+title: 俱舍论颂疏记
+translator: 唐 遁麟述
+dynasty: 唐
+category: 毗昙（小乘论说）
+bulei:
+  section_code: "12"
+  section: 毘昙部类
+  group: T1821-23 etc. 俱舍论疏 T41, X53
+  path:
+    - 12 毘昙部类
+    - T1821-23 etc. 俱舍论疏 T41, X53
+  kind: 疏
+  source: bulei.txt
+juan_count: 29
+source_xml:
+  - X/X53/X53n0841.xml

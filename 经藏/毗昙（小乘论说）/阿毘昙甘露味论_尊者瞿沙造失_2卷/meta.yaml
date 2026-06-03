@@ -1,0 +1,16 @@
+cbeta_id: T28n1553
+title: 阿毘昙甘露味论
+translator: 尊者瞿沙造  失译
+category: 毗昙（小乘论说）
+bulei:
+  section_code: "12"
+  section: 毘昙部类
+  group: T1548-57 毘婆沙纲要论 T28
+  path:
+    - 12 毘昙部类
+    - T1548-57 毘婆沙纲要论 T28
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T28/T28n1553.xml

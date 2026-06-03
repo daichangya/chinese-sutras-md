@@ -1,0 +1,17 @@
+cbeta_id: X53n0843
+title: 顺正理论述文记
+translator: 唐 元瑜述
+dynasty: 唐
+category: 毗昙（小乘论说）
+bulei:
+  section_code: "12"
+  section: 毘昙部类
+  group: T1558-63, X0843 俱舍论 etc. T29, X53
+  path:
+    - 12 毘昙部类
+    - T1558-63, X0843 俱舍论 etc. T29, X53
+  kind: 疏
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - X/X53/X53n0843.xml
