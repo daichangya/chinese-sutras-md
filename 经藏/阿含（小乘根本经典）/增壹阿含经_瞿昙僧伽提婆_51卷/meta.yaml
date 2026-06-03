@@ -1,0 +1,17 @@
+cbeta_id: T02n0125
+title: 增壹阿含经
+translator: 东晋 瞿昙僧伽提婆译
+dynasty: 东晋
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0125-48 增壹阿含经 etc. T02
+  path:
+    - 01 阿含部类
+    - T0125-48 增壹阿含经 etc. T02
+  kind: 经
+  source: bulei.txt
+juan_count: 51
+source_xml:
+  - T/T02/T02n0125.xml

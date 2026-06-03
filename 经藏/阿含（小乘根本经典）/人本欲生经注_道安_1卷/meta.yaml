@@ -1,0 +1,17 @@
+cbeta_id: T33n1693
+title: 人本欲生经注
+translator: 东晋 道安撰
+dynasty: 东晋
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T1693-94 阿含经疏 T33
+  path:
+    - 01 阿含部类
+    - T1693-94 阿含经疏 T33
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T33/T33n1693.xml

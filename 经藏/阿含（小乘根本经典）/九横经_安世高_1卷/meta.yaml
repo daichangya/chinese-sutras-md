@@ -1,0 +1,17 @@
+cbeta_id: T02n0150B
+title: 九横经
+translator: 后汉 安世高译
+dynasty: 后汉
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0149-51 阿难同学经 etc. T02
+  path:
+    - 01 阿含部类
+    - T0149-51 阿难同学经 etc. T02
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T02/T02n0150B.xml

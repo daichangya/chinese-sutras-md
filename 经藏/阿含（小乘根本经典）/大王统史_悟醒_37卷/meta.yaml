@@ -1,0 +1,16 @@
+cbeta_id: N65n0033
+title: 大王统史
+translator: 悟醒译
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0031-38 藏外 N63-70
+  path:
+    - 22 南传大藏经部类
+    - N0031-38 藏外 N63-70
+  kind: 经
+  source: bulei.txt
+juan_count: 37
+source_xml:
+  - N/N65/N65n0033.xml

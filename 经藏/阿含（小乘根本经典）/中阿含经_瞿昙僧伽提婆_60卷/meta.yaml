@@ -1,0 +1,17 @@
+cbeta_id: T01n0026
+title: 中阿含经
+translator: 东晋 瞿昙僧伽提婆译
+dynasty: 东晋
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0026-94 中阿含经 etc. T01
+  path:
+    - 01 阿含部类
+    - T0026-94 中阿含经 etc. T01
+  kind: 经
+  source: bulei.txt
+juan_count: 60
+source_xml:
+  - T/T01/T01n0026.xml

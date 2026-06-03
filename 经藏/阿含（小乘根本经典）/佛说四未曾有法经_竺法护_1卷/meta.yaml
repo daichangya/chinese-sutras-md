@@ -1,0 +1,18 @@
+cbeta_id: T02n0136
+title: 佛说四未曾有法经
+translator: 西晋 竺法护译
+dynasty: 西晋
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0126-48 增壹阿含经单本
+  path:
+    - 01 阿含部类
+    - T0125-48 增壹阿含经 etc. T02
+    - T0126-48 增壹阿含经单本
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T02/T02n0136.xml

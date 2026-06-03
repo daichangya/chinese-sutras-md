@@ -1,0 +1,16 @@
+cbeta_id: N23n0007
+title: 增支部经典(第8卷)
+translator: 郭哲彰译
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0004-23 经藏 N06-47
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+  kind: 经
+  source: short
+juan_count: 1
+source_xml:
+  - N/N23/N23n0007.xml

@@ -1,0 +1,17 @@
+cbeta_id: T25n1508
+title: 阿含口解十二因缘经
+translator: 后汉 安玄共严佛调译
+dynasty: 后汉
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T1505-08 阿含经论释 T25
+  path:
+    - 01 阿含部类
+    - T1505-08 阿含经论释 T25
+  kind: 疏
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T25/T25n1508.xml

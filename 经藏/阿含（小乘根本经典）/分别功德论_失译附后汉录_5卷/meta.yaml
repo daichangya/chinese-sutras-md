@@ -1,0 +1,16 @@
+cbeta_id: T25n1507
+title: 分别功德论
+translator: 失译附后汉录
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T1505-08 阿含经论释 T25
+  path:
+    - 01 阿含部类
+    - T1505-08 阿含经论释 T25
+  kind: 疏
+  source: bulei.txt
+juan_count: 5
+source_xml:
+  - T/T25/T25n1507.xml

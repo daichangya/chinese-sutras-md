@@ -1,0 +1,17 @@
+cbeta_id: T01n0098
+title: 普法义经
+translator: 后汉 安世高译
+dynasty: 后汉
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0095-98 广义法门经 etc. T01
+  path:
+    - 01 阿含部类
+    - T0095-98 广义法门经 etc. T01
+  kind: 经
+  source: bulei.txt
+juan_count: 1
+source_xml:
+  - T/T01/T01n0098.xml

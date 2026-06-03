@@ -1,0 +1,16 @@
+cbeta_id: N06n0004
+title: 长部经典(第1卷-第14卷)
+translator: 通妙译
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0004-23 经藏 N06-47
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+  kind: 经
+  source: bulei.txt
+juan_count: 14
+source_xml:
+  - N/N06/N06n0004.xml

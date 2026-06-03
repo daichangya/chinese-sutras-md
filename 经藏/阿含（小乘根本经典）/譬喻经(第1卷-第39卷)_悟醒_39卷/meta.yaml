@@ -1,0 +1,17 @@
+cbeta_id: N29n0017
+title: 譬喻经(第1卷-第39卷)
+translator: 悟醒译
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0008-23 小部经典
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+    - N0008-23 小部经典
+  kind: 经
+  source: bulei.txt
+juan_count: 39
+source_xml:
+  - N/N29/N29n0017.xml

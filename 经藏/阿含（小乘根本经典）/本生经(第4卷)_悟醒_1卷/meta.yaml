@@ -1,0 +1,17 @@
+cbeta_id: N33n0018
+title: 本生经(第4卷)
+translator: 悟醒译
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "22"
+  section: 南传大藏经部类
+  group: N0008-23 小部经典
+  path:
+    - 22 南传大藏经部类
+    - N0004-23 经藏 N06-47
+    - N0008-23 小部经典
+  kind: 经
+  source: short
+juan_count: 1
+source_xml:
+  - N/N33/N33n0018.xml

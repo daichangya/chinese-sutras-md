@@ -1,0 +1,18 @@
+cbeta_id: T01n0008
+title: 大坚固婆罗门缘起经
+translator: 宋 施护等译
+dynasty: 宋
+category: 阿含（小乘根本经典）
+bulei:
+  section_code: "01"
+  section: 阿含部类
+  group: T0002-25 长阿含经单本
+  path:
+    - 01 阿含部类
+    - T0001-25 长阿含经 etc. T01
+    - T0002-25 长阿含经单本
+  kind: 经
+  source: bulei.txt
+juan_count: 2
+source_xml:
+  - T/T01/T01n0008.xml
