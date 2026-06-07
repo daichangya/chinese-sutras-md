@@ -109,11 +109,14 @@ npm run corpus:import -- --md-only                # 刷新 SQLite 路径
 
 ### 繁简约定
 
-| 位置 | 繁简 |
-|------|------|
-| 经目目录名、`meta.yaml` 的 title / translator | 简体 |
-| `白話/`、`注释/`、`简体/` | 简体 |
-| `原文/` 卷正文 | 繁体（CBETA 保真） |
+| 位置 | 繁简 | 说明 |
+|------|------|------|
+| 经目目录名、`meta.yaml` 的 title / translator | 简体 | 网站经目与搜索 |
+| `白话/`、`注释/` | 简体 | 入库前可 `corpus:simplify` |
+| `简体/` | 简体 | **SQLite 与网站正文优先读本目录** |
+| `原文/` | 繁体 | CBETA 保真；生成/校验用，入库时无 `简体/` 则 `t2s` |
+
+辞典 `辞典/`、知识图谱 `知识图谱/` 的 JSONL 在 jingxin 导入 SQLite 时统一转为简体。
 
 ### meta.yaml 示例
 
@@ -138,11 +141,14 @@ source_xml:
 npm run corpus:gen
 npm run corpus:gen -- --resume
 
-# 导入 SQLite（VPS 仅需语料 + _index，无需 XML）
+# 推荐：简体层 → 目录/meta 简体化 → 导入 → FTS
+npm run corpus:t2s
+npm run corpus:simplify
 npm run corpus:import
-npm run corpus:import -- --md-only
+npm run corpus:import -- --md-only   # VPS 无 XML 时
+npm run fts:rebuild
 
-# 繁简 / 拼音
+# 繁简 / 拼音（单独执行时）
 npm run corpus:t2s
 npm run corpus:pinyin
 npm run corpus:pinyin -- --script simplified

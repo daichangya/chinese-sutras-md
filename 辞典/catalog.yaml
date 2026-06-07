@@ -1,7 +1,8 @@
 version: 1
-updated_at: 2026-06-03
+updated_at: 2026-06-07
 sources:
   - code: soothill
+    dir_name: 中英佛学辞典
     name_zh: Soothill 中英佛学辞典（headword 中文、释义英文，默认不导入）
     name_en: Soothill-Hodous Dictionary of Chinese Buddhist Terms
     base_url: https://glossaries.dila.edu.tw/glossaries/SHH
@@ -10,6 +11,7 @@ sources:
     parser: dila-tei-soothill
     lang: zh
   - code: dingfubao
+    dir_name: 丁福保佛学大辞典
     name_zh: 丁福保佛学大辞典
     name_en: Ding Fubao Dictionary of Buddhist Studies
     base_url: https://glossaries.dila.edu.tw/glossaries/DFB
@@ -17,7 +19,15 @@ sources:
     zip_filename: dingfubao.dila.tei.p5.xml.zip
     parser: dila-tei-form-def
     lang: zh
+  - code: foguang
+    dir_name: 佛光大辞典
+    name_zh: 佛光大辭典
+    name_en: Fo Guang Buddhist Dictionary
+    license: 佛光山版权（增订版 2023.5.1，部署者自用）
+    parser: mdict
+    lang: zh
   - code: nanshanlu
+    dir_name: 南山律学辞典
     name_zh: 南山律学辞典
     base_url: https://glossaries.dila.edu.tw/glossaries/NSL
     license: CC-BY-SA
@@ -25,24 +35,28 @@ sources:
     parser: dila-tei-form-def
     lang: zh
   - code: mahavyutpatti
+    dir_name: 翻译名义大集
     name_zh: 翻译名义大集
     base_url: https://glossaries.dila.edu.tw/glossaries/MVP
     zip_filename: mahavyutpatti.dila.tei.p5.xml.zip
     parser: dila-tei-mvp
     lang: sa
   - code: pentaglot
+    dir_name: 五体清文鉴
     name_zh: 五体清文鉴
     base_url: https://glossaries.dila.edu.tw/glossaries/PTG
     zip_filename: pentaglot.dila.tei.p5.xml.zip
     parser: dila-tei-pentaglot
     lang: zh
   - code: buddhadatta
+    dir_name: 巴利语辞典
     name_zh: 巴利语辞典（达摩比丘中译）
     base_url: https://glossaries.dila.edu.tw/glossaries/PLC
     zip_filename: pali-chin.dila.tei.p4.xml.zip
     parser: dila-tei-form-def
     lang: zh
   - code: nti
+    dir_name: 汉英佛学辞典
     name_zh: NTI 汉英佛学辞典
     name_en: NTI Buddhist Text Reader Dictionary
     base_url: https://ntireader.org

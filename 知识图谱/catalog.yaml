@@ -1,6 +1,9 @@
 version: 1
-updated_at: 2026-06-03
+updated_at: 2026-06-04
 sources:
   - code: dila_lod
     name_zh: DILA LOD 人物
+    license: CC
+  - code: dila_lod_place
+    name_zh: DILA LOD 地名
     license: CC
